@@ -24,6 +24,5 @@ for link in range(0,51):
         with open('data/'+'page'+str(link+1)+'.html', 'w') as f:
             f.write(str(response.read()))
         time.sleep(10)
-    except urllib.error.HTTPError as err:
-        print(err)
+    except urllib.error.HTTPError:
         print("No page with start "+" found")
