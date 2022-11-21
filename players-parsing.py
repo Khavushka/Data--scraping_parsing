@@ -1,46 +1,34 @@
 import os
 from bs4 import BeautifulSoup
-import pandas as pd
-
-
-data = []
+#import pandas as pd
+import csv
+    
+ 
      
-        
 files = sorted(os.listdir("data"))
 
 for file in files:
-    text = open('data/'+ file, encoding="ISO-8859-1").read()
-    soup = BeautifulSoup(text, 'html.parser')
+    page = open('data/'+ file, encoding="ISO-8859-1").read()
+    soup = BeautifulSoup(page, 'html.parser')    
+    data = [] 
     
-    players = soup.findAll('table', attrs={'id': 'games'})
+    for players in soup.findAll('tr'):
+        if players.find('th', attrs={'data-stat': "week_num"}).text != "Week" and players.find("th", attrs={"data-stat":"week_num"}).text != "":
+            data.append(players)
+
+    csvFile = open("season/players" + file[4:8], "w")    
+    csvWritter = csv.writer(csvFile)
     
-    for play in players:
+    for play in data:
         try:
-            Week = play.find('th', attrs={'class':'right'}).text
-            Day = play.find('td', attrs={'class':'left','data-stat':'game_day_of_week'}).text
+            Week = play.find('th', attrs={'data-stat':'week_num'}).text
+            Day = play.find('td', attrs={'data-stat':'game_day_of_week'}).text
             Date = play.find('td', attrs={'data-stat': 'game_date'}).text
             Winner = play.find('td', attrs={'data-stat': 'winner'}).text
             Loser = play.find('td', attrs={'data-stat': 'loser'}).text
             PtsW = play.find('td', attrs={'data-stat': 'pts_win'}).text
-            PtsL = play.find('td', attrs={'data-stat':'pts_lose'}).text
-            data.append([Week, Day, Date, Winner, Loser, PtsW, PtsL])
+            PtsL = play.find('td', attrs={'data-stat':'pts_lose'}).text 
         except AttributeError:
-            print('Invalid cell')
-
-           
-df = pd.DataFrame(data,columns = ['Week', 'Day', 'Date', 'Winner/tie', 'Loser/tie', 'PtsW', 'PtsL'])
-df.to_csv('players.csv', index=False)
-
-def season():
-    moby = open("players.csv", "r")
-    x = 1
-    for i in moby:
-        if "Week" in str(i) and "Year" not in str(i):
-            title = str('season/'+"season" + str(x) + ".csv")
-            season_chap = open(title, "w")
-            x+=1
-        season_chap.write(i)
-    season_chap.close()
-    moby.close()
-season()
-
+            print('Invalid cell')         
+        df =  (Week, Day, Date, Winner, Loser, PtsW, PtsL)
+        csvWritter.writerow(df)

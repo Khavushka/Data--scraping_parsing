@@ -16,13 +16,13 @@ headers = {
 } 
 
 
-for link in range(0,51):
+for link in range(len(headers)):
     try:
         url = 'https://www.pro-football-reference.com/years/'+str(1970+link)+'/games.htm'
         request = urllib.request.Request( url, None, headers )
         response = urllib.request.urlopen( request )
         with open('data/'+'page'+str(link+1)+'.html', 'w') as f:
-            f.write(str(response.read()))
+            f.write(str(response.read().decode('utf-8')))
         time.sleep(10)
     except urllib.error.HTTPError:
         print("No page with start "+" found")

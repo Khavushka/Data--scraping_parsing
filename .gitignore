@@ -7,3 +7,5 @@ Created on Thu Nov 17 11:43:25 2022
 
 *.csv
 *.html
+*.data
+*.season
