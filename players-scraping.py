@@ -16,7 +16,7 @@ headers = {
 } 
 
 
-for link in range(len(headers)):
+for link in range(1,52):
     try:
         url = 'https://www.pro-football-reference.com/years/'+str(1970+link)+'/games.htm'
         request = urllib.request.Request( url, None, headers )
