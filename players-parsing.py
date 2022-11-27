@@ -1,6 +1,5 @@
 import os
 from bs4 import BeautifulSoup
-#import pandas as pd
 import csv
      
 files = sorted(os.listdir("data"))
@@ -13,10 +12,11 @@ for file in files:
     for players in soup.findAll('tr'):
         if players.find('th', attrs={'data-stat': "week_num"}).text != "Week" and players.find("th", attrs={"data-stat":"week_num"}).text != "":
             data.append(players)
-
+#opdeling i filer
     csvFile = open("season/"+file+".csv", "w")    
     csvWritter = csv.writer(csvFile)
     
+
     for play in data:
         try:
             Week = play.find('th', attrs={'data-stat':'week_num'}).text

@@ -14,11 +14,12 @@ import plotly.express as px
 
 app = dash.Dash(__name__)
 
-names=['winner', 'loser', 'PtsW', 'PtsW']
-path = pd.read_csv('season/page1.html.csv')
+names=['Winner', 'loser', 'PtsW', 'PtsL']
+path = pd.read_csv('players_allInone.csv', names=names)
 
 
-#minwinner = path['table'].min()
+minwinner = path['Winner'].min()
+maxwinner = path['Winner'].max()
 
 app.layout = html.Div([
         html.H1("Project 2: American Football"),
