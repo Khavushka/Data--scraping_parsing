@@ -1,0 +1,2414 @@
+,Week,Day,Date,Time,Winner,Loser,PtsW,PtsL
+0,1,Fri,1970-09-18,11:00PM,Los Angeles Rams,St. Louis Cardinals,34,13
+1,1,Sat,1970-09-19,8:00PM,Chicago Bears,New York Giants,24,16
+2,1,Sun,1970-09-20,1:00PM,Denver Broncos,Buffalo Bills,25,10
+3,1,Sun,1970-09-20,1:00PM,Cincinnati Bengals,Oakland Raiders,31,21
+4,1,Sun,1970-09-20,1:00PM,Dallas Cowboys,Philadelphia Eagles,17,7
+5,1,Sun,1970-09-20,1:00PM,Boston Patriots,Miami Dolphins,27,14
+6,1,Sun,1970-09-20,1:00PM,Houston Oilers,Pittsburgh Steelers,19,7
+7,1,Sun,1970-09-20,1:30PM,Atlanta Falcons,New Orleans Saints,14,3
+8,1,Sun,1970-09-20,2:00PM,Detroit Lions,Green Bay Packers,40,0
+9,1,Sun,1970-09-20,4:00PM,Baltimore Colts,San Diego Chargers,16,14
+10,1,Sun,1970-09-20,4:00PM,Minnesota Vikings,Kansas City Chiefs,27,10
+11,1,Sun,1970-09-20,4:00PM,San Francisco 49ers,Washington Redskins,26,17
+12,1,Mon,1970-09-21,9:00PM,Cleveland Browns,New York Jets,31,21
+13,2,Sun,1970-09-27,1:00PM,Los Angeles Rams,Buffalo Bills,19,0
+14,2,Sun,1970-09-27,1:00PM,Detroit Lions,Cincinnati Bengals,38,3
+15,2,Sun,1970-09-27,1:00PM,New York Jets,Boston Patriots,31,21
+16,2,Sun,1970-09-27,2:00PM,Green Bay Packers,Atlanta Falcons,27,24
+17,2,Sun,1970-09-27,2:00PM,Chicago Bears,Philadelphia Eagles,20,16
+18,2,Sun,1970-09-27,2:00PM,St. Louis Cardinals,Washington Redskins,27,17
+19,2,Sun,1970-09-27,2:00PM,Dallas Cowboys,New York Giants,28,10
+20,2,Sun,1970-09-27,2:00PM,Miami Dolphins,Houston Oilers,20,10
+21,2,Sun,1970-09-27,2:00PM,Minnesota Vikings,New Orleans Saints,26,0
+22,2,Sun,1970-09-27,4:00PM,San Francisco 49ers,Cleveland Browns,34,31
+23,2,Sun,1970-09-27,4:00PM,Denver Broncos,Pittsburgh Steelers,16,13
+24,2,Sun,1970-09-27,4:00PM,San Diego Chargers,Oakland Raiders,27,27
+25,2,Mon,1970-09-28,9:00PM,Kansas City Chiefs,Baltimore Colts,44,24
+26,3,Sat,1970-10-03,8:00PM,Miami Dolphins,Oakland Raiders,20,13
+27,3,Sat,1970-10-03,9:00PM,Cleveland Browns,Pittsburgh Steelers,15,7
+28,3,Sun,1970-10-04,1:00PM,Atlanta Falcons,San Francisco 49ers,21,20
+29,3,Sun,1970-10-04,1:00PM,Buffalo Bills,New York Jets,34,31
+30,3,Sun,1970-10-04,1:00PM,Houston Oilers,Cincinnati Bengals,20,13
+31,3,Sun,1970-10-04,1:00PM,Baltimore Colts,Boston Patriots,14,6
+32,3,Sun,1970-10-04,1:00PM,Washington Redskins,Philadelphia Eagles,33,21
+33,3,Sun,1970-10-04,2:00PM,St. Louis Cardinals,Dallas Cowboys,20,7
+34,3,Sun,1970-10-04,2:00PM,New Orleans Saints,New York Giants,14,10
+35,3,Sun,1970-10-04,4:00PM,Denver Broncos,Kansas City Chiefs,26,13
+36,3,Sun,1970-10-04,4:00PM,Green Bay Packers,Minnesota Vikings,13,10
+37,3,Sun,1970-10-04,4:00PM,Los Angeles Rams,San Diego Chargers,37,10
+38,3,Mon,1970-10-05,9:00PM,Detroit Lions,Chicago Bears,28,14
+39,4,Sat,1970-10-10,8:45PM,Miami Dolphins,New York Jets,20,6
+40,4,Sun,1970-10-11,1:00PM,Pittsburgh Steelers,Buffalo Bills,23,10
+41,4,Sun,1970-10-11,1:00PM,Cleveland Browns,Cincinnati Bengals,30,27
+42,4,Sun,1970-10-11,1:00PM,Washington Redskins,Detroit Lions,31,10
+43,4,Sun,1970-10-11,1:00PM,New York Giants,Philadelphia Eagles,30,23
+44,4,Sun,1970-10-11,2:00PM,Dallas Cowboys,Atlanta Falcons,13,0
+45,4,Sun,1970-10-11,2:00PM,Minnesota Vikings,Chicago Bears,24,0
+46,4,Sun,1970-10-11,2:00PM,St. Louis Cardinals,New Orleans Saints,24,17
+47,4,Sun,1970-10-11,4:00PM,Baltimore Colts,Houston Oilers,24,20
+48,4,Sun,1970-10-11,4:00PM,Oakland Raiders,Denver Broncos,35,23
+49,4,Sun,1970-10-11,4:00PM,Kansas City Chiefs,Boston Patriots,23,10
+50,4,Sun,1970-10-11,4:00PM,San Francisco 49ers,Los Angeles Rams,20,6
+51,4,Mon,1970-10-12,9:00PM,Green Bay Packers,San Diego Chargers,22,20
+52,5,Sun,1970-10-18,1:00PM,Miami Dolphins,Buffalo Bills,33,14
+53,5,Sun,1970-10-18,1:00PM,Detroit Lions,Cleveland Browns,41,24
+54,5,Sun,1970-10-18,1:00PM,Baltimore Colts,New York Jets,29,22
+55,5,Sun,1970-10-18,1:00PM,St. Louis Cardinals,Philadelphia Eagles,35,20
+56,5,Sun,1970-10-18,1:00PM,New York Giants,Boston Patriots,16,0
+57,5,Sun,1970-10-18,2:00PM,San Diego Chargers,Chicago Bears,20,7
+58,5,Sun,1970-10-18,2:00PM,Los Angeles Rams,Green Bay Packers,31,21
+59,5,Sun,1970-10-18,2:00PM,Pittsburgh Steelers,Houston Oilers,7,3
+60,5,Sun,1970-10-18,4:00PM,Denver Broncos,Atlanta Falcons,24,10
+61,5,Sun,1970-10-18,4:00PM,Kansas City Chiefs,Cincinnati Bengals,27,19
+62,5,Sun,1970-10-18,4:00PM,Minnesota Vikings,Dallas Cowboys,54,13
+63,5,Sun,1970-10-18,4:00PM,San Francisco 49ers,New Orleans Saints,20,20
+64,5,Mon,1970-10-19,9:00PM,Oakland Raiders,Washington Redskins,34,20
+65,6,Sun,1970-10-25,1:00PM,Atlanta Falcons,New Orleans Saints,32,14
+66,6,Sun,1970-10-25,1:00PM,Buffalo Bills,New York Jets,10,6
+67,6,Sun,1970-10-25,1:00PM,Washington Redskins,Cincinnati Bengals,20,0
+68,6,Sun,1970-10-25,1:00PM,Cleveland Browns,Miami Dolphins,28,0
+69,6,Sun,1970-10-25,1:00PM,New York Giants,St. Louis Cardinals,35,17
+70,6,Sun,1970-10-25,2:00PM,Detroit Lions,Chicago Bears,16,10
+71,6,Sun,1970-10-25,2:00PM,Baltimore Colts,Boston Patriots,27,3
+72,6,Sun,1970-10-25,2:00PM,Green Bay Packers,Philadelphia Eagles,30,17
+73,6,Sun,1970-10-25,4:00PM,Dallas Cowboys,Kansas City Chiefs,27,16
+74,6,Sun,1970-10-25,4:00PM,San Francisco 49ers,Denver Broncos,19,14
+75,6,Sun,1970-10-25,4:00PM,San Diego Chargers,Houston Oilers,31,31
+76,6,Sun,1970-10-25,4:00PM,Oakland Raiders,Pittsburgh Steelers,31,14
+77,6,Mon,1970-10-26,9:00PM,Minnesota Vikings,Los Angeles Rams,13,3
+78,7,Sun,1970-11-01,1:00PM,Chicago Bears,Atlanta Falcons,23,14
+79,7,Sun,1970-11-01,1:00PM,Buffalo Bills,Boston Patriots,45,10
+80,7,Sun,1970-11-01,1:00PM,San Diego Chargers,Cleveland Browns,27,10
+81,7,Sun,1970-11-01,1:00PM,Minnesota Vikings,Detroit Lions,30,17
+82,7,Sun,1970-11-01,1:00PM,New York Giants,New York Jets,22,10
+83,7,Sun,1970-11-01,2:00PM,Baltimore Colts,Miami Dolphins,35,0
+84,7,Sun,1970-11-01,2:00PM,St. Louis Cardinals,Houston Oilers,44,0
+85,7,Sun,1970-11-01,2:00PM,Dallas Cowboys,Philadelphia Eagles,21,17
+86,7,Sun,1970-11-01,2:00PM,Los Angeles Rams,New Orleans Saints,30,17
+87,7,Sun,1970-11-01,4:00PM,Washington Redskins,Denver Broncos,19,3
+88,7,Sun,1970-11-01,4:00PM,San Francisco 49ers,Green Bay Packers,26,10
+89,7,Sun,1970-11-01,4:00PM,Oakland Raiders,Kansas City Chiefs,17,17
+90,7,Mon,1970-11-02,9:00PM,Pittsburgh Steelers,Cincinnati Bengals,21,10
+91,8,Sun,1970-11-08,1:00PM,Cincinnati Bengals,Buffalo Bills,43,14
+92,8,Sun,1970-11-08,1:00PM,New York Giants,Dallas Cowboys,23,20
+93,8,Sun,1970-11-08,1:00PM,Philadelphia Eagles,Miami Dolphins,24,17
+94,8,Sun,1970-11-08,1:00PM,Minnesota Vikings,Washington Redskins,19,10
+95,8,Sun,1970-11-08,1:00PM,Pittsburgh Steelers,New York Jets,21,17
+96,8,Sun,1970-11-08,2:00PM,San Francisco 49ers,Chicago Bears,37,16
+97,8,Sun,1970-11-08,2:00PM,St. Louis Cardinals,Boston Patriots,31,0
+98,8,Sun,1970-11-08,2:00PM,New Orleans Saints,Detroit Lions,19,17
+99,8,Sun,1970-11-08,2:00PM,Kansas City Chiefs,Houston Oilers,24,9
+100,8,Sun,1970-11-08,4:00PM,Los Angeles Rams,Atlanta Falcons,10,10
+101,8,Sun,1970-11-08,4:00PM,Oakland Raiders,Cleveland Browns,23,20
+102,8,Sun,1970-11-08,4:00PM,San Diego Chargers,Denver Broncos,24,21
+103,8,Mon,1970-11-09,9:00PM,Baltimore Colts,Green Bay Packers,13,10
+104,9,Sun,1970-11-15,1:00PM,Philadelphia Eagles,Atlanta Falcons,13,13
+105,9,Sun,1970-11-15,1:00PM,Cincinnati Bengals,Cleveland Browns,14,10
+106,9,Sun,1970-11-15,1:00PM,Kansas City Chiefs,Pittsburgh Steelers,31,14
+107,9,Sun,1970-11-15,1:00PM,Miami Dolphins,New Orleans Saints,21,10
+108,9,Sun,1970-11-15,1:00PM,San Diego Chargers,Boston Patriots,16,14
+109,9,Sun,1970-11-15,1:00PM,New York Giants,Washington Redskins,35,33
+110,9,Sun,1970-11-15,2:00PM,Baltimore Colts,Buffalo Bills,17,17
+111,9,Sun,1970-11-15,2:00PM,Green Bay Packers,Chicago Bears,20,19
+112,9,Sun,1970-11-15,2:00PM,Minnesota Vikings,Detroit Lions,24,20
+113,9,Sun,1970-11-15,2:00PM,San Francisco 49ers,Houston Oilers,30,20
+114,9,Sun,1970-11-15,3:00PM,Oakland Raiders,Denver Broncos,24,19
+115,9,Sun,1970-11-15,4:00PM,New York Jets,Los Angeles Rams,31,20
+116,9,Mon,1970-11-16,9:00PM,St. Louis Cardinals,Dallas Cowboys,38,0
+117,10,Sun,1970-11-22,1:00PM,Los Angeles Rams,Atlanta Falcons,17,7
+118,10,Sun,1970-11-22,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,34,7
+119,10,Sun,1970-11-22,1:00PM,Cleveland Browns,Houston Oilers,28,14
+120,10,Sun,1970-11-22,1:00PM,Miami Dolphins,Baltimore Colts,34,17
+121,10,Sun,1970-11-22,1:00PM,Dallas Cowboys,Washington Redskins,45,21
+122,10,Sun,1970-11-22,1:00PM,Denver Broncos,New Orleans Saints,31,6
+123,10,Sun,1970-11-22,1:00PM,Detroit Lions,San Francisco 49ers,28,7
+124,10,Sun,1970-11-22,1:00PM,New York Jets,Boston Patriots,17,3
+125,10,Sun,1970-11-22,2:00PM,Chicago Bears,Buffalo Bills,31,13
+126,10,Sun,1970-11-22,2:00PM,Minnesota Vikings,Green Bay Packers,10,3
+127,10,Sun,1970-11-22,4:00PM,Kansas City Chiefs,St. Louis Cardinals,6,6
+128,10,Sun,1970-11-22,4:00PM,Oakland Raiders,San Diego Chargers,20,17
+129,10,Mon,1970-11-23,9:00PM,Philadelphia Eagles,New York Giants,23,20
+130,11,Thu,1970-11-26,12:30PM,Detroit Lions,Oakland Raiders,28,14
+131,11,Thu,1970-11-26,3:30PM,Dallas Cowboys,Green Bay Packers,16,3
+132,11,Sun,1970-11-29,1:00PM,Boston Patriots,Buffalo Bills,14,10
+133,11,Sun,1970-11-29,1:00PM,Cincinnati Bengals,New Orleans Saints,26,6
+134,11,Sun,1970-11-29,1:00PM,Pittsburgh Steelers,Cleveland Browns,28,9
+135,11,Sun,1970-11-29,1:00PM,New York Jets,Minnesota Vikings,20,10
+136,11,Sun,1970-11-29,1:00PM,New York Giants,Washington Redskins,27,24
+137,11,Sun,1970-11-29,2:00PM,Baltimore Colts,Chicago Bears,21,20
+138,11,Sun,1970-11-29,3:00PM,St. Louis Cardinals,Philadelphia Eagles,23,14
+139,11,Sun,1970-11-29,3:00PM,Houston Oilers,Denver Broncos,31,21
+140,11,Sun,1970-11-29,4:00PM,Kansas City Chiefs,San Diego Chargers,26,14
+141,11,Sun,1970-11-29,4:00PM,Los Angeles Rams,San Francisco 49ers,30,13
+142,11,Mon,1970-11-30,9:00PM,Miami Dolphins,Atlanta Falcons,20,7
+143,12,Sat,1970-12-05,1:15PM,Minnesota Vikings,Chicago Bears,16,13
+144,12,Sun,1970-12-06,1:00PM,New York Giants,Buffalo Bills,20,6
+145,12,Sun,1970-12-06,1:00PM,Detroit Lions,St. Louis Cardinals,16,3
+146,12,Sun,1970-12-06,1:00PM,Green Bay Packers,Pittsburgh Steelers,20,12
+147,12,Sun,1970-12-06,1:00PM,Miami Dolphins,Boston Patriots,37,20
+148,12,Sun,1970-12-06,1:00PM,Oakland Raiders,New York Jets,14,13
+149,12,Sun,1970-12-06,2:00PM,Baltimore Colts,Philadelphia Eagles,29,10
+150,12,Sun,1970-12-06,2:00PM,Kansas City Chiefs,Denver Broncos,16,0
+151,12,Sun,1970-12-06,4:00PM,San Francisco 49ers,Atlanta Falcons,24,20
+152,12,Sun,1970-12-06,4:00PM,Cincinnati Bengals,San Diego Chargers,17,14
+153,12,Sun,1970-12-06,4:00PM,Dallas Cowboys,Washington Redskins,34,0
+154,12,Sun,1970-12-06,4:00PM,Los Angeles Rams,New Orleans Saints,34,16
+155,12,Mon,1970-12-07,9:00PM,Cleveland Browns,Houston Oilers,21,10
+156,13,Sat,1970-12-12,1:15PM,Dallas Cowboys,Cleveland Browns,6,2
+157,13,Sat,1970-12-12,4:00PM,Oakland Raiders,Kansas City Chiefs,20,6
+158,13,Sun,1970-12-13,12:00PM,Minnesota Vikings,Boston Patriots,35,14
+159,13,Sun,1970-12-13,1:00PM,Atlanta Falcons,Pittsburgh Steelers,27,16
+160,13,Sun,1970-12-13,1:00PM,Baltimore Colts,Buffalo Bills,20,14
+161,13,Sun,1970-12-13,1:00PM,Washington Redskins,Philadelphia Eagles,24,6
+162,13,Sun,1970-12-13,2:00PM,Chicago Bears,Green Bay Packers,35,17
+163,13,Sun,1970-12-13,2:00PM,Cincinnati Bengals,Houston Oilers,30,20
+164,13,Sun,1970-12-13,2:00PM,New York Giants,St. Louis Cardinals,34,17
+165,13,Sun,1970-12-13,2:00PM,San Francisco 49ers,New Orleans Saints,38,27
+166,13,Sun,1970-12-13,4:00PM,San Diego Chargers,Denver Broncos,17,17
+167,13,Sun,1970-12-13,4:00PM,Miami Dolphins,New York Jets,16,10
+168,13,Mon,1970-12-14,9:00PM,Detroit Lions,Los Angeles Rams,28,23
+169,14,Sat,1970-12-19,3:00PM,Baltimore Colts,New York Jets,35,20
+170,14,Sun,1970-12-20,1:00PM,Minnesota Vikings,Atlanta Falcons,37,7
+171,14,Sun,1970-12-20,1:00PM,Miami Dolphins,Buffalo Bills,45,7
+172,14,Sun,1970-12-20,1:00PM,Cincinnati Bengals,Boston Patriots,45,7
+173,14,Sun,1970-12-20,1:00PM,Washington Redskins,St. Louis Cardinals,28,27
+174,14,Sun,1970-12-20,1:00PM,Detroit Lions,Green Bay Packers,20,0
+175,14,Sun,1970-12-20,1:00PM,Los Angeles Rams,New York Giants,31,3
+176,14,Sun,1970-12-20,1:00PM,Philadelphia Eagles,Pittsburgh Steelers,30,20
+177,14,Sun,1970-12-20,2:00PM,Chicago Bears,New Orleans Saints,24,3
+178,14,Sun,1970-12-20,2:00PM,Dallas Cowboys,Houston Oilers,52,10
+179,14,Sun,1970-12-20,3:00PM,Cleveland Browns,Denver Broncos,27,13
+180,14,Sun,1970-12-20,4:00PM,San Diego Chargers,Kansas City Chiefs,31,13
+181,14,Sun,1970-12-20,4:00PM,San Francisco 49ers,Oakland Raiders,38,7
+182,Division,Sat,1970-12-26,1:30PM,Baltimore Colts,Cincinnati Bengals,17,0
+183,Division,Sat,1970-12-26,3:30PM,Dallas Cowboys,Detroit Lions,5,0
+184,Division,Sun,1970-12-27,1:00PM,San Francisco 49ers,Minnesota Vikings,17,14
+185,Division,Sun,1970-12-27,4:00PM,Oakland Raiders,Miami Dolphins,21,14
+186,ConfChamp,Sun,1971-01-03,2:00PM,Baltimore Colts,Oakland Raiders,27,17
+187,ConfChamp,Sun,1971-01-03,5:00PM,Dallas Cowboys,San Francisco 49ers,17,10
+188,SuperBowl,Sun,1971-01-17,1:50PM,Baltimore Colts,Dallas Cowboys,16,13
+189,1,Sat,1979-09-01,8:00PM,Tampa Bay Buccaneers,Detroit Lions,31,16
+190,1,Sun,1979-09-02,1:00PM,Miami Dolphins,Buffalo Bills,9,7
+191,1,Sun,1979-09-02,1:00PM,Minnesota Vikings,San Francisco 49ers,28,22
+192,1,Sun,1979-09-02,1:00PM,Philadelphia Eagles,New York Giants,23,17
+193,1,Sun,1979-09-02,1:00PM,Houston Oilers,Washington Redskins,29,27
+194,1,Sun,1979-09-02,2:00PM,Atlanta Falcons,New Orleans Saints,40,34
+195,1,Sun,1979-09-02,2:00PM,Chicago Bears,Green Bay Packers,6,3
+196,1,Sun,1979-09-02,2:00PM,Dallas Cowboys,St. Louis Cardinals,22,21
+197,1,Sun,1979-09-02,4:00PM,Denver Broncos,Cincinnati Bengals,10,0
+198,1,Sun,1979-09-02,4:00PM,Cleveland Browns,New York Jets,25,22
+199,1,Sun,1979-09-02,4:00PM,Kansas City Chiefs,Baltimore Colts,14,0
+200,1,Sun,1979-09-02,4:00PM,Oakland Raiders,Los Angeles Rams,24,17
+201,1,Sun,1979-09-02,4:00PM,San Diego Chargers,Seattle Seahawks,33,16
+202,1,Mon,1979-09-03,9:00PM,Pittsburgh Steelers,New England Patriots,16,13
+203,2,Thu,1979-09-06,8:30PM,Los Angeles Rams,Denver Broncos,13,9
+204,2,Sun,1979-09-09,1:00PM,Buffalo Bills,Cincinnati Bengals,51,24
+205,2,Sun,1979-09-09,1:00PM,Chicago Bears,Minnesota Vikings,26,7
+206,2,Sun,1979-09-09,1:00PM,St. Louis Cardinals,New York Giants,27,14
+207,2,Sun,1979-09-09,1:00PM,Green Bay Packers,New Orleans Saints,28,19
+208,2,Sun,1979-09-09,1:00PM,Pittsburgh Steelers,Houston Oilers,38,7
+209,2,Sun,1979-09-09,2:00PM,Tampa Bay Buccaneers,Baltimore Colts,29,26
+210,2,Sun,1979-09-09,2:00PM,Washington Redskins,Detroit Lions,27,24
+211,2,Sun,1979-09-09,4:00PM,Cleveland Browns,Kansas City Chiefs,27,24
+212,2,Sun,1979-09-09,4:00PM,Dallas Cowboys,San Francisco 49ers,21,13
+213,2,Sun,1979-09-09,4:00PM,Miami Dolphins,Seattle Seahawks,19,10
+214,2,Sun,1979-09-09,4:00PM,New England Patriots,New York Jets,56,3
+215,2,Sun,1979-09-09,4:00PM,San Diego Chargers,Oakland Raiders,30,10
+216,2,Mon,1979-09-10,9:00PM,Atlanta Falcons,Philadelphia Eagles,14,10
+217,3,Sun,1979-09-16,1:00PM,Denver Broncos,Atlanta Falcons,20,17
+218,3,Sun,1979-09-16,1:00PM,New England Patriots,Cincinnati Bengals,20,14
+219,3,Sun,1979-09-16,1:00PM,Cleveland Browns,Baltimore Colts,13,10
+220,3,Sun,1979-09-16,1:00PM,New York Jets,Detroit Lions,31,10
+221,3,Sun,1979-09-16,1:00PM,Philadelphia Eagles,New Orleans Saints,26,14
+222,3,Sun,1979-09-16,2:00PM,Tampa Bay Buccaneers,Green Bay Packers,21,10
+223,3,Sun,1979-09-16,2:00PM,Houston Oilers,Kansas City Chiefs,20,6
+224,3,Sun,1979-09-16,2:00PM,Miami Dolphins,Minnesota Vikings,27,12
+225,3,Sun,1979-09-16,4:00PM,San Diego Chargers,Buffalo Bills,27,19
+226,3,Sun,1979-09-16,4:00PM,Dallas Cowboys,Chicago Bears,24,20
+227,3,Sun,1979-09-16,4:00PM,Pittsburgh Steelers,St. Louis Cardinals,24,21
+228,3,Sun,1979-09-16,4:00PM,Seattle Seahawks,Oakland Raiders,27,10
+229,3,Sun,1979-09-16,4:00PM,Los Angeles Rams,San Francisco 49ers,27,24
+230,3,Mon,1979-09-17,9:00PM,Washington Redskins,New York Giants,27,0
+231,4,Sun,1979-09-23,1:00PM,Detroit Lions,Atlanta Falcons,24,23
+232,4,Sun,1979-09-23,1:00PM,Buffalo Bills,New York Jets,46,31
+233,4,Sun,1979-09-23,1:00PM,Houston Oilers,Cincinnati Bengals,30,27
+234,4,Sun,1979-09-23,1:00PM,Pittsburgh Steelers,Baltimore Colts,17,13
+235,4,Sun,1979-09-23,1:00PM,Minnesota Vikings,Green Bay Packers,27,21
+236,4,Sun,1979-09-23,1:00PM,New England Patriots,San Diego Chargers,27,21
+237,4,Sun,1979-09-23,2:00PM,Washington Redskins,St. Louis Cardinals,17,7
+238,4,Sun,1979-09-23,2:00PM,Kansas City Chiefs,Oakland Raiders,35,7
+239,4,Sun,1979-09-23,4:00PM,Miami Dolphins,Chicago Bears,31,16
+240,4,Sun,1979-09-23,4:00PM,Denver Broncos,Seattle Seahawks,37,34
+241,4,Sun,1979-09-23,4:00PM,New Orleans Saints,San Francisco 49ers,30,21
+242,4,Sun,1979-09-23,4:00PM,Philadelphia Eagles,New York Giants,17,13
+243,4,Sun,1979-09-23,4:00PM,Tampa Bay Buccaneers,Los Angeles Rams,21,6
+244,4,Mon,1979-09-24,9:00PM,Cleveland Browns,Dallas Cowboys,26,7
+245,5,Sun,1979-09-30,1:00PM,Washington Redskins,Atlanta Falcons,16,7
+246,5,Sun,1979-09-30,1:00PM,Minnesota Vikings,Detroit Lions,13,10
+247,5,Sun,1979-09-30,1:00PM,New York Jets,Miami Dolphins,33,27
+248,5,Sun,1979-09-30,1:00PM,New Orleans Saints,New York Giants,24,14
+249,5,Sun,1979-09-30,1:00PM,Philadelphia Eagles,Pittsburgh Steelers,17,14
+250,5,Sun,1979-09-30,2:00PM,Buffalo Bills,Baltimore Colts,31,13
+251,5,Sun,1979-09-30,2:00PM,Tampa Bay Buccaneers,Chicago Bears,17,13
+252,5,Sun,1979-09-30,2:00PM,Houston Oilers,Cleveland Browns,31,10
+253,5,Sun,1979-09-30,4:00PM,Dallas Cowboys,Cincinnati Bengals,38,13
+254,5,Sun,1979-09-30,4:00PM,Los Angeles Rams,St. Louis Cardinals,21,0
+255,5,Sun,1979-09-30,4:00PM,Oakland Raiders,Denver Broncos,27,3
+256,5,Sun,1979-09-30,4:00PM,Kansas City Chiefs,Seattle Seahawks,24,6
+257,5,Sun,1979-09-30,4:00PM,San Diego Chargers,San Francisco 49ers,31,9
+258,5,Mon,1979-10-01,9:00PM,Green Bay Packers,New England Patriots,27,14
+259,6,Sun,1979-10-07,1:00PM,Atlanta Falcons,Green Bay Packers,25,7
+260,6,Sun,1979-10-07,1:00PM,Chicago Bears,Buffalo Bills,7,0
+261,6,Sun,1979-10-07,1:00PM,Kansas City Chiefs,Cincinnati Bengals,10,7
+262,6,Sun,1979-10-07,1:00PM,New England Patriots,Detroit Lions,24,17
+263,6,Sun,1979-10-07,1:00PM,New York Giants,Tampa Bay Buccaneers,17,14
+264,6,Sun,1979-10-07,1:00PM,Philadelphia Eagles,Washington Redskins,28,17
+265,6,Sun,1979-10-07,2:00PM,St. Louis Cardinals,Houston Oilers,24,17
+266,6,Sun,1979-10-07,4:00PM,Pittsburgh Steelers,Cleveland Browns,51,35
+267,6,Sun,1979-10-07,4:00PM,Baltimore Colts,New York Jets,10,8
+268,6,Sun,1979-10-07,4:00PM,Dallas Cowboys,Minnesota Vikings,36,20
+269,6,Sun,1979-10-07,4:00PM,Denver Broncos,San Diego Chargers,7,0
+270,6,Sun,1979-10-07,4:00PM,Los Angeles Rams,New Orleans Saints,35,17
+271,6,Sun,1979-10-07,5:00PM,Seattle Seahawks,San Francisco 49ers,35,24
+272,6,Mon,1979-10-08,9:00PM,Oakland Raiders,Miami Dolphins,13,3
+273,7,Sun,1979-10-14,1:00PM,Miami Dolphins,Buffalo Bills,17,7
+274,7,Sun,1979-10-14,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,34,10
+275,7,Sun,1979-10-14,1:00PM,Washington Redskins,Cleveland Browns,13,9
+276,7,Sun,1979-10-14,1:00PM,Philadelphia Eagles,St. Louis Cardinals,24,20
+277,7,Sun,1979-10-14,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,42,14
+278,7,Sun,1979-10-14,1:00PM,New York Giants,San Francisco 49ers,32,16
+279,7,Sun,1979-10-14,2:00PM,New England Patriots,Chicago Bears,27,7
+280,7,Sun,1979-10-14,2:00PM,Houston Oilers,Baltimore Colts,28,16
+281,7,Sun,1979-10-14,4:00PM,Oakland Raiders,Atlanta Falcons,50,19
+282,7,Sun,1979-10-14,4:00PM,Denver Broncos,Kansas City Chiefs,24,10
+283,7,Sun,1979-10-14,4:00PM,Green Bay Packers,Detroit Lions,24,16
+284,7,Sun,1979-10-14,4:00PM,San Diego Chargers,Seattle Seahawks,20,10
+285,7,Sun,1979-10-14,9:00PM,Dallas Cowboys,Los Angeles Rams,30,6
+286,7,Mon,1979-10-15,9:00PM,New York Jets,Minnesota Vikings,14,7
+287,8,Sun,1979-10-21,1:00PM,Baltimore Colts,Buffalo Bills,14,13
+288,8,Sun,1979-10-21,1:00PM,Cleveland Browns,Cincinnati Bengals,28,27
+289,8,Sun,1979-10-21,1:00PM,Tampa Bay Buccaneers,Green Bay Packers,21,3
+290,8,Sun,1979-10-21,1:00PM,New England Patriots,Miami Dolphins,28,13
+291,8,Sun,1979-10-21,1:00PM,New York Jets,Oakland Raiders,28,19
+292,8,Sun,1979-10-21,1:00PM,Washington Redskins,Philadelphia Eagles,17,7
+293,8,Sun,1979-10-21,2:00PM,Minnesota Vikings,Chicago Bears,30,27
+294,8,Sun,1979-10-21,2:00PM,Dallas Cowboys,St. Louis Cardinals,22,13
+295,8,Sun,1979-10-21,2:00PM,New Orleans Saints,Detroit Lions,17,7
+296,8,Sun,1979-10-21,4:00PM,San Francisco 49ers,Atlanta Falcons,20,15
+297,8,Sun,1979-10-21,4:00PM,New York Giants,Kansas City Chiefs,21,17
+298,8,Sun,1979-10-21,4:00PM,Seattle Seahawks,Houston Oilers,34,14
+299,8,Sun,1979-10-21,4:00PM,San Diego Chargers,Los Angeles Rams,40,16
+300,8,Mon,1979-10-22,9:00PM,Pittsburgh Steelers,Denver Broncos,42,7
+301,9,Thu,1979-10-25,9:00PM,Oakland Raiders,San Diego Chargers,45,22
+302,9,Sun,1979-10-28,1:00PM,Buffalo Bills,Detroit Lions,20,17
+303,9,Sun,1979-10-28,1:00PM,Pittsburgh Steelers,Dallas Cowboys,14,3
+304,9,Sun,1979-10-28,1:00PM,New Orleans Saints,Washington Redskins,14,10
+305,9,Sun,1979-10-28,1:00PM,Houston Oilers,New York Jets,27,24
+306,9,Sun,1979-10-28,2:00PM,Cleveland Browns,St. Louis Cardinals,38,20
+307,9,Sun,1979-10-28,2:00PM,Baltimore Colts,New England Patriots,31,26
+308,9,Sun,1979-10-28,2:00PM,Tampa Bay Buccaneers,Minnesota Vikings,12,10
+309,9,Sun,1979-10-28,4:00PM,Chicago Bears,San Francisco 49ers,28,27
+310,9,Sun,1979-10-28,4:00PM,Cincinnati Bengals,Philadelphia Eagles,37,13
+311,9,Sun,1979-10-28,4:00PM,Denver Broncos,Kansas City Chiefs,20,3
+312,9,Sun,1979-10-28,4:00PM,Miami Dolphins,Green Bay Packers,27,7
+313,9,Sun,1979-10-28,4:00PM,New York Giants,Los Angeles Rams,20,14
+314,9,Mon,1979-10-29,9:00PM,Seattle Seahawks,Atlanta Falcons,31,28
+315,10,Sun,1979-11-04,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,17,14
+316,10,Sun,1979-11-04,1:00PM,New England Patriots,Buffalo Bills,26,6
+317,10,Sun,1979-11-04,1:00PM,Cleveland Browns,Philadelphia Eagles,24,19
+318,10,Sun,1979-11-04,1:00PM,Dallas Cowboys,New York Giants,16,14
+319,10,Sun,1979-11-04,1:00PM,Pittsburgh Steelers,Washington Redskins,38,7
+320,10,Sun,1979-11-04,2:00PM,Baltimore Colts,Cincinnati Bengals,38,28
+321,10,Sun,1979-11-04,2:00PM,St. Louis Cardinals,Minnesota Vikings,37,7
+322,10,Sun,1979-11-04,2:00PM,San Diego Chargers,Kansas City Chiefs,20,14
+323,10,Sun,1979-11-04,4:00PM,Chicago Bears,Detroit Lions,35,7
+324,10,Sun,1979-11-04,4:00PM,Denver Broncos,New Orleans Saints,10,3
+325,10,Sun,1979-11-04,4:00PM,New York Jets,Green Bay Packers,27,22
+326,10,Sun,1979-11-04,4:00PM,Oakland Raiders,San Francisco 49ers,23,10
+327,10,Sun,1979-11-04,4:00PM,Los Angeles Rams,Seattle Seahawks,24,0
+328,10,Mon,1979-11-05,9:00PM,Houston Oilers,Miami Dolphins,9,6
+329,11,Sun,1979-11-11,1:00PM,Buffalo Bills,New York Jets,14,12
+330,11,Sun,1979-11-11,1:00PM,San Diego Chargers,Cincinnati Bengals,26,24
+331,11,Sun,1979-11-11,1:00PM,Seattle Seahawks,Cleveland Browns,29,24
+332,11,Sun,1979-11-11,1:00PM,Miami Dolphins,Baltimore Colts,19,0
+333,11,Sun,1979-11-11,1:00PM,Washington Redskins,St. Louis Cardinals,30,28
+334,11,Sun,1979-11-11,1:00PM,Tampa Bay Buccaneers,Detroit Lions,16,14
+335,11,Sun,1979-11-11,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,30,3
+336,11,Sun,1979-11-11,1:00PM,Houston Oilers,Oakland Raiders,31,17
+337,11,Sun,1979-11-11,2:00PM,Chicago Bears,Los Angeles Rams,27,23
+338,11,Sun,1979-11-11,2:00PM,Green Bay Packers,Minnesota Vikings,19,7
+339,11,Sun,1979-11-11,2:00PM,New Orleans Saints,San Francisco 49ers,31,20
+340,11,Sun,1979-11-11,4:00PM,New York Giants,Atlanta Falcons,24,3
+341,11,Sun,1979-11-11,4:00PM,Denver Broncos,New England Patriots,45,10
+342,11,Mon,1979-11-12,9:00PM,Philadelphia Eagles,Dallas Cowboys,31,21
+343,12,Sun,1979-11-18,1:00PM,Buffalo Bills,Green Bay Packers,19,12
+344,12,Sun,1979-11-18,1:00PM,Chicago Bears,New York Jets,23,13
+345,12,Sun,1979-11-18,1:00PM,Cleveland Browns,Miami Dolphins,30,24
+346,12,Sun,1979-11-18,1:00PM,New England Patriots,Baltimore Colts,50,21
+347,12,Sun,1979-11-18,1:00PM,Philadelphia Eagles,St. Louis Cardinals,16,13
+348,12,Sun,1979-11-18,1:00PM,Washington Redskins,Dallas Cowboys,34,20
+349,12,Sun,1979-11-18,2:00PM,Minnesota Vikings,Detroit Lions,14,7
+350,12,Sun,1979-11-18,4:00PM,Houston Oilers,Cincinnati Bengals,42,21
+351,12,Sun,1979-11-18,4:00PM,Denver Broncos,San Francisco 49ers,38,28
+352,12,Sun,1979-11-18,4:00PM,Kansas City Chiefs,Oakland Raiders,24,21
+353,12,Sun,1979-11-18,4:00PM,Seattle Seahawks,New Orleans Saints,38,24
+354,12,Sun,1979-11-18,4:00PM,Tampa Bay Buccaneers,New York Giants,31,3
+355,12,Sun,1979-11-18,4:00PM,San Diego Chargers,Pittsburgh Steelers,35,7
+356,12,Mon,1979-11-19,9:00PM,Los Angeles Rams,Atlanta Falcons,20,14
+357,13,Thu,1979-11-22,12:30PM,Detroit Lions,Chicago Bears,20,0
+358,13,Thu,1979-11-22,4:00PM,Houston Oilers,Dallas Cowboys,30,24
+359,13,Sun,1979-11-25,1:00PM,New Orleans Saints,Atlanta Falcons,37,6
+360,13,Sun,1979-11-25,1:00PM,Buffalo Bills,New England Patriots,16,13
+361,13,Sun,1979-11-25,1:00PM,Cincinnati Bengals,St. Louis Cardinals,34,28
+362,13,Sun,1979-11-25,1:00PM,Pittsburgh Steelers,Cleveland Browns,33,30
+363,13,Sun,1979-11-25,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,23,22
+364,13,Sun,1979-11-25,1:00PM,New York Giants,Washington Redskins,14,6
+365,13,Sun,1979-11-25,2:00PM,Philadelphia Eagles,Green Bay Packers,21,10
+366,13,Sun,1979-11-25,4:00PM,Miami Dolphins,Baltimore Colts,28,24
+367,13,Sun,1979-11-25,4:00PM,Oakland Raiders,Denver Broncos,14,10
+368,13,Sun,1979-11-25,4:00PM,San Diego Chargers,Kansas City Chiefs,28,7
+369,13,Sun,1979-11-25,4:00PM,Los Angeles Rams,San Francisco 49ers,26,20
+370,13,Mon,1979-11-26,9:00PM,Seattle Seahawks,New York Jets,30,7
+371,14,Thu,1979-11-29,8:30PM,Miami Dolphins,New England Patriots,39,24
+372,14,Sun,1979-12-02,1:00PM,Denver Broncos,Buffalo Bills,19,16
+373,14,Sun,1979-12-02,1:00PM,Chicago Bears,Tampa Bay Buccaneers,14,0
+374,14,Sun,1979-12-02,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,37,17
+375,14,Sun,1979-12-02,1:00PM,Cleveland Browns,Houston Oilers,14,7
+376,14,Sun,1979-12-02,1:00PM,New York Jets,Baltimore Colts,30,17
+377,14,Sun,1979-12-02,1:00PM,Philadelphia Eagles,Detroit Lions,44,7
+378,14,Sun,1979-12-02,1:00PM,Washington Redskins,Green Bay Packers,38,21
+379,14,Sun,1979-12-02,2:00PM,St. Louis Cardinals,San Francisco 49ers,13,10
+380,14,Sun,1979-12-02,2:00PM,Kansas City Chiefs,Seattle Seahawks,37,21
+381,14,Sun,1979-12-02,4:00PM,Atlanta Falcons,San Diego Chargers,28,26
+382,14,Sun,1979-12-02,4:00PM,Dallas Cowboys,New York Giants,28,7
+383,14,Sun,1979-12-02,4:00PM,Los Angeles Rams,Minnesota Vikings,27,21
+384,14,Mon,1979-12-03,9:00PM,Oakland Raiders,New Orleans Saints,42,35
+385,15,Sat,1979-12-08,12:30PM,Dallas Cowboys,Philadelphia Eagles,24,17
+386,15,Sat,1979-12-08,4:00PM,Seattle Seahawks,Denver Broncos,28,23
+387,15,Sun,1979-12-09,1:00PM,Los Angeles Rams,Atlanta Falcons,34,13
+388,15,Sun,1979-12-09,1:00PM,Chicago Bears,Green Bay Packers,15,14
+389,15,Sun,1979-12-09,1:00PM,Washington Redskins,Cincinnati Bengals,28,14
+390,15,Sun,1979-12-09,1:00PM,St. Louis Cardinals,New York Giants,29,20
+391,15,Sun,1979-12-09,1:00PM,Miami Dolphins,Detroit Lions,28,10
+392,15,Sun,1979-12-09,2:00PM,Minnesota Vikings,Buffalo Bills,10,3
+393,15,Sun,1979-12-09,2:00PM,Kansas City Chiefs,Baltimore Colts,10,7
+394,15,Sun,1979-12-09,4:00PM,Oakland Raiders,Cleveland Browns,19,14
+395,15,Sun,1979-12-09,4:00PM,San Diego Chargers,New Orleans Saints,35,0
+396,15,Sun,1979-12-09,4:00PM,New York Jets,New England Patriots,27,26
+397,15,Sun,1979-12-09,4:00PM,San Francisco 49ers,Tampa Bay Buccaneers,23,7
+398,15,Mon,1979-12-10,9:00PM,Houston Oilers,Pittsburgh Steelers,20,17
+399,16,Sat,1979-12-15,12:30PM,New York Jets,Miami Dolphins,27,24
+400,16,Sat,1979-12-15,4:00PM,Green Bay Packers,Detroit Lions,18,13
+401,16,Sun,1979-12-16,1:00PM,Atlanta Falcons,San Francisco 49ers,31,21
+402,16,Sun,1979-12-16,1:00PM,Pittsburgh Steelers,Buffalo Bills,28,0
+403,16,Sun,1979-12-16,1:00PM,Cincinnati Bengals,Cleveland Browns,16,12
+404,16,Sun,1979-12-16,1:00PM,Baltimore Colts,New York Giants,31,7
+405,16,Sun,1979-12-16,1:00PM,Tampa Bay Buccaneers,Kansas City Chiefs,3,0
+406,16,Sun,1979-12-16,1:00PM,New England Patriots,Minnesota Vikings,27,23
+407,16,Sun,1979-12-16,2:00PM,Chicago Bears,St. Louis Cardinals,42,6
+408,16,Sun,1979-12-16,4:00PM,Dallas Cowboys,Washington Redskins,35,34
+409,16,Sun,1979-12-16,4:00PM,New Orleans Saints,Los Angeles Rams,29,14
+410,16,Sun,1979-12-16,4:00PM,Philadelphia Eagles,Houston Oilers,26,20
+411,16,Sun,1979-12-16,4:00PM,Seattle Seahawks,Oakland Raiders,29,24
+412,16,Mon,1979-12-17,9:00PM,San Diego Chargers,Denver Broncos,17,7
+413,WildCard,Sun,1979-12-23,12:30PM,Philadelphia Eagles,Chicago Bears,27,17
+414,WildCard,Sun,1979-12-23,4:00PM,Houston Oilers,Denver Broncos,13,7
+415,Division,Sat,1979-12-29,12:30PM,Tampa Bay Buccaneers,Philadelphia Eagles,24,17
+416,Division,Sat,1979-12-29,4:00PM,Houston Oilers,San Diego Chargers,17,14
+417,Division,Sun,1979-12-30,12:30PM,Pittsburgh Steelers,Miami Dolphins,34,14
+418,Division,Sun,1979-12-30,4:00PM,Los Angeles Rams,Dallas Cowboys,21,19
+419,ConfChamp,Sun,1980-01-06,1:00PM,Pittsburgh Steelers,Houston Oilers,27,13
+420,ConfChamp,Sun,1980-01-06,5:00PM,Los Angeles Rams,Tampa Bay Buccaneers,9,0
+421,SuperBowl,Sun,1980-01-20,6:00PM,Pittsburgh Steelers,Los Angeles Rams,31,19
+422,1,Sun,1980-09-07,1:00PM,Minnesota Vikings,Atlanta Falcons,24,23
+423,1,Sun,1980-09-07,1:00PM,Buffalo Bills,Miami Dolphins,17,7
+424,1,Sun,1980-09-07,1:00PM,Green Bay Packers,Chicago Bears,12,6
+425,1,Sun,1980-09-07,1:00PM,Tampa Bay Buccaneers,Cincinnati Bengals,17,12
+426,1,Sun,1980-09-07,1:00PM,New England Patriots,Cleveland Browns,34,17
+427,1,Sun,1980-09-07,1:00PM,New York Giants,St. Louis Cardinals,41,35
+428,1,Sun,1980-09-07,1:00PM,San Francisco 49ers,New Orleans Saints,26,23
+429,1,Sun,1980-09-07,1:00PM,Pittsburgh Steelers,Houston Oilers,31,17
+430,1,Sun,1980-09-07,4:00PM,Baltimore Colts,New York Jets,17,14
+431,1,Sun,1980-09-07,4:00PM,Philadelphia Eagles,Denver Broncos,27,6
+432,1,Sun,1980-09-07,4:00PM,Detroit Lions,Los Angeles Rams,41,20
+433,1,Sun,1980-09-07,4:00PM,Oakland Raiders,Kansas City Chiefs,27,14
+434,1,Sun,1980-09-07,4:00PM,San Diego Chargers,Seattle Seahawks,34,13
+435,1,Mon,1980-09-08,9:00PM,Dallas Cowboys,Washington Redskins,17,3
+436,2,Thu,1980-09-11,9:00PM,Tampa Bay Buccaneers,Los Angeles Rams,10,9
+437,2,Sun,1980-09-14,1:00PM,Atlanta Falcons,New England Patriots,37,21
+438,2,Sun,1980-09-14,1:00PM,Buffalo Bills,New York Jets,20,10
+439,2,Sun,1980-09-14,1:00PM,Philadelphia Eagles,Minnesota Vikings,42,7
+440,2,Sun,1980-09-14,2:00PM,Chicago Bears,New Orleans Saints,22,3
+441,2,Sun,1980-09-14,2:00PM,Pittsburgh Steelers,Baltimore Colts,20,17
+442,2,Sun,1980-09-14,2:00PM,Detroit Lions,Green Bay Packers,29,7
+443,2,Sun,1980-09-14,2:00PM,Seattle Seahawks,Kansas City Chiefs,17,16
+444,2,Sun,1980-09-14,4:00PM,Miami Dolphins,Cincinnati Bengals,17,16
+445,2,Sun,1980-09-14,4:00PM,San Francisco 49ers,St. Louis Cardinals,24,21
+446,2,Sun,1980-09-14,4:00PM,Denver Broncos,Dallas Cowboys,41,20
+447,2,Sun,1980-09-14,4:00PM,Washington Redskins,New York Giants,23,21
+448,2,Sun,1980-09-14,4:00PM,San Diego Chargers,Oakland Raiders,30,24
+449,2,Mon,1980-09-15,9:00PM,Houston Oilers,Cleveland Browns,16,7
+450,3,Sun,1980-09-21,1:00PM,Miami Dolphins,Atlanta Falcons,20,17
+451,3,Sun,1980-09-21,1:00PM,Minnesota Vikings,Chicago Bears,34,14
+452,3,Sun,1980-09-21,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,30,28
+453,3,Sun,1980-09-21,1:00PM,Cleveland Browns,Kansas City Chiefs,20,13
+454,3,Sun,1980-09-21,1:00PM,Detroit Lions,St. Louis Cardinals,20,7
+455,3,Sun,1980-09-21,1:00PM,San Francisco 49ers,New York Jets,37,27
+456,3,Sun,1980-09-21,2:00PM,Buffalo Bills,New Orleans Saints,35,26
+457,3,Sun,1980-09-21,2:00PM,Houston Oilers,Baltimore Colts,21,16
+458,3,Sun,1980-09-21,4:00PM,Dallas Cowboys,Tampa Bay Buccaneers,28,17
+459,3,Sun,1980-09-21,4:00PM,San Diego Chargers,Denver Broncos,30,13
+460,3,Sun,1980-09-21,4:00PM,Los Angeles Rams,Green Bay Packers,51,21
+461,3,Sun,1980-09-21,4:00PM,New England Patriots,Seattle Seahawks,37,31
+462,3,Sun,1980-09-21,4:00PM,Oakland Raiders,Washington Redskins,24,21
+463,3,Mon,1980-09-22,9:00PM,Philadelphia Eagles,New York Giants,35,3
+464,4,Sun,1980-09-28,1:00PM,Buffalo Bills,Oakland Raiders,24,7
+465,4,Sun,1980-09-28,1:00PM,Pittsburgh Steelers,Chicago Bears,38,3
+466,4,Sun,1980-09-28,1:00PM,Houston Oilers,Cincinnati Bengals,13,10
+467,4,Sun,1980-09-28,1:00PM,Cleveland Browns,Tampa Bay Buccaneers,34,27
+468,4,Sun,1980-09-28,1:00PM,Dallas Cowboys,Green Bay Packers,28,7
+469,4,Sun,1980-09-28,1:00PM,Detroit Lions,Minnesota Vikings,27,7
+470,4,Sun,1980-09-28,1:00PM,Miami Dolphins,New Orleans Saints,21,16
+471,4,Sun,1980-09-28,1:00PM,Los Angeles Rams,New York Giants,28,7
+472,4,Sun,1980-09-28,2:00PM,St. Louis Cardinals,Philadelphia Eagles,24,14
+473,4,Sun,1980-09-28,4:00PM,Atlanta Falcons,San Francisco 49ers,20,17
+474,4,Sun,1980-09-28,4:00PM,Baltimore Colts,New York Jets,35,21
+475,4,Sun,1980-09-28,4:00PM,San Diego Chargers,Kansas City Chiefs,24,7
+476,4,Sun,1980-09-28,4:00PM,Seattle Seahawks,Washington Redskins,14,0
+477,4,Mon,1980-09-29,9:00PM,New England Patriots,Denver Broncos,23,14
+478,5,Sun,1980-10-05,1:00PM,Atlanta Falcons,Detroit Lions,43,28
+479,5,Sun,1980-10-05,1:00PM,Green Bay Packers,Cincinnati Bengals,14,9
+480,5,Sun,1980-10-05,1:00PM,Denver Broncos,Cleveland Browns,19,16
+481,5,Sun,1980-10-05,1:00PM,Baltimore Colts,Miami Dolphins,30,17
+482,5,Sun,1980-10-05,1:00PM,St. Louis Cardinals,New Orleans Saints,40,7
+483,5,Sun,1980-10-05,1:00PM,Pittsburgh Steelers,Minnesota Vikings,23,17
+484,5,Sun,1980-10-05,1:00PM,New England Patriots,New York Jets,21,11
+485,5,Sun,1980-10-05,1:00PM,Seattle Seahawks,Houston Oilers,26,7
+486,5,Sun,1980-10-05,1:00PM,Philadelphia Eagles,Washington Redskins,24,14
+487,5,Sun,1980-10-05,4:00PM,Buffalo Bills,San Diego Chargers,26,24
+488,5,Sun,1980-10-05,4:00PM,Dallas Cowboys,New York Giants,24,3
+489,5,Sun,1980-10-05,4:00PM,Kansas City Chiefs,Oakland Raiders,31,17
+490,5,Sun,1980-10-05,4:00PM,Los Angeles Rams,San Francisco 49ers,48,26
+491,5,Mon,1980-10-06,9:00PM,Chicago Bears,Tampa Bay Buccaneers,23,0
+492,6,Sun,1980-10-12,1:00PM,Baltimore Colts,Buffalo Bills,17,12
+493,6,Sun,1980-10-12,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,17,16
+494,6,Sun,1980-10-12,1:00PM,Tampa Bay Buccaneers,Green Bay Packers,14,14
+495,6,Sun,1980-10-12,1:00PM,New England Patriots,Miami Dolphins,34,0
+496,6,Sun,1980-10-12,1:00PM,Philadelphia Eagles,New York Giants,31,16
+497,6,Sun,1980-10-12,2:00PM,Minnesota Vikings,Chicago Bears,13,7
+498,6,Sun,1980-10-12,2:00PM,Los Angeles Rams,St. Louis Cardinals,21,13
+499,6,Sun,1980-10-12,2:00PM,Dallas Cowboys,San Francisco 49ers,59,14
+500,6,Sun,1980-10-12,4:00PM,New York Jets,Atlanta Falcons,14,7
+501,6,Sun,1980-10-12,4:00PM,Cleveland Browns,Seattle Seahawks,27,3
+502,6,Sun,1980-10-12,4:00PM,Detroit Lions,New Orleans Saints,24,13
+503,6,Sun,1980-10-12,4:00PM,Kansas City Chiefs,Houston Oilers,21,20
+504,6,Sun,1980-10-12,4:00PM,Oakland Raiders,San Diego Chargers,38,24
+505,6,Mon,1980-10-13,9:00PM,Denver Broncos,Washington Redskins,20,17
+506,7,Sun,1980-10-19,1:00PM,Miami Dolphins,Buffalo Bills,17,14
+507,7,Sun,1980-10-19,1:00PM,Cincinnati Bengals,Minnesota Vikings,14,0
+508,7,Sun,1980-10-19,1:00PM,Cleveland Browns,Green Bay Packers,26,21
+509,7,Sun,1980-10-19,1:00PM,Washington Redskins,St. Louis Cardinals,23,0
+510,7,Sun,1980-10-19,1:00PM,Philadelphia Eagles,Dallas Cowboys,17,10
+511,7,Sun,1980-10-19,1:00PM,Seattle Seahawks,New York Jets,27,17
+512,7,Sun,1980-10-19,2:00PM,Atlanta Falcons,New Orleans Saints,41,14
+513,7,Sun,1980-10-19,2:00PM,Chicago Bears,Detroit Lions,24,7
+514,7,Sun,1980-10-19,2:00PM,New England Patriots,Baltimore Colts,37,21
+515,7,Sun,1980-10-19,2:00PM,Kansas City Chiefs,Denver Broncos,23,17
+516,7,Sun,1980-10-19,4:00PM,San Diego Chargers,New York Giants,44,7
+517,7,Sun,1980-10-19,4:00PM,Houston Oilers,Tampa Bay Buccaneers,20,14
+518,7,Sun,1980-10-19,4:00PM,Los Angeles Rams,San Francisco 49ers,31,17
+519,7,Mon,1980-10-20,9:00PM,Oakland Raiders,Pittsburgh Steelers,45,34
+520,8,Sun,1980-10-26,1:00PM,Atlanta Falcons,Los Angeles Rams,13,10
+521,8,Sun,1980-10-26,1:00PM,Buffalo Bills,New England Patriots,31,13
+522,8,Sun,1980-10-26,1:00PM,Cleveland Browns,Pittsburgh Steelers,27,26
+523,8,Sun,1980-10-26,1:00PM,Denver Broncos,New York Giants,14,9
+524,8,Sun,1980-10-26,1:00PM,Green Bay Packers,Minnesota Vikings,16,3
+525,8,Sun,1980-10-26,1:00PM,Washington Redskins,New Orleans Saints,22,14
+526,8,Sun,1980-10-26,2:00PM,St. Louis Cardinals,Baltimore Colts,17,10
+527,8,Sun,1980-10-26,2:00PM,Kansas City Chiefs,Detroit Lions,20,17
+528,8,Sun,1980-10-26,4:00PM,Philadelphia Eagles,Chicago Bears,17,14
+529,8,Sun,1980-10-26,4:00PM,Houston Oilers,Cincinnati Bengals,23,3
+530,8,Sun,1980-10-26,4:00PM,Oakland Raiders,Seattle Seahawks,33,14
+531,8,Sun,1980-10-26,4:00PM,Tampa Bay Buccaneers,San Francisco 49ers,24,23
+532,8,Sun,1980-10-26,9:00PM,Dallas Cowboys,San Diego Chargers,42,31
+533,8,Mon,1980-10-27,9:00PM,New York Jets,Miami Dolphins,17,14
+534,9,Sun,1980-11-02,1:00PM,Atlanta Falcons,Buffalo Bills,30,14
+535,9,Sun,1980-11-02,1:00PM,San Diego Chargers,Cincinnati Bengals,31,14
+536,9,Sun,1980-11-02,1:00PM,Baltimore Colts,Kansas City Chiefs,31,24
+537,9,Sun,1980-11-02,1:00PM,Detroit Lions,San Francisco 49ers,17,13
+538,9,Sun,1980-11-02,1:00PM,Pittsburgh Steelers,Green Bay Packers,22,20
+539,9,Sun,1980-11-02,1:00PM,Tampa Bay Buccaneers,New York Giants,30,13
+540,9,Sun,1980-11-02,2:00PM,Dallas Cowboys,St. Louis Cardinals,27,24
+541,9,Sun,1980-11-02,4:00PM,Houston Oilers,Denver Broncos,20,16
+542,9,Sun,1980-11-02,4:00PM,Oakland Raiders,Miami Dolphins,16,10
+543,9,Sun,1980-11-02,4:00PM,Minnesota Vikings,Washington Redskins,39,14
+544,9,Sun,1980-11-02,4:00PM,Los Angeles Rams,New Orleans Saints,45,31
+545,9,Sun,1980-11-02,4:00PM,New England Patriots,New York Jets,34,21
+546,9,Sun,1980-11-02,4:00PM,Philadelphia Eagles,Seattle Seahawks,27,20
+547,9,Mon,1980-11-03,9:00PM,Cleveland Browns,Chicago Bears,27,21
+548,10,Sun,1980-11-09,1:00PM,Chicago Bears,Washington Redskins,35,21
+549,10,Sun,1980-11-09,1:00PM,New York Giants,Dallas Cowboys,38,35
+550,10,Sun,1980-11-09,1:00PM,Pittsburgh Steelers,Tampa Bay Buccaneers,24,21
+551,10,Sun,1980-11-09,2:00PM,Atlanta Falcons,St. Louis Cardinals,33,27
+552,10,Sun,1980-11-09,2:00PM,Cleveland Browns,Baltimore Colts,28,27
+553,10,Sun,1980-11-09,2:00PM,Minnesota Vikings,Detroit Lions,34,0
+554,10,Sun,1980-11-09,2:00PM,Green Bay Packers,San Francisco 49ers,23,16
+555,10,Sun,1980-11-09,4:00PM,Buffalo Bills,New York Jets,31,24
+556,10,Sun,1980-11-09,4:00PM,Oakland Raiders,Cincinnati Bengals,28,17
+557,10,Sun,1980-11-09,4:00PM,Denver Broncos,San Diego Chargers,20,13
+558,10,Sun,1980-11-09,4:00PM,Kansas City Chiefs,Seattle Seahawks,31,30
+559,10,Sun,1980-11-09,4:00PM,Miami Dolphins,Los Angeles Rams,35,14
+560,10,Sun,1980-11-09,4:00PM,Philadelphia Eagles,New Orleans Saints,34,21
+561,10,Mon,1980-11-10,9:00PM,Houston Oilers,New England Patriots,38,34
+562,11,Sun,1980-11-16,1:00PM,Atlanta Falcons,New Orleans Saints,31,13
+563,11,Sun,1980-11-16,1:00PM,Buffalo Bills,Cincinnati Bengals,14,0
+564,11,Sun,1980-11-16,1:00PM,Pittsburgh Steelers,Cleveland Browns,16,13
+565,11,Sun,1980-11-16,1:00PM,Baltimore Colts,Detroit Lions,10,9
+566,11,Sun,1980-11-16,1:00PM,New York Giants,Green Bay Packers,27,21
+567,11,Sun,1980-11-16,1:00PM,Los Angeles Rams,New England Patriots,17,14
+568,11,Sun,1980-11-16,1:00PM,Philadelphia Eagles,Washington Redskins,24,0
+569,11,Sun,1980-11-16,2:00PM,Dallas Cowboys,St. Louis Cardinals,31,21
+570,11,Sun,1980-11-16,2:00PM,Minnesota Vikings,Tampa Bay Buccaneers,38,30
+571,11,Sun,1980-11-16,4:00PM,Houston Oilers,Chicago Bears,10,6
+572,11,Sun,1980-11-16,4:00PM,Denver Broncos,New York Jets,31,24
+573,11,Sun,1980-11-16,4:00PM,San Diego Chargers,Kansas City Chiefs,20,7
+574,11,Sun,1980-11-16,4:00PM,Miami Dolphins,San Francisco 49ers,17,13
+575,11,Mon,1980-11-17,9:00PM,Oakland Raiders,Seattle Seahawks,19,17
+576,12,Thu,1980-11-20,8:30PM,San Diego Chargers,Miami Dolphins,27,24
+577,12,Sun,1980-11-23,1:00PM,Atlanta Falcons,Chicago Bears,28,17
+578,12,Sun,1980-11-23,1:00PM,Buffalo Bills,Pittsburgh Steelers,28,13
+579,12,Sun,1980-11-23,1:00PM,Cleveland Browns,Cincinnati Bengals,31,7
+580,12,Sun,1980-11-23,1:00PM,New England Patriots,Baltimore Colts,47,21
+581,12,Sun,1980-11-23,1:00PM,Detroit Lions,Tampa Bay Buccaneers,24,10
+582,12,Sun,1980-11-23,1:00PM,New York Jets,Houston Oilers,31,28
+583,12,Sun,1980-11-23,1:00PM,Philadelphia Eagles,Oakland Raiders,10,7
+584,12,Sun,1980-11-23,2:00PM,Kansas City Chiefs,St. Louis Cardinals,21,13
+585,12,Sun,1980-11-23,2:00PM,Green Bay Packers,Minnesota Vikings,25,13
+586,12,Sun,1980-11-23,4:00PM,Dallas Cowboys,Washington Redskins,14,10
+587,12,Sun,1980-11-23,4:00PM,Denver Broncos,Seattle Seahawks,36,20
+588,12,Sun,1980-11-23,4:00PM,San Francisco 49ers,New York Giants,12,0
+589,12,Mon,1980-11-24,9:00PM,Los Angeles Rams,New Orleans Saints,27,7
+590,13,Thu,1980-11-27,12:30PM,Chicago Bears,Detroit Lions,23,17
+591,13,Thu,1980-11-27,4:00PM,Dallas Cowboys,Seattle Seahawks,51,7
+592,13,Sun,1980-11-30,1:00PM,Atlanta Falcons,Washington Redskins,10,6
+593,13,Sun,1980-11-30,1:00PM,St. Louis Cardinals,New York Giants,23,7
+594,13,Sun,1980-11-30,1:00PM,Pittsburgh Steelers,Miami Dolphins,23,10
+595,13,Sun,1980-11-30,2:00PM,Baltimore Colts,Buffalo Bills,28,24
+596,13,Sun,1980-11-30,2:00PM,Cincinnati Bengals,Kansas City Chiefs,20,6
+597,13,Sun,1980-11-30,2:00PM,Tampa Bay Buccaneers,Green Bay Packers,20,17
+598,13,Sun,1980-11-30,2:00PM,Minnesota Vikings,New Orleans Saints,23,20
+599,13,Sun,1980-11-30,4:00PM,Cleveland Browns,Houston Oilers,17,14
+600,13,Sun,1980-11-30,4:00PM,San Francisco 49ers,New England Patriots,21,17
+601,13,Sun,1980-11-30,4:00PM,Los Angeles Rams,New York Jets,38,13
+602,13,Sun,1980-11-30,4:00PM,San Diego Chargers,Philadelphia Eagles,22,21
+603,13,Mon,1980-12-01,9:00PM,Oakland Raiders,Denver Broncos,9,3
+604,14,Thu,1980-12-04,8:30PM,Houston Oilers,Pittsburgh Steelers,6,0
+605,14,Sun,1980-12-07,1:00PM,Atlanta Falcons,Philadelphia Eagles,20,17
+606,14,Sun,1980-12-07,1:00PM,Buffalo Bills,Los Angeles Rams,10,7
+607,14,Sun,1980-12-07,1:00PM,Cincinnati Bengals,Baltimore Colts,34,33
+608,14,Sun,1980-12-07,1:00PM,Cleveland Browns,New York Jets,17,14
+609,14,Sun,1980-12-07,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,21,10
+610,14,Sun,1980-12-07,1:00PM,Washington Redskins,San Diego Chargers,40,17
+611,14,Sun,1980-12-07,2:00PM,Chicago Bears,Green Bay Packers,61,7
+612,14,Sun,1980-12-07,2:00PM,St. Louis Cardinals,Detroit Lions,24,23
+613,14,Sun,1980-12-07,4:00PM,Dallas Cowboys,Oakland Raiders,19,13
+614,14,Sun,1980-12-07,4:00PM,Kansas City Chiefs,Denver Broncos,31,14
+615,14,Sun,1980-12-07,4:00PM,San Francisco 49ers,New Orleans Saints,38,35
+616,14,Sun,1980-12-07,4:00PM,New York Giants,Seattle Seahawks,27,21
+617,14,Mon,1980-12-08,9:00PM,Miami Dolphins,New England Patriots,16,13
+618,15,Sat,1980-12-13,12:30PM,Washington Redskins,New York Giants,16,13
+619,15,Sat,1980-12-13,4:00PM,San Diego Chargers,Seattle Seahawks,21,14
+620,15,Sun,1980-12-14,1:00PM,Atlanta Falcons,San Francisco 49ers,35,10
+621,15,Sun,1980-12-14,1:00PM,New England Patriots,Buffalo Bills,24,2
+622,15,Sun,1980-12-14,1:00PM,Minnesota Vikings,Cleveland Browns,28,23
+623,15,Sun,1980-12-14,1:00PM,Philadelphia Eagles,St. Louis Cardinals,17,3
+624,15,Sun,1980-12-14,1:00PM,Houston Oilers,Green Bay Packers,22,3
+625,15,Sun,1980-12-14,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,21,16
+626,15,Sun,1980-12-14,1:00PM,New Orleans Saints,New York Jets,21,20
+627,15,Sun,1980-12-14,2:00PM,Cincinnati Bengals,Chicago Bears,17,14
+628,15,Sun,1980-12-14,4:00PM,Miami Dolphins,Baltimore Colts,24,14
+629,15,Sun,1980-12-14,4:00PM,Oakland Raiders,Denver Broncos,24,21
+630,15,Sun,1980-12-14,4:00PM,Detroit Lions,Tampa Bay Buccaneers,27,14
+631,15,Mon,1980-12-15,9:00PM,Los Angeles Rams,Dallas Cowboys,38,14
+632,16,Sat,1980-12-20,12:30PM,New York Jets,Miami Dolphins,24,17
+633,16,Sat,1980-12-20,4:00PM,Chicago Bears,Tampa Bay Buccaneers,14,13
+634,16,Sun,1980-12-21,1:00PM,Cleveland Browns,Cincinnati Bengals,27,24
+635,16,Sun,1980-12-21,1:00PM,Washington Redskins,St. Louis Cardinals,31,7
+636,16,Sun,1980-12-21,1:00PM,Detroit Lions,Green Bay Packers,24,3
+637,16,Sun,1980-12-21,1:00PM,Houston Oilers,Minnesota Vikings,20,16
+638,16,Sun,1980-12-21,1:00PM,New England Patriots,New Orleans Saints,38,27
+639,16,Sun,1980-12-21,1:00PM,Oakland Raiders,New York Giants,33,17
+640,16,Sun,1980-12-21,2:00PM,Kansas City Chiefs,Baltimore Colts,38,28
+641,16,Sun,1980-12-21,4:00PM,Los Angeles Rams,Atlanta Falcons,20,17
+642,16,Sun,1980-12-21,4:00PM,Buffalo Bills,San Francisco 49ers,18,13
+643,16,Sun,1980-12-21,4:00PM,Dallas Cowboys,Philadelphia Eagles,35,27
+644,16,Sun,1980-12-21,4:00PM,Denver Broncos,Seattle Seahawks,25,17
+645,16,Mon,1980-12-22,9:00PM,San Diego Chargers,Pittsburgh Steelers,26,17
+646,WildCard,Sun,1980-12-28,1:30PM,Dallas Cowboys,Los Angeles Rams,34,13
+647,WildCard,Sun,1980-12-28,5:00PM,Oakland Raiders,Houston Oilers,27,7
+648,Division,Sat,1981-01-03,12:30PM,Philadelphia Eagles,Minnesota Vikings,31,16
+649,Division,Sat,1981-01-03,4:00PM,San Diego Chargers,Buffalo Bills,20,14
+650,Division,Sun,1981-01-04,12:30PM,Oakland Raiders,Cleveland Browns,14,12
+651,Division,Sun,1981-01-04,4:00PM,Dallas Cowboys,Atlanta Falcons,30,27
+652,ConfChamp,Sun,1981-01-11,1:00PM,Philadelphia Eagles,Dallas Cowboys,20,7
+653,ConfChamp,Sun,1981-01-11,5:00PM,Oakland Raiders,San Diego Chargers,34,27
+654,SuperBowl,Sun,1981-01-25,6:00PM,Oakland Raiders,Philadelphia Eagles,27,10
+655,1,Sat,1981-09-05,8:00PM,Tampa Bay Buccaneers,Minnesota Vikings,21,13
+656,1,Sun,1981-09-06,1:00PM,Atlanta Falcons,New Orleans Saints,27,0
+657,1,Sun,1981-09-06,1:00PM,Cincinnati Bengals,Seattle Seahawks,27,21
+658,1,Sun,1981-09-06,1:00PM,Baltimore Colts,New England Patriots,29,28
+659,1,Sun,1981-09-06,1:00PM,Miami Dolphins,St. Louis Cardinals,20,7
+660,1,Sun,1981-09-06,1:00PM,Dallas Cowboys,Washington Redskins,26,10
+661,1,Sun,1981-09-06,1:00PM,Detroit Lions,San Francisco 49ers,24,17
+662,1,Sun,1981-09-06,1:00PM,Kansas City Chiefs,Pittsburgh Steelers,37,33
+663,1,Sun,1981-09-06,1:00PM,Philadelphia Eagles,New York Giants,24,10
+664,1,Sun,1981-09-06,2:00PM,Green Bay Packers,Chicago Bears,16,9
+665,1,Sun,1981-09-06,4:00PM,Buffalo Bills,New York Jets,31,0
+666,1,Sun,1981-09-06,4:00PM,Denver Broncos,Oakland Raiders,9,7
+667,1,Sun,1981-09-06,4:00PM,Houston Oilers,Los Angeles Rams,27,20
+668,1,Mon,1981-09-07,9:00PM,San Diego Chargers,Cleveland Browns,44,14
+669,2,Thu,1981-09-10,8:30PM,Miami Dolphins,Pittsburgh Steelers,30,10
+670,2,Sun,1981-09-13,1:00PM,Atlanta Falcons,Green Bay Packers,31,17
+671,2,Sun,1981-09-13,1:00PM,Houston Oilers,Cleveland Browns,9,3
+672,2,Sun,1981-09-13,1:00PM,Kansas City Chiefs,Tampa Bay Buccaneers,19,10
+673,2,Sun,1981-09-13,1:00PM,New Orleans Saints,Los Angeles Rams,23,17
+674,2,Sun,1981-09-13,1:00PM,New York Giants,Washington Redskins,17,7
+675,2,Sun,1981-09-13,2:00PM,Buffalo Bills,Baltimore Colts,35,3
+676,2,Sun,1981-09-13,4:00PM,San Francisco 49ers,Chicago Bears,28,17
+677,2,Sun,1981-09-13,4:00PM,Cincinnati Bengals,New York Jets,31,30
+678,2,Sun,1981-09-13,4:00PM,Dallas Cowboys,St. Louis Cardinals,30,17
+679,2,Sun,1981-09-13,4:00PM,Seattle Seahawks,Denver Broncos,13,10
+680,2,Sun,1981-09-13,4:00PM,San Diego Chargers,Detroit Lions,28,23
+681,2,Sun,1981-09-13,4:00PM,Philadelphia Eagles,New England Patriots,13,3
+682,2,Mon,1981-09-14,9:00PM,Oakland Raiders,Minnesota Vikings,36,10
+683,3,Thu,1981-09-17,8:30PM,Philadelphia Eagles,Buffalo Bills,20,14
+684,3,Sun,1981-09-20,1:00PM,Atlanta Falcons,San Francisco 49ers,34,17
+685,3,Sun,1981-09-20,1:00PM,Cleveland Browns,Cincinnati Bengals,20,17
+686,3,Sun,1981-09-20,1:00PM,St. Louis Cardinals,Washington Redskins,40,30
+687,3,Sun,1981-09-20,1:00PM,Minnesota Vikings,Detroit Lions,26,24
+688,3,Sun,1981-09-20,1:00PM,Miami Dolphins,Houston Oilers,16,10
+689,3,Sun,1981-09-20,1:00PM,Pittsburgh Steelers,New York Jets,38,10
+690,3,Sun,1981-09-20,2:00PM,Chicago Bears,Tampa Bay Buccaneers,28,17
+691,3,Sun,1981-09-20,2:00PM,San Diego Chargers,Kansas City Chiefs,42,31
+692,3,Sun,1981-09-20,4:00PM,Denver Broncos,Baltimore Colts,28,10
+693,3,Sun,1981-09-20,4:00PM,Los Angeles Rams,Green Bay Packers,35,23
+694,3,Sun,1981-09-20,4:00PM,New York Giants,New Orleans Saints,20,7
+695,3,Sun,1981-09-20,4:00PM,Oakland Raiders,Seattle Seahawks,20,10
+696,3,Mon,1981-09-21,9:00PM,Dallas Cowboys,New England Patriots,35,21
+697,4,Sun,1981-09-27,1:00PM,Cleveland Browns,Atlanta Falcons,28,17
+698,4,Sun,1981-09-27,1:00PM,Cincinnati Bengals,Buffalo Bills,27,24
+699,4,Sun,1981-09-27,1:00PM,Detroit Lions,Oakland Raiders,16,0
+700,4,Sun,1981-09-27,1:00PM,Pittsburgh Steelers,New England Patriots,27,21
+701,4,Sun,1981-09-27,1:00PM,New York Jets,Houston Oilers,33,17
+702,4,Sun,1981-09-27,1:00PM,Philadelphia Eagles,Washington Redskins,36,13
+703,4,Sun,1981-09-27,2:00PM,Miami Dolphins,Baltimore Colts,31,28
+704,4,Sun,1981-09-27,2:00PM,Minnesota Vikings,Green Bay Packers,30,13
+705,4,Sun,1981-09-27,4:00PM,Tampa Bay Buccaneers,St. Louis Cardinals,20,10
+706,4,Sun,1981-09-27,4:00PM,Dallas Cowboys,New York Giants,18,10
+707,4,Sun,1981-09-27,4:00PM,Denver Broncos,San Diego Chargers,42,24
+708,4,Sun,1981-09-27,4:00PM,Kansas City Chiefs,Seattle Seahawks,20,14
+709,4,Sun,1981-09-27,4:00PM,San Francisco 49ers,New Orleans Saints,21,14
+710,4,Mon,1981-09-28,9:00PM,Los Angeles Rams,Chicago Bears,24,7
+711,5,Sun,1981-10-04,1:00PM,Buffalo Bills,Baltimore Colts,23,17
+712,5,Sun,1981-10-04,1:00PM,Minnesota Vikings,Chicago Bears,24,21
+713,5,Sun,1981-10-04,1:00PM,St. Louis Cardinals,Dallas Cowboys,20,17
+714,5,Sun,1981-10-04,1:00PM,Green Bay Packers,New York Giants,27,14
+715,5,Sun,1981-10-04,1:00PM,New England Patriots,Kansas City Chiefs,33,17
+716,5,Sun,1981-10-04,1:00PM,San Francisco 49ers,Washington Redskins,30,17
+717,5,Sun,1981-10-04,2:00PM,Houston Oilers,Cincinnati Bengals,17,10
+718,5,Sun,1981-10-04,2:00PM,Pittsburgh Steelers,New Orleans Saints,20,6
+719,5,Sun,1981-10-04,4:00PM,Los Angeles Rams,Cleveland Browns,27,16
+720,5,Sun,1981-10-04,4:00PM,Denver Broncos,Oakland Raiders,17,0
+721,5,Sun,1981-10-04,4:00PM,Tampa Bay Buccaneers,Detroit Lions,28,10
+722,5,Sun,1981-10-04,4:00PM,New York Jets,Miami Dolphins,28,28
+723,5,Sun,1981-10-04,4:00PM,San Diego Chargers,Seattle Seahawks,24,10
+724,5,Mon,1981-10-05,9:00PM,Philadelphia Eagles,Atlanta Falcons,16,13
+725,6,Sun,1981-10-11,1:00PM,Los Angeles Rams,Atlanta Falcons,37,35
+726,6,Sun,1981-10-11,1:00PM,Pittsburgh Steelers,Cleveland Browns,13,7
+727,6,Sun,1981-10-11,1:00PM,Philadelphia Eagles,New Orleans Saints,31,14
+728,6,Sun,1981-10-11,1:00PM,New York Jets,New England Patriots,28,24
+729,6,Sun,1981-10-11,2:00PM,Washington Redskins,Chicago Bears,24,7
+730,6,Sun,1981-10-11,2:00PM,Cincinnati Bengals,Baltimore Colts,41,19
+731,6,Sun,1981-10-11,2:00PM,Tampa Bay Buccaneers,Green Bay Packers,21,10
+732,6,Sun,1981-10-11,2:00PM,Kansas City Chiefs,Oakland Raiders,27,0
+733,6,Sun,1981-10-11,2:00PM,Houston Oilers,Seattle Seahawks,35,17
+734,6,Sun,1981-10-11,4:00PM,New York Giants,St. Louis Cardinals,34,14
+735,6,Sun,1981-10-11,4:00PM,San Francisco 49ers,Dallas Cowboys,45,14
+736,6,Sun,1981-10-11,4:00PM,Denver Broncos,Detroit Lions,27,21
+737,6,Sun,1981-10-11,4:00PM,Minnesota Vikings,San Diego Chargers,33,31
+738,6,Mon,1981-10-12,9:00PM,Buffalo Bills,Miami Dolphins,31,21
+739,7,Sun,1981-10-18,1:00PM,Atlanta Falcons,St. Louis Cardinals,41,20
+740,7,Sun,1981-10-18,1:00PM,New York Jets,Buffalo Bills,33,14
+741,7,Sun,1981-10-18,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,34,7
+742,7,Sun,1981-10-18,1:00PM,Cleveland Browns,New Orleans Saints,20,17
+743,7,Sun,1981-10-18,1:00PM,San Francisco 49ers,Green Bay Packers,13,3
+744,7,Sun,1981-10-18,1:00PM,Miami Dolphins,Washington Redskins,13,10
+745,7,Sun,1981-10-18,1:00PM,Minnesota Vikings,Philadelphia Eagles,35,23
+746,7,Sun,1981-10-18,1:00PM,New England Patriots,Houston Oilers,38,10
+747,7,Sun,1981-10-18,2:00PM,San Diego Chargers,Baltimore Colts,43,14
+748,7,Sun,1981-10-18,4:00PM,Kansas City Chiefs,Denver Broncos,28,14
+749,7,Sun,1981-10-18,4:00PM,New York Giants,Seattle Seahawks,32,0
+750,7,Sun,1981-10-18,4:00PM,Oakland Raiders,Tampa Bay Buccaneers,18,16
+751,7,Sun,1981-10-18,9:00PM,Dallas Cowboys,Los Angeles Rams,29,17
+752,7,Mon,1981-10-19,9:00PM,Detroit Lions,Chicago Bears,48,17
+753,8,Sun,1981-10-25,1:00PM,New York Giants,Atlanta Falcons,27,24
+754,8,Sun,1981-10-25,1:00PM,Buffalo Bills,Denver Broncos,9,7
+755,8,Sun,1981-10-25,1:00PM,Cleveland Browns,Baltimore Colts,42,28
+756,8,Sun,1981-10-25,1:00PM,St. Louis Cardinals,Minnesota Vikings,30,17
+757,8,Sun,1981-10-25,1:00PM,Detroit Lions,Green Bay Packers,31,27
+758,8,Sun,1981-10-25,1:00PM,Washington Redskins,New England Patriots,24,22
+759,8,Sun,1981-10-25,1:00PM,Philadelphia Eagles,Tampa Bay Buccaneers,20,10
+760,8,Sun,1981-10-25,2:00PM,New Orleans Saints,Cincinnati Bengals,17,7
+761,8,Sun,1981-10-25,4:00PM,Chicago Bears,San Diego Chargers,20,17
+762,8,Sun,1981-10-25,4:00PM,Dallas Cowboys,Miami Dolphins,28,27
+763,8,Sun,1981-10-25,4:00PM,Kansas City Chiefs,Oakland Raiders,28,17
+764,8,Sun,1981-10-25,4:00PM,Seattle Seahawks,New York Jets,19,3
+765,8,Sun,1981-10-25,4:00PM,San Francisco 49ers,Los Angeles Rams,20,17
+766,8,Mon,1981-10-26,9:00PM,Pittsburgh Steelers,Houston Oilers,26,13
+767,9,Sun,1981-11-01,1:00PM,Atlanta Falcons,New Orleans Saints,41,10
+768,9,Sun,1981-11-01,1:00PM,Buffalo Bills,Cleveland Browns,22,13
+769,9,Sun,1981-11-01,1:00PM,Tampa Bay Buccaneers,Chicago Bears,20,10
+770,9,Sun,1981-11-01,1:00PM,Cincinnati Bengals,Houston Oilers,34,21
+771,9,Sun,1981-11-01,1:00PM,Miami Dolphins,Baltimore Colts,27,10
+772,9,Sun,1981-11-01,1:00PM,New York Jets,New York Giants,26,7
+773,9,Sun,1981-11-01,1:00PM,San Francisco 49ers,Pittsburgh Steelers,17,14
+774,9,Sun,1981-11-01,2:00PM,Green Bay Packers,Seattle Seahawks,34,24
+775,9,Sun,1981-11-01,4:00PM,Washington Redskins,St. Louis Cardinals,42,21
+776,9,Sun,1981-11-01,4:00PM,Dallas Cowboys,Philadelphia Eagles,17,14
+777,9,Sun,1981-11-01,4:00PM,Los Angeles Rams,Detroit Lions,20,13
+778,9,Sun,1981-11-01,4:00PM,San Diego Chargers,Kansas City Chiefs,22,20
+779,9,Sun,1981-11-01,4:00PM,Oakland Raiders,New England Patriots,27,17
+780,9,Mon,1981-11-02,9:00PM,Denver Broncos,Minnesota Vikings,19,17
+781,10,Sun,1981-11-08,1:00PM,Philadelphia Eagles,St. Louis Cardinals,52,10
+782,10,Sun,1981-11-08,1:00PM,Washington Redskins,Detroit Lions,33,31
+783,10,Sun,1981-11-08,1:00PM,Green Bay Packers,New York Giants,26,24
+784,10,Sun,1981-11-08,1:00PM,Miami Dolphins,New England Patriots,30,27
+785,10,Sun,1981-11-08,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,25,10
+786,10,Sun,1981-11-08,1:00PM,Houston Oilers,Oakland Raiders,17,16
+787,10,Sun,1981-11-08,2:00PM,Chicago Bears,Kansas City Chiefs,16,13
+788,10,Sun,1981-11-08,4:00PM,San Francisco 49ers,Atlanta Falcons,17,14
+789,10,Sun,1981-11-08,4:00PM,Cincinnati Bengals,San Diego Chargers,40,17
+790,10,Sun,1981-11-08,4:00PM,Denver Broncos,Cleveland Browns,23,20
+791,10,Sun,1981-11-08,4:00PM,New York Jets,Baltimore Colts,41,14
+792,10,Sun,1981-11-08,4:00PM,New Orleans Saints,Los Angeles Rams,21,13
+793,10,Sun,1981-11-08,4:00PM,Seattle Seahawks,Pittsburgh Steelers,24,21
+794,10,Mon,1981-11-09,9:00PM,Dallas Cowboys,Buffalo Bills,27,14
+795,11,Sun,1981-11-15,1:00PM,Pittsburgh Steelers,Atlanta Falcons,34,20
+796,11,Sun,1981-11-15,1:00PM,St. Louis Cardinals,Buffalo Bills,24,0
+797,11,Sun,1981-11-15,1:00PM,Green Bay Packers,Chicago Bears,21,17
+798,11,Sun,1981-11-15,1:00PM,Cincinnati Bengals,Los Angeles Rams,24,10
+799,11,Sun,1981-11-15,1:00PM,Philadelphia Eagles,Baltimore Colts,38,13
+800,11,Sun,1981-11-15,1:00PM,Denver Broncos,Tampa Bay Buccaneers,24,7
+801,11,Sun,1981-11-15,1:00PM,Oakland Raiders,Miami Dolphins,33,17
+802,11,Sun,1981-11-15,1:00PM,Minnesota Vikings,New Orleans Saints,20,10
+803,11,Sun,1981-11-15,1:00PM,New York Jets,New England Patriots,17,6
+804,11,Sun,1981-11-15,2:00PM,Kansas City Chiefs,Houston Oilers,23,10
+805,11,Sun,1981-11-15,4:00PM,Cleveland Browns,San Francisco 49ers,15,12
+806,11,Sun,1981-11-15,4:00PM,Detroit Lions,Dallas Cowboys,27,24
+807,11,Sun,1981-11-15,4:00PM,Washington Redskins,New York Giants,30,27
+808,11,Mon,1981-11-16,9:00PM,Seattle Seahawks,San Diego Chargers,44,23
+809,12,Sun,1981-11-22,1:00PM,Buffalo Bills,New England Patriots,20,17
+810,12,Sun,1981-11-22,1:00PM,Detroit Lions,Chicago Bears,23,7
+811,12,Sun,1981-11-22,1:00PM,Cincinnati Bengals,Denver Broncos,38,21
+812,12,Sun,1981-11-22,1:00PM,Pittsburgh Steelers,Cleveland Browns,32,10
+813,12,Sun,1981-11-22,1:00PM,Tampa Bay Buccaneers,Green Bay Packers,37,3
+814,12,Sun,1981-11-22,1:00PM,New Orleans Saints,Houston Oilers,27,24
+815,12,Sun,1981-11-22,1:00PM,New York Giants,Philadelphia Eagles,20,10
+816,12,Sun,1981-11-22,2:00PM,St. Louis Cardinals,Baltimore Colts,35,24
+817,12,Sun,1981-11-22,2:00PM,Kansas City Chiefs,Seattle Seahawks,40,13
+818,12,Sun,1981-11-22,4:00PM,Dallas Cowboys,Washington Redskins,24,10
+819,12,Sun,1981-11-22,4:00PM,New York Jets,Miami Dolphins,16,15
+820,12,Sun,1981-11-22,4:00PM,San Diego Chargers,Oakland Raiders,55,21
+821,12,Sun,1981-11-22,4:00PM,San Francisco 49ers,Los Angeles Rams,33,31
+822,12,Mon,1981-11-23,9:00PM,Atlanta Falcons,Minnesota Vikings,31,30
+823,13,Thu,1981-11-26,12:30PM,Detroit Lions,Kansas City Chiefs,27,10
+824,13,Thu,1981-11-26,4:00PM,Dallas Cowboys,Chicago Bears,10,9
+825,13,Sun,1981-11-29,1:00PM,Buffalo Bills,Washington Redskins,21,14
+826,13,Sun,1981-11-29,1:00PM,Cincinnati Bengals,Cleveland Browns,41,21
+827,13,Sun,1981-11-29,1:00PM,New York Jets,Baltimore Colts,25,0
+828,13,Sun,1981-11-29,1:00PM,St. Louis Cardinals,New England Patriots,27,20
+829,13,Sun,1981-11-29,1:00PM,Green Bay Packers,Minnesota Vikings,35,23
+830,13,Sun,1981-11-29,1:00PM,Pittsburgh Steelers,Los Angeles Rams,24,0
+831,13,Sun,1981-11-29,2:00PM,Tampa Bay Buccaneers,New Orleans Saints,31,14
+832,13,Sun,1981-11-29,4:00PM,Atlanta Falcons,Houston Oilers,31,27
+833,13,Sun,1981-11-29,4:00PM,San Diego Chargers,Denver Broncos,34,17
+834,13,Sun,1981-11-29,4:00PM,San Francisco 49ers,New York Giants,17,10
+835,13,Sun,1981-11-29,4:00PM,Oakland Raiders,Seattle Seahawks,32,31
+836,13,Mon,1981-11-30,9:00PM,Miami Dolphins,Philadelphia Eagles,13,10
+837,14,Thu,1981-12-03,9:00PM,Houston Oilers,Cleveland Browns,17,13
+838,14,Sun,1981-12-06,1:00PM,Chicago Bears,Minnesota Vikings,10,9
+839,14,Sun,1981-12-06,1:00PM,San Francisco 49ers,Cincinnati Bengals,21,3
+840,14,Sun,1981-12-06,1:00PM,St. Louis Cardinals,New Orleans Saints,30,3
+841,14,Sun,1981-12-06,1:00PM,Green Bay Packers,Detroit Lions,31,17
+842,14,Sun,1981-12-06,1:00PM,Miami Dolphins,New England Patriots,24,14
+843,14,Sun,1981-12-06,1:00PM,New York Giants,Los Angeles Rams,10,7
+844,14,Sun,1981-12-06,1:00PM,Washington Redskins,Philadelphia Eagles,15,13
+845,14,Sun,1981-12-06,2:00PM,Dallas Cowboys,Baltimore Colts,37,13
+846,14,Sun,1981-12-06,4:00PM,Tampa Bay Buccaneers,Atlanta Falcons,24,23
+847,14,Sun,1981-12-06,4:00PM,Buffalo Bills,San Diego Chargers,28,27
+848,14,Sun,1981-12-06,4:00PM,Denver Broncos,Kansas City Chiefs,16,13
+849,14,Sun,1981-12-06,4:00PM,Seattle Seahawks,New York Jets,27,23
+850,14,Mon,1981-12-07,9:00PM,Oakland Raiders,Pittsburgh Steelers,30,27
+851,15,Sat,1981-12-12,12:30PM,New York Jets,Cleveland Browns,14,13
+852,15,Sat,1981-12-12,4:00PM,Detroit Lions,Minnesota Vikings,45,7
+853,15,Sun,1981-12-13,1:00PM,Buffalo Bills,New England Patriots,19,10
+854,15,Sun,1981-12-13,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,17,10
+855,15,Sun,1981-12-13,1:00PM,Washington Redskins,Baltimore Colts,38,14
+856,15,Sun,1981-12-13,1:00PM,New York Giants,St. Louis Cardinals,20,10
+857,15,Sun,1981-12-13,1:00PM,Green Bay Packers,New Orleans Saints,35,7
+858,15,Sun,1981-12-13,1:00PM,San Diego Chargers,Tampa Bay Buccaneers,24,23
+859,15,Sun,1981-12-13,2:00PM,Miami Dolphins,Kansas City Chiefs,17,7
+860,15,Sun,1981-12-13,4:00PM,Chicago Bears,Oakland Raiders,23,6
+861,15,Sun,1981-12-13,4:00PM,Dallas Cowboys,Philadelphia Eagles,21,10
+862,15,Sun,1981-12-13,4:00PM,Denver Broncos,Seattle Seahawks,23,13
+863,15,Sun,1981-12-13,4:00PM,San Francisco 49ers,Houston Oilers,28,6
+864,15,Mon,1981-12-14,9:00PM,Los Angeles Rams,Atlanta Falcons,21,16
+865,16,Sat,1981-12-19,12:30PM,New York Giants,Dallas Cowboys,13,10
+866,16,Sat,1981-12-19,4:00PM,Miami Dolphins,Buffalo Bills,16,6
+867,16,Sun,1981-12-20,1:00PM,Chicago Bears,Denver Broncos,35,24
+868,16,Sun,1981-12-20,1:00PM,Philadelphia Eagles,St. Louis Cardinals,38,0
+869,16,Sun,1981-12-20,1:00PM,Tampa Bay Buccaneers,Detroit Lions,20,17
+870,16,Sun,1981-12-20,1:00PM,New York Jets,Green Bay Packers,28,3
+871,16,Sun,1981-12-20,1:00PM,Kansas City Chiefs,Minnesota Vikings,10,6
+872,16,Sun,1981-12-20,2:00PM,Baltimore Colts,New England Patriots,23,21
+873,16,Sun,1981-12-20,2:00PM,San Francisco 49ers,New Orleans Saints,21,17
+874,16,Sun,1981-12-20,4:00PM,Cincinnati Bengals,Atlanta Falcons,30,28
+875,16,Sun,1981-12-20,4:00PM,Seattle Seahawks,Cleveland Browns,42,21
+876,16,Sun,1981-12-20,4:00PM,Houston Oilers,Pittsburgh Steelers,21,20
+877,16,Sun,1981-12-20,4:00PM,Washington Redskins,Los Angeles Rams,30,7
+878,16,Mon,1981-12-21,9:00PM,San Diego Chargers,Oakland Raiders,23,10
+879,WildCard,Sun,1981-12-27,12:00PM,Buffalo Bills,New York Jets,31,27
+880,WildCard,Sun,1981-12-27,3:30PM,New York Giants,Philadelphia Eagles,27,21
+881,Division,Sat,1982-01-02,1:00PM,Dallas Cowboys,Tampa Bay Buccaneers,38,0
+882,Division,Sat,1982-01-02,5:00PM,San Diego Chargers,Miami Dolphins,41,38
+883,Division,Sun,1982-01-03,1:00PM,Cincinnati Bengals,Buffalo Bills,28,21
+884,Division,Sun,1982-01-03,5:00PM,San Francisco 49ers,New York Giants,38,24
+885,ConfChamp,Sun,1982-01-10,1:00PM,Cincinnati Bengals,San Diego Chargers,27,7
+886,ConfChamp,Sun,1982-01-10,4:30PM,San Francisco 49ers,Dallas Cowboys,28,27
+887,SuperBowl,Sun,1982-01-24,4:00PM,San Francisco 49ers,Cincinnati Bengals,26,21
+888,1,Sun,1982-09-12,1:00PM,Atlanta Falcons,New York Giants,16,14
+889,1,Sun,1982-09-12,1:00PM,Buffalo Bills,Kansas City Chiefs,14,9
+890,1,Sun,1982-09-12,1:00PM,Detroit Lions,Chicago Bears,17,10
+891,1,Sun,1982-09-12,1:00PM,Cincinnati Bengals,Houston Oilers,27,6
+892,1,Sun,1982-09-12,1:00PM,St. Louis Cardinals,New Orleans Saints,21,7
+893,1,Sun,1982-09-12,1:00PM,Green Bay Packers,Los Angeles Rams,35,23
+894,1,Sun,1982-09-12,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,17,10
+895,1,Sun,1982-09-12,1:00PM,Washington Redskins,Philadelphia Eagles,37,34
+896,1,Sun,1982-09-12,2:00PM,New England Patriots,Baltimore Colts,24,13
+897,1,Sun,1982-09-12,4:00PM,Cleveland Browns,Seattle Seahawks,21,7
+898,1,Sun,1982-09-12,4:00PM,San Diego Chargers,Denver Broncos,23,3
+899,1,Sun,1982-09-12,4:00PM,Miami Dolphins,New York Jets,45,28
+900,1,Sun,1982-09-12,4:00PM,Los Angeles Raiders,San Francisco 49ers,23,17
+901,1,Mon,1982-09-13,9:00PM,Pittsburgh Steelers,Dallas Cowboys,36,28
+902,2,Thu,1982-09-16,8:30PM,Buffalo Bills,Minnesota Vikings,23,22
+903,2,Sun,1982-09-19,1:00PM,Los Angeles Raiders,Atlanta Falcons,38,14
+904,2,Sun,1982-09-19,1:00PM,New Orleans Saints,Chicago Bears,10,0
+905,2,Sun,1982-09-19,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,26,20
+906,2,Sun,1982-09-19,1:00PM,Philadelphia Eagles,Cleveland Browns,24,21
+907,2,Sun,1982-09-19,1:00PM,Dallas Cowboys,St. Louis Cardinals,24,7
+908,2,Sun,1982-09-19,1:00PM,Kansas City Chiefs,San Diego Chargers,19,12
+909,2,Sun,1982-09-19,1:00PM,New York Jets,New England Patriots,31,7
+910,2,Sun,1982-09-19,4:00PM,Miami Dolphins,Baltimore Colts,24,20
+911,2,Sun,1982-09-19,4:00PM,Denver Broncos,San Francisco 49ers,24,21
+912,2,Sun,1982-09-19,4:00PM,Detroit Lions,Los Angeles Rams,19,14
+913,2,Sun,1982-09-19,4:00PM,Houston Oilers,Seattle Seahawks,23,21
+914,2,Sun,1982-09-19,4:00PM,Washington Redskins,Tampa Bay Buccaneers,21,13
+915,2,Mon,1982-09-20,9:00PM,Green Bay Packers,New York Giants,27,19
+916,11,Sun,1982-11-21,1:00PM,Atlanta Falcons,Los Angeles Rams,34,17
+917,11,Sun,1982-11-21,1:00PM,Miami Dolphins,Buffalo Bills,9,7
+918,11,Sun,1982-11-21,1:00PM,Chicago Bears,Detroit Lions,20,17
+919,11,Sun,1982-11-21,1:00PM,Cincinnati Bengals,Philadelphia Eagles,18,14
+920,11,Sun,1982-11-21,1:00PM,Cleveland Browns,New England Patriots,10,7
+921,11,Sun,1982-11-21,1:00PM,New York Jets,Baltimore Colts,37,0
+922,11,Sun,1982-11-21,1:00PM,Dallas Cowboys,Tampa Bay Buccaneers,14,9
+923,11,Sun,1982-11-21,1:00PM,Green Bay Packers,Minnesota Vikings,26,7
+924,11,Sun,1982-11-21,1:00PM,New Orleans Saints,Kansas City Chiefs,27,17
+925,11,Sun,1982-11-21,1:00PM,Pittsburgh Steelers,Houston Oilers,24,10
+926,11,Sun,1982-11-21,4:00PM,San Francisco 49ers,St. Louis Cardinals,31,20
+927,11,Sun,1982-11-21,4:00PM,Seattle Seahawks,Denver Broncos,17,10
+928,11,Sun,1982-11-21,4:00PM,Washington Redskins,New York Giants,27,17
+929,11,Mon,1982-11-22,9:00PM,Los Angeles Raiders,San Diego Chargers,28,24
+930,12,Thu,1982-11-25,12:00PM,New York Giants,Detroit Lions,13,6
+931,12,Thu,1982-11-25,4:00PM,Dallas Cowboys,Cleveland Browns,31,14
+932,12,Sun,1982-11-28,1:00PM,St. Louis Cardinals,Atlanta Falcons,23,20
+933,12,Sun,1982-11-28,1:00PM,Buffalo Bills,Baltimore Colts,20,0
+934,12,Sun,1982-11-28,1:00PM,Minnesota Vikings,Chicago Bears,35,7
+935,12,Sun,1982-11-28,1:00PM,Cincinnati Bengals,Los Angeles Raiders,31,17
+936,12,Sun,1982-11-28,1:00PM,New York Jets,Green Bay Packers,15,13
+937,12,Sun,1982-11-28,1:00PM,New England Patriots,Houston Oilers,29,21
+938,12,Sun,1982-11-28,1:00PM,Washington Redskins,Philadelphia Eagles,13,9
+939,12,Sun,1982-11-28,4:00PM,San Diego Chargers,Denver Broncos,30,20
+940,12,Sun,1982-11-28,4:00PM,Los Angeles Rams,Kansas City Chiefs,20,14
+941,12,Sun,1982-11-28,4:00PM,New Orleans Saints,San Francisco 49ers,23,20
+942,12,Sun,1982-11-28,4:00PM,Seattle Seahawks,Pittsburgh Steelers,16,0
+943,12,Mon,1982-11-29,9:00PM,Tampa Bay Buccaneers,Miami Dolphins,23,17
+944,13,Thu,1982-12-02,9:00PM,San Francisco 49ers,Los Angeles Rams,30,24
+945,13,Sun,1982-12-05,1:00PM,Green Bay Packers,Buffalo Bills,33,21
+946,13,Sun,1982-12-05,1:00PM,Chicago Bears,New England Patriots,26,13
+947,13,Sun,1982-12-05,1:00PM,San Diego Chargers,Cleveland Browns,30,13
+948,13,Sun,1982-12-05,1:00PM,St. Louis Cardinals,Philadelphia Eagles,23,20
+949,13,Sun,1982-12-05,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,35,14
+950,13,Sun,1982-12-05,1:00PM,Miami Dolphins,Minnesota Vikings,22,14
+951,13,Sun,1982-12-05,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,13,10
+952,13,Sun,1982-12-05,1:00PM,New York Giants,Houston Oilers,17,14
+953,13,Sun,1982-12-05,4:00PM,Atlanta Falcons,Denver Broncos,34,27
+954,13,Sun,1982-12-05,4:00PM,Cincinnati Bengals,Baltimore Colts,20,17
+955,13,Sun,1982-12-05,4:00PM,Dallas Cowboys,Washington Redskins,24,10
+956,13,Sun,1982-12-05,4:00PM,Los Angeles Raiders,Seattle Seahawks,28,23
+957,13,Mon,1982-12-06,9:00PM,New York Jets,Detroit Lions,28,13
+958,14,Sat,1982-12-11,12:30PM,New York Giants,Philadelphia Eagles,23,7
+959,14,Sat,1982-12-11,4:00PM,San Diego Chargers,San Francisco 49ers,41,37
+960,14,Sun,1982-12-12,12:00PM,Buffalo Bills,Pittsburgh Steelers,13,0
+961,14,Sun,1982-12-12,1:00PM,Cincinnati Bengals,Cleveland Browns,23,10
+962,14,Sun,1982-12-12,1:00PM,Minnesota Vikings,Baltimore Colts,13,10
+963,14,Sun,1982-12-12,1:00PM,Washington Redskins,St. Louis Cardinals,12,7
+964,14,Sun,1982-12-12,1:00PM,Detroit Lions,Green Bay Packers,30,10
+965,14,Sun,1982-12-12,1:00PM,New England Patriots,Miami Dolphins,3,0
+966,14,Sun,1982-12-12,1:00PM,New York Jets,Tampa Bay Buccaneers,32,17
+967,14,Sun,1982-12-12,4:00PM,Atlanta Falcons,New Orleans Saints,35,0
+968,14,Sun,1982-12-12,4:00PM,Seattle Seahawks,Chicago Bears,20,14
+969,14,Sun,1982-12-12,4:00PM,Denver Broncos,Los Angeles Rams,27,24
+970,14,Sun,1982-12-12,4:00PM,Los Angeles Raiders,Kansas City Chiefs,21,16
+971,14,Mon,1982-12-13,9:00PM,Dallas Cowboys,Houston Oilers,37,7
+972,15,Sat,1982-12-18,12:30PM,Miami Dolphins,New York Jets,20,19
+973,15,Sat,1982-12-18,4:00PM,Los Angeles Raiders,Los Angeles Rams,37,31
+974,15,Sun,1982-12-19,1:00PM,St. Louis Cardinals,Chicago Bears,10,7
+975,15,Sun,1982-12-19,1:00PM,Cleveland Browns,Pittsburgh Steelers,10,9
+976,15,Sun,1982-12-19,1:00PM,Minnesota Vikings,Detroit Lions,34,31
+977,15,Sun,1982-12-19,1:00PM,Washington Redskins,New York Giants,15,14
+978,15,Sun,1982-12-19,1:00PM,Philadelphia Eagles,Houston Oilers,35,14
+979,15,Sun,1982-12-19,2:00PM,Green Bay Packers,Baltimore Colts,20,20
+980,15,Sun,1982-12-19,4:00PM,Tampa Bay Buccaneers,Buffalo Bills,24,23
+981,15,Sun,1982-12-19,4:00PM,Dallas Cowboys,New Orleans Saints,21,7
+982,15,Sun,1982-12-19,4:00PM,Kansas City Chiefs,Denver Broncos,37,16
+983,15,Sun,1982-12-19,4:00PM,New England Patriots,Seattle Seahawks,16,0
+984,15,Sun,1982-12-19,9:00PM,Atlanta Falcons,San Francisco 49ers,17,7
+985,15,Mon,1982-12-20,9:00PM,San Diego Chargers,Cincinnati Bengals,50,34
+986,16,Sun,1982-12-26,1:00PM,Green Bay Packers,Atlanta Falcons,38,7
+987,16,Sun,1982-12-26,1:00PM,Cincinnati Bengals,Seattle Seahawks,24,10
+988,16,Sun,1982-12-26,1:00PM,Cleveland Browns,Houston Oilers,20,14
+989,16,Sun,1982-12-26,1:00PM,St. Louis Cardinals,New York Giants,24,21
+990,16,Sun,1982-12-26,1:00PM,Tampa Bay Buccaneers,Detroit Lions,23,21
+991,16,Sun,1982-12-26,1:00PM,San Francisco 49ers,Kansas City Chiefs,26,13
+992,16,Sun,1982-12-26,1:00PM,Pittsburgh Steelers,New England Patriots,37,14
+993,16,Sun,1982-12-26,4:00PM,Chicago Bears,Los Angeles Rams,34,26
+994,16,Sun,1982-12-26,4:00PM,San Diego Chargers,Baltimore Colts,44,26
+995,16,Sun,1982-12-26,4:00PM,Philadelphia Eagles,Dallas Cowboys,24,20
+996,16,Sun,1982-12-26,4:00PM,Los Angeles Raiders,Denver Broncos,27,10
+997,16,Sun,1982-12-26,4:00PM,New York Jets,Minnesota Vikings,42,14
+998,16,Sun,1982-12-26,4:00PM,Washington Redskins,New Orleans Saints,27,10
+999,16,Mon,1982-12-27,9:00PM,Miami Dolphins,Buffalo Bills,27,10
+1000,17,Sun,1983-01-02,12:00PM,New Orleans Saints,Atlanta Falcons,35,6
+1001,17,Sun,1983-01-02,1:00PM,New England Patriots,Buffalo Bills,30,19
+1002,17,Sun,1983-01-02,1:00PM,Tampa Bay Buccaneers,Chicago Bears,26,23
+1003,17,Sun,1983-01-02,1:00PM,Cincinnati Bengals,Houston Oilers,35,27
+1004,17,Sun,1983-01-02,1:00PM,Pittsburgh Steelers,Cleveland Browns,37,21
+1005,17,Sun,1983-01-02,1:00PM,Washington Redskins,St. Louis Cardinals,28,0
+1006,17,Sun,1983-01-02,1:00PM,Detroit Lions,Green Bay Packers,27,24
+1007,17,Sun,1983-01-02,1:00PM,Kansas City Chiefs,New York Jets,37,13
+1008,17,Sun,1983-01-02,1:00PM,New York Giants,Philadelphia Eagles,26,24
+1009,17,Sun,1983-01-02,2:00PM,Miami Dolphins,Baltimore Colts,34,7
+1010,17,Sun,1983-01-02,4:00PM,Seattle Seahawks,Denver Broncos,13,11
+1011,17,Sun,1983-01-02,4:00PM,Los Angeles Raiders,San Diego Chargers,41,34
+1012,17,Sun,1983-01-02,4:00PM,Los Angeles Rams,San Francisco 49ers,21,20
+1013,17,Mon,1983-01-03,9:00PM,Minnesota Vikings,Dallas Cowboys,31,27
+1014,WildCard,Sat,1983-01-08,12:30PM,Green Bay Packers,St. Louis Cardinals,41,16
+1015,WildCard,Sat,1983-01-08,12:30PM,Washington Redskins,Detroit Lions,31,7
+1016,WildCard,Sat,1983-01-08,4:00PM,Los Angeles Raiders,Cleveland Browns,27,10
+1017,WildCard,Sat,1983-01-08,4:00PM,Miami Dolphins,New England Patriots,28,13
+1018,WildCard,Sun,1983-01-09,12:30PM,New York Jets,Cincinnati Bengals,44,17
+1019,WildCard,Sun,1983-01-09,12:30PM,San Diego Chargers,Pittsburgh Steelers,31,28
+1020,WildCard,Sun,1983-01-09,4:00PM,Minnesota Vikings,Atlanta Falcons,30,24
+1021,WildCard,Sun,1983-01-09,4:00PM,Dallas Cowboys,Tampa Bay Buccaneers,30,17
+1022,Division,Sat,1983-01-15,12:30PM,Washington Redskins,Minnesota Vikings,21,7
+1023,Division,Sat,1983-01-15,4:00PM,New York Jets,Los Angeles Raiders,17,14
+1024,Division,Sun,1983-01-16,12:30PM,Miami Dolphins,San Diego Chargers,34,13
+1025,Division,Sun,1983-01-16,4:00PM,Dallas Cowboys,Green Bay Packers,37,26
+1026,ConfChamp,Sat,1983-01-22,12:30PM,Washington Redskins,Dallas Cowboys,31,17
+1027,ConfChamp,Sun,1983-01-23,1:00PM,Miami Dolphins,New York Jets,14,0
+1028,SuperBowl,Sun,1983-01-30,6:00PM,Washington Redskins,Miami Dolphins,27,17
+1029,1,Sat,1983-09-03,6:00PM,Philadelphia Eagles,San Francisco 49ers,22,17
+1030,1,Sun,1983-09-04,12:00PM,New Orleans Saints,St. Louis Cardinals,28,17
+1031,1,Sun,1983-09-04,1:00PM,Atlanta Falcons,Chicago Bears,20,17
+1032,1,Sun,1983-09-04,1:00PM,Miami Dolphins,Buffalo Bills,12,0
+1033,1,Sun,1983-09-04,1:00PM,Los Angeles Raiders,Cincinnati Bengals,20,10
+1034,1,Sun,1983-09-04,1:00PM,Minnesota Vikings,Cleveland Browns,27,21
+1035,1,Sun,1983-09-04,1:00PM,Baltimore Colts,New England Patriots,29,23
+1036,1,Sun,1983-09-04,1:00PM,Denver Broncos,Pittsburgh Steelers,14,10
+1037,1,Sun,1983-09-04,1:00PM,Detroit Lions,Tampa Bay Buccaneers,11,0
+1038,1,Sun,1983-09-04,1:00PM,Green Bay Packers,Houston Oilers,41,38
+1039,1,Sun,1983-09-04,1:00PM,Los Angeles Rams,New York Giants,16,6
+1040,1,Sun,1983-09-04,4:00PM,Kansas City Chiefs,Seattle Seahawks,17,13
+1041,1,Sun,1983-09-04,4:00PM,New York Jets,San Diego Chargers,41,29
+1042,1,Mon,1983-09-05,9:00PM,Dallas Cowboys,Washington Redskins,31,30
+1043,2,Thu,1983-09-08,8:30PM,San Francisco 49ers,Minnesota Vikings,48,17
+1044,2,Sun,1983-09-11,1:00PM,New York Giants,Atlanta Falcons,16,13
+1045,2,Sun,1983-09-11,1:00PM,Buffalo Bills,Cincinnati Bengals,10,6
+1046,2,Sun,1983-09-11,1:00PM,Chicago Bears,Tampa Bay Buccaneers,17,10
+1047,2,Sun,1983-09-11,1:00PM,Cleveland Browns,Detroit Lions,31,26
+1048,2,Sun,1983-09-11,1:00PM,Dallas Cowboys,St. Louis Cardinals,34,17
+1049,2,Sun,1983-09-11,1:00PM,Pittsburgh Steelers,Green Bay Packers,25,21
+1050,2,Sun,1983-09-11,1:00PM,Washington Redskins,Philadelphia Eagles,23,13
+1051,2,Sun,1983-09-11,4:00PM,Denver Broncos,Baltimore Colts,17,10
+1052,2,Sun,1983-09-11,4:00PM,Miami Dolphins,New England Patriots,34,24
+1053,2,Sun,1983-09-11,4:00PM,Los Angeles Rams,New Orleans Saints,30,27
+1054,2,Sun,1983-09-11,4:00PM,Seattle Seahawks,New York Jets,17,10
+1055,2,Sun,1983-09-11,4:00PM,Los Angeles Raiders,Houston Oilers,20,6
+1056,2,Mon,1983-09-12,9:00PM,San Diego Chargers,Kansas City Chiefs,17,14
+1057,3,Thu,1983-09-15,8:30PM,Cleveland Browns,Cincinnati Bengals,17,7
+1058,3,Sun,1983-09-18,1:00PM,Atlanta Falcons,Detroit Lions,30,14
+1059,3,Sun,1983-09-18,1:00PM,Buffalo Bills,Baltimore Colts,28,23
+1060,3,Sun,1983-09-18,1:00PM,New Orleans Saints,Chicago Bears,34,31
+1061,3,Sun,1983-09-18,1:00PM,San Francisco 49ers,St. Louis Cardinals,42,27
+1062,3,Sun,1983-09-18,1:00PM,Green Bay Packers,Los Angeles Rams,27,24
+1063,3,Sun,1983-09-18,1:00PM,Washington Redskins,Kansas City Chiefs,27,12
+1064,3,Sun,1983-09-18,1:00PM,New England Patriots,New York Jets,23,13
+1065,3,Sun,1983-09-18,1:00PM,Pittsburgh Steelers,Houston Oilers,40,28
+1066,3,Sun,1983-09-18,4:00PM,Dallas Cowboys,New York Giants,28,13
+1067,3,Sun,1983-09-18,4:00PM,Philadelphia Eagles,Denver Broncos,13,10
+1068,3,Sun,1983-09-18,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,19,16
+1069,3,Sun,1983-09-18,4:00PM,Seattle Seahawks,San Diego Chargers,34,31
+1070,3,Mon,1983-09-19,9:00PM,Los Angeles Raiders,Miami Dolphins,27,14
+1071,4,Sun,1983-09-25,1:00PM,Buffalo Bills,Houston Oilers,30,13
+1072,4,Sun,1983-09-25,1:00PM,Cincinnati Bengals,Tampa Bay Buccaneers,23,17
+1073,4,Sun,1983-09-25,1:00PM,St. Louis Cardinals,Philadelphia Eagles,14,11
+1074,4,Sun,1983-09-25,1:00PM,Dallas Cowboys,New Orleans Saints,21,20
+1075,4,Sun,1983-09-25,1:00PM,Minnesota Vikings,Detroit Lions,20,17
+1076,4,Sun,1983-09-25,1:00PM,Miami Dolphins,Kansas City Chiefs,14,6
+1077,4,Sun,1983-09-25,1:00PM,New England Patriots,Pittsburgh Steelers,28,23
+1078,4,Sun,1983-09-25,2:00PM,Baltimore Colts,Chicago Bears,22,19
+1079,4,Sun,1983-09-25,4:00PM,San Francisco 49ers,Atlanta Falcons,24,20
+1080,4,Sun,1983-09-25,4:00PM,Cleveland Browns,San Diego Chargers,30,24
+1081,4,Sun,1983-09-25,4:00PM,Los Angeles Raiders,Denver Broncos,22,7
+1082,4,Sun,1983-09-25,4:00PM,New York Jets,Los Angeles Rams,27,24
+1083,4,Sun,1983-09-25,4:00PM,Washington Redskins,Seattle Seahawks,27,17
+1084,4,Mon,1983-09-26,9:00PM,New York Giants,Green Bay Packers,27,3
+1085,5,Sun,1983-10-02,1:00PM,Philadelphia Eagles,Atlanta Falcons,28,24
+1086,5,Sun,1983-10-02,1:00PM,Chicago Bears,Denver Broncos,31,14
+1087,5,Sun,1983-10-02,1:00PM,Baltimore Colts,Cincinnati Bengals,34,31
+1088,5,Sun,1983-10-02,1:00PM,Seattle Seahawks,Cleveland Browns,24,9
+1089,5,Sun,1983-10-02,1:00PM,Dallas Cowboys,Minnesota Vikings,37,24
+1090,5,Sun,1983-10-02,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,55,14
+1091,5,Sun,1983-10-02,1:00PM,San Francisco 49ers,New England Patriots,33,13
+1092,5,Sun,1983-10-02,1:00PM,Pittsburgh Steelers,Houston Oilers,17,10
+1093,5,Sun,1983-10-02,1:00PM,Washington Redskins,Los Angeles Raiders,37,35
+1094,5,Sun,1983-10-02,4:00PM,Kansas City Chiefs,St. Louis Cardinals,38,14
+1095,5,Sun,1983-10-02,4:00PM,Los Angeles Rams,Detroit Lions,21,10
+1096,5,Sun,1983-10-02,4:00PM,New Orleans Saints,Miami Dolphins,17,7
+1097,5,Sun,1983-10-02,4:00PM,San Diego Chargers,New York Giants,41,34
+1098,5,Mon,1983-10-03,9:00PM,New York Jets,Buffalo Bills,34,10
+1099,6,Sun,1983-10-09,1:00PM,New Orleans Saints,Atlanta Falcons,19,17
+1100,6,Sun,1983-10-09,1:00PM,Buffalo Bills,Miami Dolphins,38,35
+1101,6,Sun,1983-10-09,1:00PM,Minnesota Vikings,Chicago Bears,23,14
+1102,6,Sun,1983-10-09,1:00PM,Cleveland Browns,New York Jets,10,7
+1103,6,Sun,1983-10-09,1:00PM,Washington Redskins,St. Louis Cardinals,38,14
+1104,6,Sun,1983-10-09,1:00PM,Denver Broncos,Houston Oilers,26,14
+1105,6,Sun,1983-10-09,1:00PM,Detroit Lions,Green Bay Packers,38,14
+1106,6,Sun,1983-10-09,2:00PM,Baltimore Colts,New England Patriots,12,7
+1107,6,Sun,1983-10-09,4:00PM,Dallas Cowboys,Tampa Bay Buccaneers,27,24
+1108,6,Sun,1983-10-09,4:00PM,Los Angeles Raiders,Kansas City Chiefs,21,20
+1109,6,Sun,1983-10-09,4:00PM,Philadelphia Eagles,New York Giants,17,13
+1110,6,Sun,1983-10-09,4:00PM,Los Angeles Rams,San Francisco 49ers,10,7
+1111,6,Sun,1983-10-09,4:00PM,San Diego Chargers,Seattle Seahawks,28,21
+1112,6,Mon,1983-10-10,9:00PM,Pittsburgh Steelers,Cincinnati Bengals,24,14
+1113,7,Sun,1983-10-16,1:00PM,Detroit Lions,Chicago Bears,31,17
+1114,7,Sun,1983-10-16,1:00PM,Pittsburgh Steelers,Cleveland Browns,44,17
+1115,7,Sun,1983-10-16,1:00PM,St. Louis Cardinals,Tampa Bay Buccaneers,34,27
+1116,7,Sun,1983-10-16,1:00PM,Miami Dolphins,New York Jets,32,14
+1117,7,Sun,1983-10-16,1:00PM,Minnesota Vikings,Houston Oilers,34,14
+1118,7,Sun,1983-10-16,1:00PM,San Francisco 49ers,New Orleans Saints,32,13
+1119,7,Sun,1983-10-16,1:00PM,New England Patriots,San Diego Chargers,37,21
+1120,7,Sun,1983-10-16,2:00PM,Buffalo Bills,Baltimore Colts,30,7
+1121,7,Sun,1983-10-16,4:00PM,Los Angeles Rams,Atlanta Falcons,27,21
+1122,7,Sun,1983-10-16,4:00PM,Denver Broncos,Cincinnati Bengals,24,17
+1123,7,Sun,1983-10-16,4:00PM,Dallas Cowboys,Philadelphia Eagles,37,7
+1124,7,Sun,1983-10-16,4:00PM,Kansas City Chiefs,New York Giants,38,17
+1125,7,Sun,1983-10-16,4:00PM,Seattle Seahawks,Los Angeles Raiders,38,36
+1126,7,Mon,1983-10-17,9:00PM,Green Bay Packers,Washington Redskins,48,47
+1127,8,Sun,1983-10-23,1:00PM,Atlanta Falcons,New York Jets,27,21
+1128,8,Sun,1983-10-23,1:00PM,New England Patriots,Buffalo Bills,31,0
+1129,8,Sun,1983-10-23,1:00PM,Chicago Bears,Philadelphia Eagles,7,6
+1130,8,Sun,1983-10-23,1:00PM,Cincinnati Bengals,Cleveland Browns,28,21
+1131,8,Sun,1983-10-23,1:00PM,Washington Redskins,Detroit Lions,38,17
+1132,8,Sun,1983-10-23,1:00PM,Minnesota Vikings,Green Bay Packers,20,17
+1133,8,Sun,1983-10-23,1:00PM,Kansas City Chiefs,Houston Oilers,13,10
+1134,8,Sun,1983-10-23,2:00PM,Miami Dolphins,Baltimore Colts,21,7
+1135,8,Sun,1983-10-23,4:00PM,Denver Broncos,San Diego Chargers,14,6
+1136,8,Sun,1983-10-23,4:00PM,New Orleans Saints,Tampa Bay Buccaneers,24,21
+1137,8,Sun,1983-10-23,4:00PM,Pittsburgh Steelers,Seattle Seahawks,27,21
+1138,8,Sun,1983-10-23,4:00PM,San Francisco 49ers,Los Angeles Rams,45,35
+1139,8,Sun,1983-10-23,9:00PM,Los Angeles Raiders,Dallas Cowboys,40,38
+1140,8,Mon,1983-10-24,9:00PM,New York Giants,St. Louis Cardinals,20,20
+1141,9,Sun,1983-10-30,1:00PM,Atlanta Falcons,New England Patriots,24,13
+1142,9,Sun,1983-10-30,1:00PM,Buffalo Bills,New Orleans Saints,27,21
+1143,9,Sun,1983-10-30,1:00PM,Detroit Lions,Chicago Bears,38,17
+1144,9,Sun,1983-10-30,1:00PM,Cleveland Browns,Houston Oilers,25,19
+1145,9,Sun,1983-10-30,1:00PM,Baltimore Colts,Philadelphia Eagles,22,21
+1146,9,Sun,1983-10-30,1:00PM,St. Louis Cardinals,Minnesota Vikings,41,31
+1147,9,Sun,1983-10-30,1:00PM,Dallas Cowboys,New York Giants,38,20
+1148,9,Sun,1983-10-30,1:00PM,Pittsburgh Steelers,Tampa Bay Buccaneers,17,12
+1149,9,Sun,1983-10-30,4:00PM,Cincinnati Bengals,Green Bay Packers,34,14
+1150,9,Sun,1983-10-30,4:00PM,Denver Broncos,Kansas City Chiefs,27,24
+1151,9,Sun,1983-10-30,4:00PM,Miami Dolphins,Los Angeles Rams,30,14
+1152,9,Sun,1983-10-30,4:00PM,New York Jets,San Francisco 49ers,27,13
+1153,9,Sun,1983-10-30,4:00PM,Seattle Seahawks,Los Angeles Raiders,34,21
+1154,9,Mon,1983-10-31,9:00PM,Washington Redskins,San Diego Chargers,27,24
+1155,10,Sun,1983-11-06,1:00PM,New Orleans Saints,Atlanta Falcons,27,10
+1156,10,Sun,1983-11-06,1:00PM,New England Patriots,Buffalo Bills,21,7
+1157,10,Sun,1983-11-06,1:00PM,Cincinnati Bengals,Houston Oilers,55,14
+1158,10,Sun,1983-11-06,1:00PM,Green Bay Packers,Cleveland Browns,35,21
+1159,10,Sun,1983-11-06,1:00PM,Dallas Cowboys,Philadelphia Eagles,27,20
+1160,10,Sun,1983-11-06,1:00PM,Los Angeles Raiders,Kansas City Chiefs,28,20
+1161,10,Sun,1983-11-06,1:00PM,Tampa Bay Buccaneers,Minnesota Vikings,17,12
+1162,10,Sun,1983-11-06,1:00PM,Pittsburgh Steelers,San Diego Chargers,26,3
+1163,10,Sun,1983-11-06,4:00PM,Los Angeles Rams,Chicago Bears,21,14
+1164,10,Sun,1983-11-06,4:00PM,Baltimore Colts,New York Jets,17,14
+1165,10,Sun,1983-11-06,4:00PM,Washington Redskins,St. Louis Cardinals,45,7
+1166,10,Sun,1983-11-06,4:00PM,Seattle Seahawks,Denver Broncos,27,19
+1167,10,Sun,1983-11-06,4:00PM,Miami Dolphins,San Francisco 49ers,20,17
+1168,10,Mon,1983-11-07,9:00PM,Detroit Lions,New York Giants,15,9
+1169,11,Sun,1983-11-13,1:00PM,Buffalo Bills,New York Jets,24,17
+1170,11,Sun,1983-11-13,1:00PM,Chicago Bears,Philadelphia Eagles,17,14
+1171,11,Sun,1983-11-13,1:00PM,Kansas City Chiefs,Cincinnati Bengals,20,15
+1172,11,Sun,1983-11-13,1:00PM,Cleveland Browns,Tampa Bay Buccaneers,20,0
+1173,11,Sun,1983-11-13,1:00PM,St. Louis Cardinals,Seattle Seahawks,33,28
+1174,11,Sun,1983-11-13,1:00PM,Houston Oilers,Detroit Lions,27,17
+1175,11,Sun,1983-11-13,1:00PM,Green Bay Packers,Minnesota Vikings,29,21
+1176,11,Sun,1983-11-13,1:00PM,New England Patriots,Miami Dolphins,17,6
+1177,11,Sun,1983-11-13,2:00PM,Pittsburgh Steelers,Baltimore Colts,24,13
+1178,11,Sun,1983-11-13,4:00PM,San Diego Chargers,Dallas Cowboys,24,23
+1179,11,Sun,1983-11-13,4:00PM,Los Angeles Raiders,Denver Broncos,22,20
+1180,11,Sun,1983-11-13,4:00PM,San Francisco 49ers,New Orleans Saints,27,0
+1181,11,Sun,1983-11-13,4:00PM,Washington Redskins,New York Giants,33,17
+1182,11,Mon,1983-11-14,9:00PM,Los Angeles Rams,Atlanta Falcons,36,13
+1183,12,Sun,1983-11-20,1:00PM,Los Angeles Raiders,Buffalo Bills,27,24
+1184,12,Sun,1983-11-20,1:00PM,Chicago Bears,Tampa Bay Buccaneers,27,0
+1185,12,Sun,1983-11-20,1:00PM,Cincinnati Bengals,Houston Oilers,38,10
+1186,12,Sun,1983-11-20,1:00PM,Cleveland Browns,New England Patriots,30,0
+1187,12,Sun,1983-11-20,1:00PM,Miami Dolphins,Baltimore Colts,37,0
+1188,12,Sun,1983-11-20,1:00PM,St. Louis Cardinals,San Diego Chargers,44,14
+1189,12,Sun,1983-11-20,1:00PM,Detroit Lions,Green Bay Packers,23,20
+1190,12,Sun,1983-11-20,1:00PM,Minnesota Vikings,Pittsburgh Steelers,17,14
+1191,12,Sun,1983-11-20,1:00PM,New York Giants,Philadelphia Eagles,23,0
+1192,12,Sun,1983-11-20,4:00PM,Atlanta Falcons,San Francisco 49ers,28,24
+1193,12,Sun,1983-11-20,4:00PM,Dallas Cowboys,Kansas City Chiefs,41,21
+1194,12,Sun,1983-11-20,4:00PM,Denver Broncos,Seattle Seahawks,38,27
+1195,12,Sun,1983-11-20,4:00PM,Washington Redskins,Los Angeles Rams,42,20
+1196,12,Mon,1983-11-21,9:00PM,New York Jets,New Orleans Saints,31,28
+1197,13,Thu,1983-11-24,12:30PM,Detroit Lions,Pittsburgh Steelers,45,3
+1198,13,Thu,1983-11-24,4:00PM,Dallas Cowboys,St. Louis Cardinals,35,17
+1199,13,Sun,1983-11-27,1:00PM,Chicago Bears,San Francisco 49ers,13,3
+1200,13,Sun,1983-11-27,1:00PM,Cleveland Browns,Baltimore Colts,41,23
+1201,13,Sun,1983-11-27,1:00PM,New Orleans Saints,Minnesota Vikings,17,16
+1202,13,Sun,1983-11-27,1:00PM,New York Jets,New England Patriots,26,3
+1203,13,Sun,1983-11-27,1:00PM,Tampa Bay Buccaneers,Houston Oilers,33,24
+1204,13,Sun,1983-11-27,1:00PM,Washington Redskins,Philadelphia Eagles,28,24
+1205,13,Sun,1983-11-27,4:00PM,Atlanta Falcons,Green Bay Packers,47,41
+1206,13,Sun,1983-11-27,4:00PM,Los Angeles Rams,Buffalo Bills,41,17
+1207,13,Sun,1983-11-27,4:00PM,San Diego Chargers,Denver Broncos,31,7
+1208,13,Sun,1983-11-27,4:00PM,Seattle Seahawks,Kansas City Chiefs,51,48
+1209,13,Sun,1983-11-27,4:00PM,Los Angeles Raiders,New York Giants,27,12
+1210,13,Mon,1983-11-28,9:00PM,Miami Dolphins,Cincinnati Bengals,38,14
+1211,14,Thu,1983-12-01,9:00PM,Los Angeles Raiders,San Diego Chargers,42,10
+1212,14,Sun,1983-12-04,1:00PM,Washington Redskins,Atlanta Falcons,37,21
+1213,14,Sun,1983-12-04,1:00PM,Buffalo Bills,Kansas City Chiefs,14,9
+1214,14,Sun,1983-12-04,1:00PM,Green Bay Packers,Chicago Bears,31,28
+1215,14,Sun,1983-12-04,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,23,10
+1216,14,Sun,1983-12-04,1:00PM,St. Louis Cardinals,New York Giants,10,6
+1217,14,Sun,1983-12-04,1:00PM,Miami Dolphins,Houston Oilers,24,17
+1218,14,Sun,1983-12-04,1:00PM,New England Patriots,New Orleans Saints,7,0
+1219,14,Sun,1983-12-04,1:00PM,Philadelphia Eagles,Los Angeles Rams,13,9
+1220,14,Sun,1983-12-04,4:00PM,Denver Broncos,Cleveland Browns,27,6
+1221,14,Sun,1983-12-04,4:00PM,New York Jets,Baltimore Colts,10,6
+1222,14,Sun,1983-12-04,4:00PM,Dallas Cowboys,Seattle Seahawks,35,10
+1223,14,Sun,1983-12-04,4:00PM,San Francisco 49ers,Tampa Bay Buccaneers,35,21
+1224,14,Mon,1983-12-05,9:00PM,Detroit Lions,Minnesota Vikings,13,2
+1225,15,Sat,1983-12-10,12:30PM,Pittsburgh Steelers,New York Jets,34,7
+1226,15,Sat,1983-12-10,4:00PM,Miami Dolphins,Atlanta Falcons,31,24
+1227,15,Sun,1983-12-11,1:00PM,San Francisco 49ers,Buffalo Bills,23,10
+1228,15,Sun,1983-12-11,1:00PM,Chicago Bears,Minnesota Vikings,19,13
+1229,15,Sun,1983-12-11,1:00PM,Cincinnati Bengals,Detroit Lions,17,9
+1230,15,Sun,1983-12-11,1:00PM,Houston Oilers,Cleveland Browns,34,27
+1231,15,Sun,1983-12-11,1:00PM,New Orleans Saints,Philadelphia Eagles,20,17
+1232,15,Sun,1983-12-11,1:00PM,Seattle Seahawks,New York Giants,17,12
+1233,15,Sun,1983-12-11,4:00PM,Denver Broncos,Baltimore Colts,21,19
+1234,15,Sun,1983-12-11,4:00PM,St. Louis Cardinals,Los Angeles Raiders,34,24
+1235,15,Sun,1983-12-11,4:00PM,Washington Redskins,Dallas Cowboys,31,10
+1236,15,Sun,1983-12-11,4:00PM,San Diego Chargers,Kansas City Chiefs,41,38
+1237,15,Sun,1983-12-11,4:00PM,New England Patriots,Los Angeles Rams,21,7
+1238,15,Mon,1983-12-12,9:00PM,Green Bay Packers,Tampa Bay Buccaneers,12,9
+1239,16,Fri,1983-12-16,9:00PM,Miami Dolphins,New York Jets,34,14
+1240,16,Sat,1983-12-17,12:30PM,Washington Redskins,New York Giants,31,22
+1241,16,Sat,1983-12-17,4:00PM,Minnesota Vikings,Cincinnati Bengals,20,14
+1242,16,Sun,1983-12-18,1:00PM,Atlanta Falcons,Buffalo Bills,31,14
+1243,16,Sun,1983-12-18,1:00PM,Chicago Bears,Green Bay Packers,23,21
+1244,16,Sun,1983-12-18,1:00PM,Cleveland Browns,Pittsburgh Steelers,30,17
+1245,16,Sun,1983-12-18,1:00PM,St. Louis Cardinals,Philadelphia Eagles,31,7
+1246,16,Sun,1983-12-18,1:00PM,Kansas City Chiefs,Denver Broncos,48,17
+1247,16,Sun,1983-12-18,1:00PM,Los Angeles Rams,New Orleans Saints,26,24
+1248,16,Sun,1983-12-18,2:00PM,Baltimore Colts,Houston Oilers,20,10
+1249,16,Sun,1983-12-18,4:00PM,Detroit Lions,Tampa Bay Buccaneers,23,20
+1250,16,Sun,1983-12-18,4:00PM,Seattle Seahawks,New England Patriots,24,6
+1251,16,Sun,1983-12-18,4:00PM,Los Angeles Raiders,San Diego Chargers,30,14
+1252,16,Mon,1983-12-19,9:00PM,San Francisco 49ers,Dallas Cowboys,42,17
+1253,WildCard,Sat,1983-12-24,4:00PM,Seattle Seahawks,Denver Broncos,31,7
+1254,WildCard,Mon,1983-12-26,2:30PM,Los Angeles Rams,Dallas Cowboys,24,17
+1255,Division,Sat,1983-12-31,12:30PM,Seattle Seahawks,Miami Dolphins,27,20
+1256,Division,Sat,1983-12-31,4:00PM,San Francisco 49ers,Detroit Lions,24,23
+1257,Division,Sun,1984-01-01,12:30PM,Washington Redskins,Los Angeles Rams,51,7
+1258,Division,Sun,1984-01-01,4:00PM,Los Angeles Raiders,Pittsburgh Steelers,38,10
+1259,ConfChamp,Sun,1984-01-08,12:30PM,Washington Redskins,San Francisco 49ers,24,21
+1260,ConfChamp,Sun,1984-01-08,4:00PM,Los Angeles Raiders,Seattle Seahawks,30,14
+1261,SuperBowl,Sun,1984-01-22,4:50PM,Los Angeles Raiders,Washington Redskins,38,9
+1262,1,Sun,1984-09-02,1:00PM,Atlanta Falcons,New Orleans Saints,36,28
+1263,1,Sun,1984-09-02,1:00PM,New England Patriots,Buffalo Bills,21,17
+1264,1,Sun,1984-09-02,1:00PM,Chicago Bears,Tampa Bay Buccaneers,34,14
+1265,1,Sun,1984-09-02,1:00PM,Green Bay Packers,St. Louis Cardinals,24,23
+1266,1,Sun,1984-09-02,1:00PM,San Francisco 49ers,Detroit Lions,30,27
+1267,1,Sun,1984-09-02,1:00PM,Kansas City Chiefs,Pittsburgh Steelers,37,27
+1268,1,Sun,1984-09-02,1:00PM,Miami Dolphins,Washington Redskins,35,17
+1269,1,Sun,1984-09-02,1:00PM,San Diego Chargers,Minnesota Vikings,42,13
+1270,1,Sun,1984-09-02,1:00PM,New York Giants,Philadelphia Eagles,28,27
+1271,1,Sun,1984-09-02,4:00PM,Denver Broncos,Cincinnati Bengals,20,17
+1272,1,Sun,1984-09-02,4:00PM,New York Jets,Indianapolis Colts,23,14
+1273,1,Sun,1984-09-02,4:00PM,Los Angeles Raiders,Houston Oilers,24,14
+1274,1,Mon,1984-09-03,4:00PM,Seattle Seahawks,Cleveland Browns,33,0
+1275,1,Mon,1984-09-03,9:00PM,Dallas Cowboys,Los Angeles Rams,20,13
+1276,2,Thu,1984-09-06,9:00PM,Pittsburgh Steelers,New York Jets,23,17
+1277,2,Sun,1984-09-09,1:00PM,Detroit Lions,Atlanta Falcons,27,24
+1278,2,Sun,1984-09-09,1:00PM,St. Louis Cardinals,Buffalo Bills,37,7
+1279,2,Sun,1984-09-09,1:00PM,Chicago Bears,Denver Broncos,27,0
+1280,2,Sun,1984-09-09,1:00PM,Kansas City Chiefs,Cincinnati Bengals,27,22
+1281,2,Sun,1984-09-09,1:00PM,New York Giants,Dallas Cowboys,28,7
+1282,2,Sun,1984-09-09,1:00PM,Miami Dolphins,New England Patriots,28,7
+1283,2,Sun,1984-09-09,1:00PM,Philadelphia Eagles,Minnesota Vikings,19,17
+1284,2,Sun,1984-09-09,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,17,13
+1285,2,Sun,1984-09-09,4:00PM,Los Angeles Rams,Cleveland Browns,20,17
+1286,2,Sun,1984-09-09,4:00PM,Indianapolis Colts,Houston Oilers,35,21
+1287,2,Sun,1984-09-09,4:00PM,Los Angeles Raiders,Green Bay Packers,28,7
+1288,2,Sun,1984-09-09,4:00PM,Seattle Seahawks,San Diego Chargers,31,17
+1289,2,Mon,1984-09-10,9:00PM,San Francisco 49ers,Washington Redskins,37,31
+1290,3,Sun,1984-09-16,1:00PM,Minnesota Vikings,Atlanta Falcons,27,20
+1291,3,Sun,1984-09-16,1:00PM,Chicago Bears,Green Bay Packers,9,7
+1292,3,Sun,1984-09-16,1:00PM,New York Jets,Cincinnati Bengals,43,23
+1293,3,Sun,1984-09-16,1:00PM,St. Louis Cardinals,Indianapolis Colts,34,33
+1294,3,Sun,1984-09-16,1:00PM,Los Angeles Raiders,Kansas City Chiefs,22,20
+1295,3,Sun,1984-09-16,1:00PM,New England Patriots,Seattle Seahawks,38,23
+1296,3,Sun,1984-09-16,4:00PM,Dallas Cowboys,Philadelphia Eagles,23,17
+1297,3,Sun,1984-09-16,4:00PM,Tampa Bay Buccaneers,Detroit Lions,21,17
+1298,3,Sun,1984-09-16,4:00PM,San Francisco 49ers,New Orleans Saints,30,20
+1299,3,Sun,1984-09-16,4:00PM,Washington Redskins,New York Giants,30,14
+1300,3,Sun,1984-09-16,4:00PM,San Diego Chargers,Houston Oilers,31,14
+1301,3,Sun,1984-09-16,4:00PM,Pittsburgh Steelers,Los Angeles Rams,24,14
+1302,3,Sun,1984-09-16,9:00PM,Denver Broncos,Cleveland Browns,24,14
+1303,3,Mon,1984-09-17,9:00PM,Miami Dolphins,Buffalo Bills,21,17
+1304,4,Sun,1984-09-23,1:00PM,Atlanta Falcons,Houston Oilers,42,10
+1305,4,Sun,1984-09-23,1:00PM,New York Jets,Buffalo Bills,28,26
+1306,4,Sun,1984-09-23,1:00PM,Los Angeles Rams,Cincinnati Bengals,24,14
+1307,4,Sun,1984-09-23,1:00PM,Cleveland Browns,Pittsburgh Steelers,20,10
+1308,4,Sun,1984-09-23,1:00PM,New Orleans Saints,St. Louis Cardinals,34,24
+1309,4,Sun,1984-09-23,1:00PM,Minnesota Vikings,Detroit Lions,29,28
+1310,4,Sun,1984-09-23,1:00PM,Washington Redskins,New England Patriots,26,10
+1311,4,Sun,1984-09-23,1:00PM,San Francisco 49ers,Philadelphia Eagles,21,9
+1312,4,Sun,1984-09-23,4:00PM,Seattle Seahawks,Chicago Bears,38,9
+1313,4,Sun,1984-09-23,4:00PM,Miami Dolphins,Indianapolis Colts,44,7
+1314,4,Sun,1984-09-23,4:00PM,Dallas Cowboys,Green Bay Packers,20,6
+1315,4,Sun,1984-09-23,4:00PM,Denver Broncos,Kansas City Chiefs,21,0
+1316,4,Sun,1984-09-23,4:00PM,New York Giants,Tampa Bay Buccaneers,17,14
+1317,4,Mon,1984-09-24,9:00PM,Los Angeles Raiders,San Diego Chargers,33,30
+1318,5,Sun,1984-09-30,1:00PM,Indianapolis Colts,Buffalo Bills,31,17
+1319,5,Sun,1984-09-30,1:00PM,Dallas Cowboys,Chicago Bears,23,14
+1320,5,Sun,1984-09-30,1:00PM,Kansas City Chiefs,Cleveland Browns,10,6
+1321,5,Sun,1984-09-30,1:00PM,Miami Dolphins,St. Louis Cardinals,36,28
+1322,5,Sun,1984-09-30,1:00PM,Seattle Seahawks,Minnesota Vikings,20,12
+1323,5,Sun,1984-09-30,1:00PM,New England Patriots,New York Jets,28,21
+1324,5,Sun,1984-09-30,4:00PM,San Francisco 49ers,Atlanta Falcons,14,5
+1325,5,Sun,1984-09-30,4:00PM,Denver Broncos,Los Angeles Raiders,16,13
+1326,5,Sun,1984-09-30,4:00PM,San Diego Chargers,Detroit Lions,27,24
+1327,5,Sun,1984-09-30,4:00PM,Tampa Bay Buccaneers,Green Bay Packers,30,27
+1328,5,Sun,1984-09-30,4:00PM,New Orleans Saints,Houston Oilers,27,10
+1329,5,Sun,1984-09-30,4:00PM,Los Angeles Rams,New York Giants,33,12
+1330,5,Sun,1984-09-30,4:00PM,Washington Redskins,Philadelphia Eagles,20,0
+1331,5,Mon,1984-10-01,9:00PM,Pittsburgh Steelers,Cincinnati Bengals,38,17
+1332,6,Sun,1984-10-07,1:00PM,Philadelphia Eagles,Buffalo Bills,27,17
+1333,6,Sun,1984-10-07,1:00PM,Chicago Bears,New Orleans Saints,20,7
+1334,6,Sun,1984-10-07,1:00PM,New England Patriots,Cleveland Browns,17,16
+1335,6,Sun,1984-10-07,1:00PM,Washington Redskins,Indianapolis Colts,35,7
+1336,6,Sun,1984-10-07,1:00PM,St. Louis Cardinals,Dallas Cowboys,31,20
+1337,6,Sun,1984-10-07,1:00PM,Denver Broncos,Detroit Lions,28,7
+1338,6,Sun,1984-10-07,1:00PM,New York Jets,Kansas City Chiefs,17,16
+1339,6,Sun,1984-10-07,1:00PM,Miami Dolphins,Pittsburgh Steelers,31,7
+1340,6,Sun,1984-10-07,1:00PM,Tampa Bay Buccaneers,Minnesota Vikings,35,31
+1341,6,Sun,1984-10-07,4:00PM,Atlanta Falcons,Los Angeles Rams,30,28
+1342,6,Sun,1984-10-07,4:00PM,Cincinnati Bengals,Houston Oilers,13,3
+1343,6,Sun,1984-10-07,4:00PM,San Diego Chargers,Green Bay Packers,34,28
+1344,6,Sun,1984-10-07,4:00PM,Los Angeles Raiders,Seattle Seahawks,28,14
+1345,6,Mon,1984-10-08,9:00PM,San Francisco 49ers,New York Giants,31,10
+1346,7,Sun,1984-10-14,1:00PM,New York Giants,Atlanta Falcons,19,7
+1347,7,Sun,1984-10-14,1:00PM,St. Louis Cardinals,Chicago Bears,38,21
+1348,7,Sun,1984-10-14,1:00PM,New England Patriots,Cincinnati Bengals,20,14
+1349,7,Sun,1984-10-14,1:00PM,New York Jets,Cleveland Browns,24,20
+1350,7,Sun,1984-10-14,1:00PM,Philadelphia Eagles,Indianapolis Colts,16,7
+1351,7,Sun,1984-10-14,1:00PM,Detroit Lions,Tampa Bay Buccaneers,13,7
+1352,7,Sun,1984-10-14,1:00PM,Kansas City Chiefs,San Diego Chargers,31,13
+1353,7,Sun,1984-10-14,1:00PM,Miami Dolphins,Houston Oilers,28,10
+1354,7,Sun,1984-10-14,1:00PM,Los Angeles Rams,New Orleans Saints,28,10
+1355,7,Sun,1984-10-14,4:00PM,Seattle Seahawks,Buffalo Bills,31,28
+1356,7,Sun,1984-10-14,4:00PM,Washington Redskins,Dallas Cowboys,34,14
+1357,7,Sun,1984-10-14,4:00PM,Los Angeles Raiders,Minnesota Vikings,23,20
+1358,7,Sun,1984-10-14,4:00PM,Pittsburgh Steelers,San Francisco 49ers,20,17
+1359,7,Mon,1984-10-15,9:00PM,Denver Broncos,Green Bay Packers,17,14
+1360,8,Sun,1984-10-21,1:00PM,Denver Broncos,Buffalo Bills,37,7
+1361,8,Sun,1984-10-21,1:00PM,Chicago Bears,Tampa Bay Buccaneers,44,9
+1362,8,Sun,1984-10-21,1:00PM,Cincinnati Bengals,Cleveland Browns,12,9
+1363,8,Sun,1984-10-21,1:00PM,Indianapolis Colts,Pittsburgh Steelers,17,16
+1364,8,Sun,1984-10-21,1:00PM,St. Louis Cardinals,Washington Redskins,26,24
+1365,8,Sun,1984-10-21,1:00PM,Detroit Lions,Minnesota Vikings,16,14
+1366,8,Sun,1984-10-21,1:00PM,Seattle Seahawks,Green Bay Packers,30,24
+1367,8,Sun,1984-10-21,1:00PM,Miami Dolphins,New England Patriots,44,24
+1368,8,Sun,1984-10-21,1:00PM,Philadelphia Eagles,New York Giants,24,10
+1369,8,Sun,1984-10-21,4:00PM,New York Jets,Kansas City Chiefs,28,7
+1370,8,Sun,1984-10-21,4:00PM,San Francisco 49ers,Houston Oilers,34,21
+1371,8,Sun,1984-10-21,4:00PM,Los Angeles Raiders,San Diego Chargers,44,37
+1372,8,Sun,1984-10-21,9:45PM,Dallas Cowboys,New Orleans Saints,30,27
+1373,8,Mon,1984-10-22,9:00PM,Los Angeles Rams,Atlanta Falcons,24,10
+1374,9,Sun,1984-10-28,1:00PM,Pittsburgh Steelers,Atlanta Falcons,35,10
+1375,9,Sun,1984-10-28,1:00PM,Chicago Bears,Minnesota Vikings,16,7
+1376,9,Sun,1984-10-28,1:00PM,Cincinnati Bengals,Houston Oilers,31,13
+1377,9,Sun,1984-10-28,1:00PM,New Orleans Saints,Cleveland Browns,16,14
+1378,9,Sun,1984-10-28,1:00PM,Dallas Cowboys,Indianapolis Colts,22,3
+1379,9,Sun,1984-10-28,1:00PM,St. Louis Cardinals,Philadelphia Eagles,34,14
+1380,9,Sun,1984-10-28,1:00PM,Green Bay Packers,Detroit Lions,41,9
+1381,9,Sun,1984-10-28,1:00PM,Kansas City Chiefs,Tampa Bay Buccaneers,24,20
+1382,9,Sun,1984-10-28,1:00PM,New England Patriots,New York Jets,30,20
+1383,9,Sun,1984-10-28,4:00PM,Miami Dolphins,Buffalo Bills,38,7
+1384,9,Sun,1984-10-28,4:00PM,Denver Broncos,Los Angeles Raiders,22,19
+1385,9,Sun,1984-10-28,4:00PM,New York Giants,Washington Redskins,37,13
+1386,9,Sun,1984-10-28,4:00PM,San Francisco 49ers,Los Angeles Rams,33,0
+1387,9,Mon,1984-10-29,9:00PM,Seattle Seahawks,San Diego Chargers,24,0
+1388,10,Sun,1984-11-04,1:00PM,Cleveland Browns,Buffalo Bills,13,10
+1389,10,Sun,1984-11-04,1:00PM,Chicago Bears,Los Angeles Raiders,17,6
+1390,10,Sun,1984-11-04,1:00PM,San Diego Chargers,Indianapolis Colts,38,10
+1391,10,Sun,1984-11-04,1:00PM,New York Giants,Dallas Cowboys,19,7
+1392,10,Sun,1984-11-04,1:00PM,Philadelphia Eagles,Detroit Lions,23,23
+1393,10,Sun,1984-11-04,1:00PM,Green Bay Packers,New Orleans Saints,23,13
+1394,10,Sun,1984-11-04,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,27,24
+1395,10,Sun,1984-11-04,1:00PM,Pittsburgh Steelers,Houston Oilers,35,7
+1396,10,Sun,1984-11-04,4:00PM,San Francisco 49ers,Cincinnati Bengals,23,17
+1397,10,Sun,1984-11-04,4:00PM,Los Angeles Rams,St. Louis Cardinals,16,13
+1398,10,Sun,1984-11-04,4:00PM,Denver Broncos,New England Patriots,26,19
+1399,10,Sun,1984-11-04,4:00PM,Seattle Seahawks,Kansas City Chiefs,45,0
+1400,10,Sun,1984-11-04,4:00PM,Miami Dolphins,New York Jets,31,17
+1401,10,Mon,1984-11-05,9:00PM,Washington Redskins,Atlanta Falcons,27,14
+1402,11,Sun,1984-11-11,1:00PM,New Orleans Saints,Atlanta Falcons,17,13
+1403,11,Sun,1984-11-11,1:00PM,New England Patriots,Buffalo Bills,38,10
+1404,11,Sun,1984-11-11,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,22,20
+1405,11,Sun,1984-11-11,1:00PM,San Francisco 49ers,Cleveland Browns,41,7
+1406,11,Sun,1984-11-11,1:00PM,Indianapolis Colts,New York Jets,9,5
+1407,11,Sun,1984-11-11,1:00PM,Washington Redskins,Detroit Lions,28,14
+1408,11,Sun,1984-11-11,1:00PM,Green Bay Packers,Minnesota Vikings,45,17
+1409,11,Sun,1984-11-11,1:00PM,Houston Oilers,Kansas City Chiefs,17,16
+1410,11,Sun,1984-11-11,1:00PM,Miami Dolphins,Philadelphia Eagles,24,23
+1411,11,Sun,1984-11-11,4:00PM,Los Angeles Rams,Chicago Bears,29,13
+1412,11,Sun,1984-11-11,4:00PM,Dallas Cowboys,St. Louis Cardinals,24,17
+1413,11,Sun,1984-11-11,4:00PM,Denver Broncos,San Diego Chargers,16,13
+1414,11,Sun,1984-11-11,4:00PM,Tampa Bay Buccaneers,New York Giants,20,17
+1415,11,Mon,1984-11-12,9:00PM,Seattle Seahawks,Los Angeles Raiders,17,14
+1416,12,Sun,1984-11-18,1:00PM,Cleveland Browns,Atlanta Falcons,23,7
+1417,12,Sun,1984-11-18,1:00PM,Buffalo Bills,Dallas Cowboys,14,3
+1418,12,Sun,1984-11-18,1:00PM,Chicago Bears,Detroit Lions,16,14
+1419,12,Sun,1984-11-18,1:00PM,Seattle Seahawks,Cincinnati Bengals,26,6
+1420,12,Sun,1984-11-18,1:00PM,New England Patriots,Indianapolis Colts,50,17
+1421,12,Sun,1984-11-18,1:00PM,New York Giants,St. Louis Cardinals,16,10
+1422,12,Sun,1984-11-18,1:00PM,Green Bay Packers,Los Angeles Rams,31,6
+1423,12,Sun,1984-11-18,1:00PM,Philadelphia Eagles,Washington Redskins,16,10
+1424,12,Sun,1984-11-18,4:00PM,Denver Broncos,Minnesota Vikings,42,21
+1425,12,Sun,1984-11-18,4:00PM,Los Angeles Raiders,Kansas City Chiefs,17,7
+1426,12,Sun,1984-11-18,4:00PM,San Diego Chargers,Miami Dolphins,34,28
+1427,12,Sun,1984-11-18,4:00PM,Houston Oilers,New York Jets,31,20
+1428,12,Sun,1984-11-18,4:00PM,San Francisco 49ers,Tampa Bay Buccaneers,24,17
+1429,12,Mon,1984-11-19,9:00PM,New Orleans Saints,Pittsburgh Steelers,27,24
+1430,13,Thu,1984-11-22,12:30PM,Detroit Lions,Green Bay Packers,31,28
+1431,13,Thu,1984-11-22,4:00PM,Dallas Cowboys,New England Patriots,20,17
+1432,13,Sun,1984-11-25,1:00PM,Cincinnati Bengals,Atlanta Falcons,35,14
+1433,13,Sun,1984-11-25,1:00PM,Washington Redskins,Buffalo Bills,41,14
+1434,13,Sun,1984-11-25,1:00PM,Cleveland Browns,Houston Oilers,27,10
+1435,13,Sun,1984-11-25,1:00PM,St. Louis Cardinals,Philadelphia Eagles,17,16
+1436,13,Sun,1984-11-25,1:00PM,New York Giants,Kansas City Chiefs,28,27
+1437,13,Sun,1984-11-25,1:00PM,Pittsburgh Steelers,San Diego Chargers,52,24
+1438,13,Sun,1984-11-25,1:00PM,Los Angeles Rams,Tampa Bay Buccaneers,34,33
+1439,13,Sun,1984-11-25,4:00PM,Chicago Bears,Minnesota Vikings,34,3
+1440,13,Sun,1984-11-25,4:00PM,Los Angeles Raiders,Indianapolis Colts,21,7
+1441,13,Sun,1984-11-25,4:00PM,Seattle Seahawks,Denver Broncos,27,24
+1442,13,Sun,1984-11-25,4:00PM,San Francisco 49ers,New Orleans Saints,35,3
+1443,13,Mon,1984-11-26,9:00PM,Miami Dolphins,New York Jets,28,17
+1444,14,Thu,1984-11-29,9:00PM,Washington Redskins,Minnesota Vikings,31,17
+1445,14,Sun,1984-12-02,1:00PM,San Francisco 49ers,Atlanta Falcons,35,17
+1446,14,Sun,1984-12-02,1:00PM,Buffalo Bills,Indianapolis Colts,21,15
+1447,14,Sun,1984-12-02,1:00PM,Cincinnati Bengals,Cleveland Browns,20,17
+1448,14,Sun,1984-12-02,1:00PM,St. Louis Cardinals,New England Patriots,33,10
+1449,14,Sun,1984-12-02,1:00PM,Dallas Cowboys,Philadelphia Eagles,26,10
+1450,14,Sun,1984-12-02,1:00PM,Kansas City Chiefs,Denver Broncos,16,13
+1451,14,Sun,1984-12-02,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,27,14
+1452,14,Sun,1984-12-02,1:00PM,New York Giants,New York Jets,20,10
+1453,14,Sun,1984-12-02,1:00PM,Houston Oilers,Pittsburgh Steelers,23,20
+1454,14,Sun,1984-12-02,4:00PM,Seattle Seahawks,Detroit Lions,38,17
+1455,14,Sun,1984-12-02,4:00PM,Los Angeles Raiders,Miami Dolphins,45,34
+1456,14,Sun,1984-12-02,4:00PM,Los Angeles Rams,New Orleans Saints,34,21
+1457,14,Mon,1984-12-03,9:00PM,San Diego Chargers,Chicago Bears,20,7
+1458,15,Sat,1984-12-08,12:30PM,New York Jets,Buffalo Bills,21,17
+1459,15,Sat,1984-12-08,4:00PM,San Francisco 49ers,Minnesota Vikings,51,7
+1460,15,Sun,1984-12-09,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,23,6
+1461,15,Sun,1984-12-09,1:00PM,Green Bay Packers,Chicago Bears,20,14
+1462,15,Sun,1984-12-09,1:00PM,Cincinnati Bengals,New Orleans Saints,24,21
+1463,15,Sun,1984-12-09,1:00PM,Pittsburgh Steelers,Cleveland Browns,23,20
+1464,15,Sun,1984-12-09,1:00PM,Miami Dolphins,Indianapolis Colts,35,17
+1465,15,Sun,1984-12-09,1:00PM,St. Louis Cardinals,New York Giants,31,21
+1466,15,Sun,1984-12-09,1:00PM,Kansas City Chiefs,Seattle Seahawks,34,7
+1467,15,Sun,1984-12-09,1:00PM,Philadelphia Eagles,New England Patriots,27,17
+1468,15,Sun,1984-12-09,4:00PM,Washington Redskins,Dallas Cowboys,30,28
+1469,15,Sun,1984-12-09,4:00PM,Denver Broncos,San Diego Chargers,16,13
+1470,15,Sun,1984-12-09,4:00PM,Los Angeles Rams,Houston Oilers,27,16
+1471,15,Mon,1984-12-10,8:00PM,Los Angeles Raiders,Detroit Lions,24,3
+1472,16,Fri,1984-12-14,9:00PM,San Francisco 49ers,Los Angeles Rams,19,16
+1473,16,Sat,1984-12-15,12:30PM,New Orleans Saints,New York Giants,10,3
+1474,16,Sat,1984-12-15,4:00PM,Denver Broncos,Seattle Seahawks,31,14
+1475,16,Sun,1984-12-16,1:00PM,Cincinnati Bengals,Buffalo Bills,52,21
+1476,16,Sun,1984-12-16,1:00PM,Chicago Bears,Detroit Lions,30,13
+1477,16,Sun,1984-12-16,1:00PM,Cleveland Browns,Houston Oilers,27,20
+1478,16,Sun,1984-12-16,1:00PM,New England Patriots,Indianapolis Colts,16,10
+1479,16,Sun,1984-12-16,1:00PM,Washington Redskins,St. Louis Cardinals,29,27
+1480,16,Sun,1984-12-16,1:00PM,Green Bay Packers,Minnesota Vikings,38,14
+1481,16,Sun,1984-12-16,1:00PM,Tampa Bay Buccaneers,New York Jets,41,21
+1482,16,Sun,1984-12-16,4:00PM,Atlanta Falcons,Philadelphia Eagles,26,10
+1483,16,Sun,1984-12-16,4:00PM,Kansas City Chiefs,San Diego Chargers,42,21
+1484,16,Sun,1984-12-16,4:00PM,Pittsburgh Steelers,Los Angeles Raiders,13,7
+1485,16,Mon,1984-12-17,9:00PM,Miami Dolphins,Dallas Cowboys,28,21
+1486,WildCard,Sat,1984-12-22,4:00PM,Seattle Seahawks,Los Angeles Raiders,13,7
+1487,WildCard,Sun,1984-12-23,3:30PM,New York Giants,Los Angeles Rams,16,13
+1488,Division,Sat,1984-12-29,12:30PM,Miami Dolphins,Seattle Seahawks,31,10
+1489,Division,Sat,1984-12-29,4:00PM,San Francisco 49ers,New York Giants,21,10
+1490,Division,Sun,1984-12-30,12:30PM,Chicago Bears,Washington Redskins,23,19
+1491,Division,Sun,1984-12-30,4:00PM,Pittsburgh Steelers,Denver Broncos,24,17
+1492,ConfChamp,Sun,1985-01-06,12:30PM,Miami Dolphins,Pittsburgh Steelers,45,28
+1493,ConfChamp,Sun,1985-01-06,4:00PM,San Francisco 49ers,Chicago Bears,23,0
+1494,SuperBowl,Sun,1985-01-20,6:00PM,San Francisco 49ers,Miami Dolphins,38,16
+1495,1,Sun,1985-09-08,1:00PM,Detroit Lions,Atlanta Falcons,28,27
+1496,1,Sun,1985-09-08,1:00PM,Chicago Bears,Tampa Bay Buccaneers,38,28
+1497,1,Sun,1985-09-08,1:00PM,Seattle Seahawks,Cincinnati Bengals,28,24
+1498,1,Sun,1985-09-08,1:00PM,St. Louis Cardinals,Cleveland Browns,27,24
+1499,1,Sun,1985-09-08,1:00PM,Pittsburgh Steelers,Indianapolis Colts,45,3
+1500,1,Sun,1985-09-08,1:00PM,New England Patriots,Green Bay Packers,26,20
+1501,1,Sun,1985-09-08,1:00PM,Kansas City Chiefs,New Orleans Saints,47,27
+1502,1,Sun,1985-09-08,1:00PM,Houston Oilers,Miami Dolphins,26,23
+1503,1,Sun,1985-09-08,1:00PM,Minnesota Vikings,San Francisco 49ers,28,21
+1504,1,Sun,1985-09-08,1:00PM,New York Giants,Philadelphia Eagles,21,0
+1505,1,Sun,1985-09-08,4:00PM,San Diego Chargers,Buffalo Bills,14,9
+1506,1,Sun,1985-09-08,4:00PM,Los Angeles Rams,Denver Broncos,20,16
+1507,1,Sun,1985-09-08,4:00PM,Los Angeles Raiders,New York Jets,31,0
+1508,1,Mon,1985-09-09,9:00PM,Dallas Cowboys,Washington Redskins,44,14
+1509,2,Thu,1985-09-12,8:00PM,Kansas City Chiefs,Los Angeles Raiders,36,20
+1510,2,Sun,1985-09-15,1:00PM,New York Jets,Buffalo Bills,42,3
+1511,2,Sun,1985-09-15,1:00PM,Chicago Bears,New England Patriots,20,7
+1512,2,Sun,1985-09-15,1:00PM,St. Louis Cardinals,Cincinnati Bengals,41,27
+1513,2,Sun,1985-09-15,1:00PM,Miami Dolphins,Indianapolis Colts,30,13
+1514,2,Sun,1985-09-15,1:00PM,Detroit Lions,Dallas Cowboys,26,21
+1515,2,Sun,1985-09-15,1:00PM,Washington Redskins,Houston Oilers,16,13
+1516,2,Sun,1985-09-15,1:00PM,Los Angeles Rams,Philadelphia Eagles,17,6
+1517,2,Sun,1985-09-15,4:00PM,San Francisco 49ers,Atlanta Falcons,35,16
+1518,2,Sun,1985-09-15,4:00PM,Denver Broncos,New Orleans Saints,34,23
+1519,2,Sun,1985-09-15,4:00PM,Green Bay Packers,New York Giants,23,20
+1520,2,Sun,1985-09-15,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,31,16
+1521,2,Sun,1985-09-15,4:00PM,Seattle Seahawks,San Diego Chargers,49,35
+1522,2,Mon,1985-09-16,9:00PM,Cleveland Browns,Pittsburgh Steelers,17,7
+1523,3,Thu,1985-09-19,8:00PM,Chicago Bears,Minnesota Vikings,33,24
+1524,3,Sun,1985-09-22,1:00PM,Denver Broncos,Atlanta Falcons,44,28
+1525,3,Sun,1985-09-22,1:00PM,New England Patriots,Buffalo Bills,17,14
+1526,3,Sun,1985-09-22,1:00PM,San Diego Chargers,Cincinnati Bengals,44,41
+1527,3,Sun,1985-09-22,1:00PM,Dallas Cowboys,Cleveland Browns,20,7
+1528,3,Sun,1985-09-22,1:00PM,Indianapolis Colts,Detroit Lions,14,6
+1529,3,Sun,1985-09-22,1:00PM,New York Giants,St. Louis Cardinals,27,17
+1530,3,Sun,1985-09-22,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,20,13
+1531,3,Sun,1985-09-22,1:00PM,Pittsburgh Steelers,Houston Oilers,20,0
+1532,3,Sun,1985-09-22,1:00PM,Philadelphia Eagles,Washington Redskins,19,6
+1533,3,Sun,1985-09-22,4:00PM,New York Jets,Green Bay Packers,24,3
+1534,3,Sun,1985-09-22,4:00PM,Miami Dolphins,Kansas City Chiefs,31,0
+1535,3,Sun,1985-09-22,4:00PM,San Francisco 49ers,Los Angeles Raiders,34,10
+1536,3,Mon,1985-09-23,9:00PM,Los Angeles Rams,Seattle Seahawks,35,24
+1537,4,Sun,1985-09-29,1:00PM,Minnesota Vikings,Buffalo Bills,27,20
+1538,4,Sun,1985-09-29,1:00PM,Chicago Bears,Washington Redskins,45,10
+1539,4,Sun,1985-09-29,1:00PM,St. Louis Cardinals,Green Bay Packers,43,28
+1540,4,Sun,1985-09-29,1:00PM,Dallas Cowboys,Houston Oilers,17,10
+1541,4,Sun,1985-09-29,1:00PM,Detroit Lions,Tampa Bay Buccaneers,30,9
+1542,4,Sun,1985-09-29,1:00PM,Kansas City Chiefs,Seattle Seahawks,28,7
+1543,4,Sun,1985-09-29,1:00PM,Los Angeles Raiders,New England Patriots,35,20
+1544,4,Sun,1985-09-29,1:00PM,New York Giants,Philadelphia Eagles,16,10
+1545,4,Sun,1985-09-29,4:00PM,Los Angeles Rams,Atlanta Falcons,17,6
+1546,4,Sun,1985-09-29,4:00PM,Cleveland Browns,San Diego Chargers,21,7
+1547,4,Sun,1985-09-29,4:00PM,New York Jets,Indianapolis Colts,25,20
+1548,4,Sun,1985-09-29,4:00PM,Miami Dolphins,Denver Broncos,30,26
+1549,4,Sun,1985-09-29,4:00PM,New Orleans Saints,San Francisco 49ers,20,17
+1550,4,Mon,1985-09-30,9:00PM,Cincinnati Bengals,Pittsburgh Steelers,37,24
+1551,5,Sun,1985-10-06,1:00PM,San Francisco 49ers,Atlanta Falcons,38,17
+1552,5,Sun,1985-10-06,1:00PM,Indianapolis Colts,Buffalo Bills,49,17
+1553,5,Sun,1985-10-06,1:00PM,Chicago Bears,Tampa Bay Buccaneers,27,19
+1554,5,Sun,1985-10-06,1:00PM,Cleveland Browns,New England Patriots,24,20
+1555,5,Sun,1985-10-06,1:00PM,Green Bay Packers,Detroit Lions,43,10
+1556,5,Sun,1985-10-06,1:00PM,Miami Dolphins,Pittsburgh Steelers,24,20
+1557,5,Sun,1985-10-06,1:00PM,New Orleans Saints,Philadelphia Eagles,23,21
+1558,5,Sun,1985-10-06,4:00PM,New York Jets,Cincinnati Bengals,29,20
+1559,5,Sun,1985-10-06,4:00PM,Denver Broncos,Houston Oilers,31,20
+1560,5,Sun,1985-10-06,4:00PM,Los Angeles Raiders,Kansas City Chiefs,19,10
+1561,5,Sun,1985-10-06,4:00PM,Los Angeles Rams,Minnesota Vikings,13,10
+1562,5,Sun,1985-10-06,4:00PM,Seattle Seahawks,San Diego Chargers,26,21
+1563,5,Sun,1985-10-06,9:00PM,Dallas Cowboys,New York Giants,30,29
+1564,5,Mon,1985-10-07,9:00PM,Washington Redskins,St. Louis Cardinals,27,10
+1565,6,Sun,1985-10-13,1:00PM,New England Patriots,Buffalo Bills,14,3
+1566,6,Sun,1985-10-13,1:00PM,Cincinnati Bengals,New York Giants,35,30
+1567,6,Sun,1985-10-13,1:00PM,Cleveland Browns,Houston Oilers,21,6
+1568,6,Sun,1985-10-13,1:00PM,Denver Broncos,Indianapolis Colts,15,10
+1569,6,Sun,1985-10-13,1:00PM,Philadelphia Eagles,St. Louis Cardinals,30,7
+1570,6,Sun,1985-10-13,1:00PM,Dallas Cowboys,Pittsburgh Steelers,27,13
+1571,6,Sun,1985-10-13,1:00PM,Washington Redskins,Detroit Lions,24,3
+1572,6,Sun,1985-10-13,1:00PM,Green Bay Packers,Minnesota Vikings,20,17
+1573,6,Sun,1985-10-13,1:00PM,Los Angeles Rams,Tampa Bay Buccaneers,31,27
+1574,6,Sun,1985-10-13,4:00PM,Seattle Seahawks,Atlanta Falcons,30,26
+1575,6,Sun,1985-10-13,4:00PM,Chicago Bears,San Francisco 49ers,26,10
+1576,6,Sun,1985-10-13,4:00PM,San Diego Chargers,Kansas City Chiefs,31,20
+1577,6,Sun,1985-10-13,4:00PM,Los Angeles Raiders,New Orleans Saints,23,13
+1578,6,Mon,1985-10-14,9:00PM,New York Jets,Miami Dolphins,23,7
+1579,7,Sun,1985-10-20,1:00PM,Atlanta Falcons,New Orleans Saints,31,24
+1580,7,Sun,1985-10-20,1:00PM,Buffalo Bills,Indianapolis Colts,21,9
+1581,7,Sun,1985-10-20,1:00PM,Houston Oilers,Cincinnati Bengals,44,27
+1582,7,Sun,1985-10-20,1:00PM,Los Angeles Raiders,Cleveland Browns,21,20
+1583,7,Sun,1985-10-20,1:00PM,Pittsburgh Steelers,St. Louis Cardinals,23,10
+1584,7,Sun,1985-10-20,1:00PM,Philadelphia Eagles,Dallas Cowboys,16,14
+1585,7,Sun,1985-10-20,1:00PM,Detroit Lions,San Francisco 49ers,23,21
+1586,7,Sun,1985-10-20,1:00PM,Los Angeles Rams,Kansas City Chiefs,16,0
+1587,7,Sun,1985-10-20,1:00PM,Minnesota Vikings,San Diego Chargers,21,17
+1588,7,Sun,1985-10-20,1:00PM,New York Giants,Washington Redskins,17,3
+1589,7,Sun,1985-10-20,4:00PM,Denver Broncos,Seattle Seahawks,13,10
+1590,7,Sun,1985-10-20,4:00PM,Miami Dolphins,Tampa Bay Buccaneers,41,38
+1591,7,Sun,1985-10-20,4:00PM,New England Patriots,New York Jets,20,13
+1592,7,Mon,1985-10-21,9:00PM,Chicago Bears,Green Bay Packers,23,7
+1593,8,Sun,1985-10-27,1:00PM,Dallas Cowboys,Atlanta Falcons,24,10
+1594,8,Sun,1985-10-27,1:00PM,Philadelphia Eagles,Buffalo Bills,21,17
+1595,8,Sun,1985-10-27,1:00PM,Chicago Bears,Minnesota Vikings,27,9
+1596,8,Sun,1985-10-27,1:00PM,Washington Redskins,Cleveland Browns,14,7
+1597,8,Sun,1985-10-27,1:00PM,Indianapolis Colts,Green Bay Packers,37,10
+1598,8,Sun,1985-10-27,1:00PM,Houston Oilers,St. Louis Cardinals,20,10
+1599,8,Sun,1985-10-27,1:00PM,Denver Broncos,Kansas City Chiefs,30,10
+1600,8,Sun,1985-10-27,1:00PM,Detroit Lions,Miami Dolphins,31,21
+1601,8,Sun,1985-10-27,1:00PM,New England Patriots,Tampa Bay Buccaneers,32,14
+1602,8,Sun,1985-10-27,1:00PM,New York Jets,Seattle Seahawks,17,14
+1603,8,Sun,1985-10-27,4:00PM,Cincinnati Bengals,Pittsburgh Steelers,26,21
+1604,8,Sun,1985-10-27,4:00PM,New York Giants,New Orleans Saints,21,13
+1605,8,Sun,1985-10-27,4:00PM,San Francisco 49ers,Los Angeles Rams,28,14
+1606,8,Mon,1985-10-28,9:00PM,Los Angeles Raiders,San Diego Chargers,34,21
+1607,9,Sun,1985-11-03,1:00PM,Washington Redskins,Atlanta Falcons,44,10
+1608,9,Sun,1985-11-03,1:00PM,Cincinnati Bengals,Buffalo Bills,23,17
+1609,9,Sun,1985-11-03,1:00PM,Chicago Bears,Green Bay Packers,16,10
+1610,9,Sun,1985-11-03,1:00PM,Pittsburgh Steelers,Cleveland Browns,10,9
+1611,9,Sun,1985-11-03,1:00PM,Minnesota Vikings,Detroit Lions,16,13
+1612,9,Sun,1985-11-03,1:00PM,Houston Oilers,Kansas City Chiefs,23,20
+1613,9,Sun,1985-11-03,1:00PM,New England Patriots,Miami Dolphins,17,13
+1614,9,Sun,1985-11-03,1:00PM,New York Giants,Tampa Bay Buccaneers,22,20
+1615,9,Sun,1985-11-03,4:00PM,New York Jets,Indianapolis Colts,35,17
+1616,9,Sun,1985-11-03,4:00PM,San Diego Chargers,Denver Broncos,30,10
+1617,9,Sun,1985-11-03,4:00PM,Los Angeles Rams,New Orleans Saints,28,10
+1618,9,Sun,1985-11-03,4:00PM,San Francisco 49ers,Philadelphia Eagles,24,13
+1619,9,Sun,1985-11-03,4:00PM,Seattle Seahawks,Los Angeles Raiders,33,3
+1620,9,Mon,1985-11-04,9:00PM,St. Louis Cardinals,Dallas Cowboys,21,10
+1621,10,Sun,1985-11-10,1:00PM,Philadelphia Eagles,Atlanta Falcons,23,17
+1622,10,Sun,1985-11-10,1:00PM,Buffalo Bills,Houston Oilers,20,0
+1623,10,Sun,1985-11-10,1:00PM,Chicago Bears,Detroit Lions,24,3
+1624,10,Sun,1985-11-10,1:00PM,Cincinnati Bengals,Cleveland Browns,27,10
+1625,10,Sun,1985-11-10,1:00PM,New England Patriots,Indianapolis Colts,34,15
+1626,10,Sun,1985-11-10,1:00PM,Tampa Bay Buccaneers,St. Louis Cardinals,16,0
+1627,10,Sun,1985-11-10,1:00PM,Green Bay Packers,Minnesota Vikings,27,17
+1628,10,Sun,1985-11-10,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,36,28
+1629,10,Sun,1985-11-10,1:00PM,Seattle Seahawks,New Orleans Saints,27,3
+1630,10,Sun,1985-11-10,1:00PM,New York Giants,Los Angeles Rams,24,19
+1631,10,Sun,1985-11-10,4:00PM,Dallas Cowboys,Washington Redskins,13,7
+1632,10,Sun,1985-11-10,4:00PM,Miami Dolphins,New York Jets,21,17
+1633,10,Sun,1985-11-10,4:00PM,San Diego Chargers,Los Angeles Raiders,40,34
+1634,10,Mon,1985-11-11,9:00PM,Denver Broncos,San Francisco 49ers,17,16
+1635,11,Sun,1985-11-17,1:00PM,Atlanta Falcons,Los Angeles Rams,30,14
+1636,11,Sun,1985-11-17,1:00PM,Cleveland Browns,Buffalo Bills,17,7
+1637,11,Sun,1985-11-17,1:00PM,Chicago Bears,Dallas Cowboys,44,0
+1638,11,Sun,1985-11-17,1:00PM,Miami Dolphins,Indianapolis Colts,34,20
+1639,11,Sun,1985-11-17,1:00PM,Philadelphia Eagles,St. Louis Cardinals,24,14
+1640,11,Sun,1985-11-17,1:00PM,Green Bay Packers,New Orleans Saints,38,14
+1641,11,Sun,1985-11-17,1:00PM,New York Jets,Tampa Bay Buccaneers,62,28
+1642,11,Sun,1985-11-17,1:00PM,Pittsburgh Steelers,Houston Oilers,30,7
+1643,11,Sun,1985-11-17,4:00PM,Los Angeles Raiders,Cincinnati Bengals,13,6
+1644,11,Sun,1985-11-17,4:00PM,Denver Broncos,San Diego Chargers,30,24
+1645,11,Sun,1985-11-17,4:00PM,Detroit Lions,Minnesota Vikings,41,21
+1646,11,Sun,1985-11-17,4:00PM,San Francisco 49ers,Kansas City Chiefs,31,3
+1647,11,Sun,1985-11-17,4:00PM,New England Patriots,Seattle Seahawks,20,13
+1648,11,Mon,1985-11-18,9:00PM,Washington Redskins,New York Giants,23,21
+1649,12,Sun,1985-11-24,1:00PM,Chicago Bears,Atlanta Falcons,36,0
+1650,12,Sun,1985-11-24,1:00PM,Miami Dolphins,Buffalo Bills,23,14
+1651,12,Sun,1985-11-24,1:00PM,Cleveland Browns,Cincinnati Bengals,24,6
+1652,12,Sun,1985-11-24,1:00PM,Tampa Bay Buccaneers,Detroit Lions,19,16
+1653,12,Sun,1985-11-24,1:00PM,New Orleans Saints,Minnesota Vikings,30,23
+1654,12,Sun,1985-11-24,1:00PM,New York Jets,New England Patriots,16,13
+1655,12,Sun,1985-11-24,1:00PM,Houston Oilers,San Diego Chargers,37,35
+1656,12,Sun,1985-11-24,1:00PM,Washington Redskins,Pittsburgh Steelers,30,23
+1657,12,Sun,1985-11-24,4:00PM,Kansas City Chiefs,Indianapolis Colts,20,7
+1658,12,Sun,1985-11-24,4:00PM,New York Giants,St. Louis Cardinals,34,3
+1659,12,Sun,1985-11-24,4:00PM,Dallas Cowboys,Philadelphia Eagles,34,17
+1660,12,Sun,1985-11-24,4:00PM,Los Angeles Raiders,Denver Broncos,31,28
+1661,12,Sun,1985-11-24,4:00PM,Los Angeles Rams,Green Bay Packers,34,17
+1662,12,Mon,1985-11-25,9:00PM,San Francisco 49ers,Seattle Seahawks,19,6
+1663,13,Thu,1985-11-28,12:30PM,Detroit Lions,New York Jets,31,20
+1664,13,Thu,1985-11-28,3:00PM,Dallas Cowboys,St. Louis Cardinals,35,17
+1665,13,Sun,1985-12-01,1:00PM,Cincinnati Bengals,Houston Oilers,45,27
+1666,13,Sun,1985-12-01,1:00PM,Cleveland Browns,New York Giants,35,33
+1667,13,Sun,1985-12-01,1:00PM,New England Patriots,Indianapolis Colts,38,31
+1668,13,Sun,1985-12-01,1:00PM,Denver Broncos,Pittsburgh Steelers,31,23
+1669,13,Sun,1985-12-01,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,21,0
+1670,13,Sun,1985-12-01,1:00PM,Minnesota Vikings,Philadelphia Eagles,28,23
+1671,13,Sun,1985-12-01,1:00PM,New Orleans Saints,Los Angeles Rams,29,3
+1672,13,Sun,1985-12-01,4:00PM,Los Angeles Raiders,Atlanta Falcons,34,24
+1673,13,Sun,1985-12-01,4:00PM,San Diego Chargers,Buffalo Bills,40,7
+1674,13,Sun,1985-12-01,4:00PM,Seattle Seahawks,Kansas City Chiefs,24,6
+1675,13,Sun,1985-12-01,4:00PM,San Francisco 49ers,Washington Redskins,35,8
+1676,13,Mon,1985-12-02,9:00PM,Miami Dolphins,Chicago Bears,38,24
+1677,14,Sun,1985-12-08,1:00PM,Kansas City Chiefs,Atlanta Falcons,38,10
+1678,14,Sun,1985-12-08,1:00PM,New York Jets,Buffalo Bills,27,7
+1679,14,Sun,1985-12-08,1:00PM,Chicago Bears,Indianapolis Colts,17,10
+1680,14,Sun,1985-12-08,1:00PM,Cincinnati Bengals,Dallas Cowboys,50,24
+1681,14,Sun,1985-12-08,1:00PM,St. Louis Cardinals,New Orleans Saints,28,16
+1682,14,Sun,1985-12-08,1:00PM,New England Patriots,Detroit Lions,23,6
+1683,14,Sun,1985-12-08,1:00PM,Miami Dolphins,Green Bay Packers,34,24
+1684,14,Sun,1985-12-08,1:00PM,Washington Redskins,Philadelphia Eagles,17,12
+1685,14,Sun,1985-12-08,4:00PM,Seattle Seahawks,Cleveland Browns,31,13
+1686,14,Sun,1985-12-08,4:00PM,Los Angeles Raiders,Denver Broncos,17,14
+1687,14,Sun,1985-12-08,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,26,7
+1688,14,Sun,1985-12-08,4:00PM,New York Giants,Houston Oilers,35,14
+1689,14,Sun,1985-12-08,9:00PM,San Diego Chargers,Pittsburgh Steelers,54,44
+1690,14,Mon,1985-12-09,9:00PM,Los Angeles Rams,San Francisco 49ers,27,20
+1691,15,Sat,1985-12-14,12:30PM,Chicago Bears,New York Jets,19,6
+1692,15,Sat,1985-12-14,4:00PM,Denver Broncos,Kansas City Chiefs,14,13
+1693,15,Sun,1985-12-15,1:00PM,Atlanta Falcons,Minnesota Vikings,14,13
+1694,15,Sun,1985-12-15,1:00PM,Pittsburgh Steelers,Buffalo Bills,30,24
+1695,15,Sun,1985-12-15,1:00PM,Washington Redskins,Cincinnati Bengals,27,24
+1696,15,Sun,1985-12-15,1:00PM,Cleveland Browns,Houston Oilers,28,21
+1697,15,Sun,1985-12-15,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers,31,23
+1698,15,Sun,1985-12-15,1:00PM,Dallas Cowboys,New York Giants,28,21
+1699,15,Sun,1985-12-15,1:00PM,Green Bay Packers,Detroit Lions,26,23
+1700,15,Sun,1985-12-15,1:00PM,San Francisco 49ers,New Orleans Saints,31,19
+1701,15,Sun,1985-12-15,4:00PM,Los Angeles Rams,St. Louis Cardinals,46,14
+1702,15,Sun,1985-12-15,4:00PM,San Diego Chargers,Philadelphia Eagles,20,14
+1703,15,Sun,1985-12-15,4:00PM,Los Angeles Raiders,Seattle Seahawks,13,3
+1704,15,Mon,1985-12-16,9:00PM,Miami Dolphins,New England Patriots,30,27
+1705,16,Fri,1985-12-20,8:00PM,Denver Broncos,Seattle Seahawks,27,24
+1706,16,Sat,1985-12-21,12:30PM,New York Giants,Pittsburgh Steelers,28,10
+1707,16,Sat,1985-12-21,4:00PM,Washington Redskins,St. Louis Cardinals,27,16
+1708,16,Sun,1985-12-22,1:00PM,Atlanta Falcons,New Orleans Saints,16,10
+1709,16,Sun,1985-12-22,1:00PM,Miami Dolphins,Buffalo Bills,28,0
+1710,16,Sun,1985-12-22,1:00PM,Chicago Bears,Detroit Lions,37,17
+1711,16,Sun,1985-12-22,1:00PM,New England Patriots,Cincinnati Bengals,34,23
+1712,16,Sun,1985-12-22,1:00PM,New York Jets,Cleveland Browns,37,10
+1713,16,Sun,1985-12-22,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,20,17
+1714,16,Sun,1985-12-22,1:00PM,Kansas City Chiefs,San Diego Chargers,38,34
+1715,16,Sun,1985-12-22,1:00PM,Philadelphia Eagles,Minnesota Vikings,37,35
+1716,16,Sun,1985-12-22,4:00PM,Indianapolis Colts,Houston Oilers,34,16
+1717,16,Sun,1985-12-22,4:00PM,San Francisco 49ers,Dallas Cowboys,31,16
+1718,16,Mon,1985-12-23,9:00PM,Los Angeles Raiders,Los Angeles Rams,16,6
+1719,WildCard,Sat,1985-12-28,4:00PM,New England Patriots,New York Jets,26,14
+1720,WildCard,Sun,1985-12-29,1:00PM,New York Giants,San Francisco 49ers,17,3
+1721,Division,Sat,1986-01-04,12:30PM,Miami Dolphins,Cleveland Browns,24,21
+1722,Division,Sat,1986-01-04,4:00PM,Los Angeles Rams,Dallas Cowboys,20,0
+1723,Division,Sun,1986-01-05,12:30PM,Chicago Bears,New York Giants,21,0
+1724,Division,Sun,1986-01-05,4:00PM,New England Patriots,Los Angeles Raiders,27,20
+1725,ConfChamp,Sun,1986-01-12,12:30PM,Chicago Bears,Los Angeles Rams,24,0
+1726,ConfChamp,Sun,1986-01-12,4:00PM,New England Patriots,Miami Dolphins,31,14
+1727,SuperBowl,Sun,1986-01-26,5:00PM,Chicago Bears,New England Patriots,46,10
+1728,1,Sun,1986-09-07,1:00PM,Atlanta Falcons,New Orleans Saints,31,10
+1729,1,Sun,1986-09-07,1:00PM,Chicago Bears,Cleveland Browns,41,31
+1730,1,Sun,1986-09-07,1:00PM,Los Angeles Rams,St. Louis Cardinals,16,10
+1731,1,Sun,1986-09-07,1:00PM,Detroit Lions,Minnesota Vikings,13,10
+1732,1,Sun,1986-09-07,1:00PM,Houston Oilers,Green Bay Packers,31,3
+1733,1,Sun,1986-09-07,1:00PM,Washington Redskins,Philadelphia Eagles,41,14
+1734,1,Sun,1986-09-07,1:00PM,San Francisco 49ers,Tampa Bay Buccaneers,31,7
+1735,1,Sun,1986-09-07,4:00PM,New York Jets,Buffalo Bills,28,24
+1736,1,Sun,1986-09-07,4:00PM,Kansas City Chiefs,Cincinnati Bengals,24,14
+1737,1,Sun,1986-09-07,4:00PM,New England Patriots,Indianapolis Colts,33,3
+1738,1,Sun,1986-09-07,4:00PM,Denver Broncos,Los Angeles Raiders,38,36
+1739,1,Sun,1986-09-07,4:00PM,San Diego Chargers,Miami Dolphins,50,28
+1740,1,Sun,1986-09-07,4:00PM,Seattle Seahawks,Pittsburgh Steelers,30,0
+1741,1,Mon,1986-09-08,9:00PM,Dallas Cowboys,New York Giants,31,28
+1742,2,Thu,1986-09-11,8:00PM,New England Patriots,New York Jets,20,6
+1743,2,Sun,1986-09-14,1:00PM,Atlanta Falcons,St. Louis Cardinals,33,13
+1744,2,Sun,1986-09-14,1:00PM,Cincinnati Bengals,Buffalo Bills,36,33
+1745,2,Sun,1986-09-14,1:00PM,Chicago Bears,Philadelphia Eagles,13,10
+1746,2,Sun,1986-09-14,1:00PM,Cleveland Browns,Houston Oilers,23,20
+1747,2,Sun,1986-09-14,1:00PM,Dallas Cowboys,Detroit Lions,31,7
+1748,2,Sun,1986-09-14,1:00PM,New Orleans Saints,Green Bay Packers,24,10
+1749,2,Sun,1986-09-14,1:00PM,New York Giants,San Diego Chargers,20,7
+1750,2,Sun,1986-09-14,1:00PM,Washington Redskins,Los Angeles Raiders,10,6
+1751,2,Sun,1986-09-14,4:00PM,Miami Dolphins,Indianapolis Colts,30,10
+1752,2,Sun,1986-09-14,4:00PM,Seattle Seahawks,Kansas City Chiefs,23,17
+1753,2,Sun,1986-09-14,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,23,10
+1754,2,Sun,1986-09-14,4:00PM,Los Angeles Rams,San Francisco 49ers,16,13
+1755,2,Mon,1986-09-15,9:00PM,Denver Broncos,Pittsburgh Steelers,21,10
+1756,3,Thu,1986-09-18,8:00PM,Cincinnati Bengals,Cleveland Browns,30,13
+1757,3,Sun,1986-09-21,1:00PM,Atlanta Falcons,Dallas Cowboys,37,35
+1758,3,Sun,1986-09-21,1:00PM,Buffalo Bills,St. Louis Cardinals,17,10
+1759,3,Sun,1986-09-21,1:00PM,Los Angeles Rams,Indianapolis Colts,24,7
+1760,3,Sun,1986-09-21,1:00PM,Denver Broncos,Philadelphia Eagles,33,7
+1761,3,Sun,1986-09-21,1:00PM,Tampa Bay Buccaneers,Detroit Lions,24,20
+1762,3,Sun,1986-09-21,1:00PM,New York Jets,Miami Dolphins,51,45
+1763,3,Sun,1986-09-21,1:00PM,Minnesota Vikings,Pittsburgh Steelers,31,7
+1764,3,Sun,1986-09-21,1:00PM,Seattle Seahawks,New England Patriots,38,31
+1765,3,Sun,1986-09-21,4:00PM,Kansas City Chiefs,Houston Oilers,27,13
+1766,3,Sun,1986-09-21,4:00PM,San Francisco 49ers,New Orleans Saints,26,17
+1767,3,Sun,1986-09-21,4:00PM,New York Giants,Los Angeles Raiders,14,9
+1768,3,Sun,1986-09-21,4:00PM,Washington Redskins,San Diego Chargers,30,27
+1769,3,Mon,1986-09-22,9:00PM,Chicago Bears,Green Bay Packers,25,12
+1770,4,Sun,1986-09-28,1:00PM,Kansas City Chiefs,Buffalo Bills,20,17
+1771,4,Sun,1986-09-28,1:00PM,Chicago Bears,Cincinnati Bengals,44,7
+1772,4,Sun,1986-09-28,1:00PM,Cleveland Browns,Detroit Lions,24,21
+1773,4,Sun,1986-09-28,1:00PM,Minnesota Vikings,Green Bay Packers,42,7
+1774,4,Sun,1986-09-28,1:00PM,San Francisco 49ers,Miami Dolphins,31,16
+1775,4,Sun,1986-09-28,1:00PM,New York Giants,New Orleans Saints,20,17
+1776,4,Sun,1986-09-28,1:00PM,Pittsburgh Steelers,Houston Oilers,22,16
+1777,4,Sun,1986-09-28,1:00PM,Philadelphia Eagles,Los Angeles Rams,34,20
+1778,4,Sun,1986-09-28,1:00PM,Washington Redskins,Seattle Seahawks,19,14
+1779,4,Sun,1986-09-28,4:00PM,Atlanta Falcons,Tampa Bay Buccaneers,23,20
+1780,4,Sun,1986-09-28,4:00PM,New York Jets,Indianapolis Colts,26,7
+1781,4,Sun,1986-09-28,4:00PM,Denver Broncos,New England Patriots,27,20
+1782,4,Sun,1986-09-28,4:00PM,Los Angeles Raiders,San Diego Chargers,17,13
+1783,4,Mon,1986-09-29,9:00PM,Dallas Cowboys,St. Louis Cardinals,31,7
+1784,5,Sun,1986-10-05,1:00PM,Philadelphia Eagles,Atlanta Falcons,16,0
+1785,5,Sun,1986-10-05,1:00PM,Chicago Bears,Minnesota Vikings,23,0
+1786,5,Sun,1986-10-05,1:00PM,Cincinnati Bengals,Green Bay Packers,34,28
+1787,5,Sun,1986-10-05,1:00PM,Cleveland Browns,Pittsburgh Steelers,27,24
+1788,5,Sun,1986-10-05,1:00PM,New York Giants,St. Louis Cardinals,13,6
+1789,5,Sun,1986-10-05,1:00PM,Detroit Lions,Houston Oilers,24,13
+1790,5,Sun,1986-10-05,1:00PM,Los Angeles Raiders,Kansas City Chiefs,24,17
+1791,5,Sun,1986-10-05,1:00PM,New England Patriots,Miami Dolphins,34,7
+1792,5,Sun,1986-10-05,1:00PM,Washington Redskins,New Orleans Saints,14,6
+1793,5,Sun,1986-10-05,4:00PM,New York Jets,Buffalo Bills,14,13
+1794,5,Sun,1986-10-05,4:00PM,San Francisco 49ers,Indianapolis Colts,35,14
+1795,5,Sun,1986-10-05,4:00PM,Denver Broncos,Dallas Cowboys,29,14
+1796,5,Sun,1986-10-05,4:00PM,Los Angeles Rams,Tampa Bay Buccaneers,26,20
+1797,5,Mon,1986-10-06,9:00PM,Seattle Seahawks,San Diego Chargers,33,7
+1798,6,Sun,1986-10-12,1:00PM,Atlanta Falcons,Los Angeles Rams,26,14
+1799,6,Sun,1986-10-12,1:00PM,Miami Dolphins,Buffalo Bills,27,14
+1800,6,Sun,1986-10-12,1:00PM,Chicago Bears,Houston Oilers,20,7
+1801,6,Sun,1986-10-12,1:00PM,Cleveland Browns,Kansas City Chiefs,20,7
+1802,6,Sun,1986-10-12,1:00PM,New Orleans Saints,Indianapolis Colts,17,14
+1803,6,Sun,1986-10-12,1:00PM,St. Louis Cardinals,Tampa Bay Buccaneers,30,19
+1804,6,Sun,1986-10-12,1:00PM,Dallas Cowboys,Washington Redskins,30,6
+1805,6,Sun,1986-10-12,1:00PM,Detroit Lions,Green Bay Packers,21,14
+1806,6,Sun,1986-10-12,1:00PM,New York Jets,New England Patriots,31,24
+1807,6,Sun,1986-10-12,4:00PM,Denver Broncos,San Diego Chargers,31,14
+1808,6,Sun,1986-10-12,4:00PM,Minnesota Vikings,San Francisco 49ers,27,24
+1809,6,Sun,1986-10-12,4:00PM,New York Giants,Philadelphia Eagles,35,3
+1810,6,Sun,1986-10-12,4:00PM,Los Angeles Raiders,Seattle Seahawks,14,10
+1811,6,Mon,1986-10-13,9:00PM,Cincinnati Bengals,Pittsburgh Steelers,24,22
+1812,7,Sun,1986-10-19,1:00PM,San Francisco 49ers,Atlanta Falcons,10,10
+1813,7,Sun,1986-10-19,1:00PM,Buffalo Bills,Indianapolis Colts,24,13
+1814,7,Sun,1986-10-19,1:00PM,Minnesota Vikings,Chicago Bears,23,7
+1815,7,Sun,1986-10-19,1:00PM,Cincinnati Bengals,Houston Oilers,31,28
+1816,7,Sun,1986-10-19,1:00PM,Green Bay Packers,Cleveland Browns,17,14
+1817,7,Sun,1986-10-19,1:00PM,Washington Redskins,St. Louis Cardinals,28,21
+1818,7,Sun,1986-10-19,1:00PM,Dallas Cowboys,Philadelphia Eagles,17,14
+1819,7,Sun,1986-10-19,1:00PM,Los Angeles Raiders,Miami Dolphins,30,28
+1820,7,Sun,1986-10-19,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,38,7
+1821,7,Sun,1986-10-19,1:00PM,New England Patriots,Pittsburgh Steelers,34,0
+1822,7,Sun,1986-10-19,4:00PM,Los Angeles Rams,Detroit Lions,14,10
+1823,7,Sun,1986-10-19,4:00PM,Kansas City Chiefs,San Diego Chargers,42,41
+1824,7,Sun,1986-10-19,4:00PM,Seattle Seahawks,New York Giants,17,12
+1825,7,Mon,1986-10-20,9:00PM,New York Jets,Denver Broncos,22,10
+1826,8,Sun,1986-10-26,1:00PM,New England Patriots,Buffalo Bills,23,3
+1827,8,Sun,1986-10-26,1:00PM,Chicago Bears,Detroit Lions,13,7
+1828,8,Sun,1986-10-26,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,30,9
+1829,8,Sun,1986-10-26,1:00PM,Cleveland Browns,Minnesota Vikings,23,20
+1830,8,Sun,1986-10-26,1:00PM,Miami Dolphins,Indianapolis Colts,17,13
+1831,8,Sun,1986-10-26,1:00PM,San Francisco 49ers,Green Bay Packers,31,17
+1832,8,Sun,1986-10-26,1:00PM,Kansas City Chiefs,Tampa Bay Buccaneers,27,20
+1833,8,Sun,1986-10-26,1:00PM,New York Jets,New Orleans Saints,28,23
+1834,8,Sun,1986-10-26,1:00PM,Los Angeles Raiders,Houston Oilers,28,17
+1835,8,Sun,1986-10-26,1:00PM,Philadelphia Eagles,San Diego Chargers,23,7
+1836,8,Sun,1986-10-26,4:00PM,Los Angeles Rams,Atlanta Falcons,14,7
+1837,8,Sun,1986-10-26,4:00PM,Dallas Cowboys,St. Louis Cardinals,37,6
+1838,8,Sun,1986-10-26,4:00PM,Denver Broncos,Seattle Seahawks,20,13
+1839,8,Mon,1986-10-27,9:00PM,New York Giants,Washington Redskins,27,20
+1840,9,Sun,1986-11-02,1:00PM,New England Patriots,Atlanta Falcons,25,17
+1841,9,Sun,1986-11-02,1:00PM,Tampa Bay Buccaneers,Buffalo Bills,34,28
+1842,9,Sun,1986-11-02,1:00PM,Cincinnati Bengals,Detroit Lions,24,17
+1843,9,Sun,1986-11-02,1:00PM,Cleveland Browns,Indianapolis Colts,24,9
+1844,9,Sun,1986-11-02,1:00PM,St. Louis Cardinals,Philadelphia Eagles,13,10
+1845,9,Sun,1986-11-02,1:00PM,New York Giants,Dallas Cowboys,17,14
+1846,9,Sun,1986-11-02,1:00PM,Pittsburgh Steelers,Green Bay Packers,27,3
+1847,9,Sun,1986-11-02,1:00PM,Miami Dolphins,Houston Oilers,28,7
+1848,9,Sun,1986-11-02,1:00PM,New Orleans Saints,San Francisco 49ers,23,10
+1849,9,Sun,1986-11-02,4:00PM,Denver Broncos,Los Angeles Raiders,21,10
+1850,9,Sun,1986-11-02,4:00PM,Kansas City Chiefs,San Diego Chargers,24,23
+1851,9,Sun,1986-11-02,4:00PM,Washington Redskins,Minnesota Vikings,44,38
+1852,9,Sun,1986-11-02,4:00PM,New York Jets,Seattle Seahawks,38,7
+1853,9,Mon,1986-11-03,9:00PM,Los Angeles Rams,Chicago Bears,20,17
+1854,10,Sun,1986-11-09,1:00PM,New York Jets,Atlanta Falcons,28,14
+1855,10,Sun,1986-11-09,1:00PM,Buffalo Bills,Pittsburgh Steelers,16,12
+1856,10,Sun,1986-11-09,1:00PM,Chicago Bears,Tampa Bay Buccaneers,23,3
+1857,10,Sun,1986-11-09,1:00PM,Houston Oilers,Cincinnati Bengals,32,28
+1858,10,Sun,1986-11-09,1:00PM,New England Patriots,Indianapolis Colts,30,21
+1859,10,Sun,1986-11-09,1:00PM,Minnesota Vikings,Detroit Lions,24,10
+1860,10,Sun,1986-11-09,1:00PM,Washington Redskins,Green Bay Packers,16,7
+1861,10,Sun,1986-11-09,1:00PM,Kansas City Chiefs,Seattle Seahawks,27,7
+1862,10,Sun,1986-11-09,1:00PM,New Orleans Saints,Los Angeles Rams,6,0
+1863,10,Sun,1986-11-09,4:00PM,San Francisco 49ers,St. Louis Cardinals,43,17
+1864,10,Sun,1986-11-09,4:00PM,Los Angeles Raiders,Dallas Cowboys,17,13
+1865,10,Sun,1986-11-09,4:00PM,San Diego Chargers,Denver Broncos,9,3
+1866,10,Sun,1986-11-09,4:00PM,New York Giants,Philadelphia Eagles,17,14
+1867,10,Mon,1986-11-10,9:00PM,Cleveland Browns,Miami Dolphins,26,16
+1868,11,Sun,1986-11-16,1:00PM,Chicago Bears,Atlanta Falcons,13,10
+1869,11,Sun,1986-11-16,1:00PM,Miami Dolphins,Buffalo Bills,34,24
+1870,11,Sun,1986-11-16,1:00PM,Cincinnati Bengals,Seattle Seahawks,34,7
+1871,11,Sun,1986-11-16,1:00PM,New Orleans Saints,St. Louis Cardinals,16,7
+1872,11,Sun,1986-11-16,1:00PM,Detroit Lions,Philadelphia Eagles,13,11
+1873,11,Sun,1986-11-16,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,31,7
+1874,11,Sun,1986-11-16,1:00PM,New York Giants,Minnesota Vikings,22,20
+1875,11,Sun,1986-11-16,1:00PM,Pittsburgh Steelers,Houston Oilers,21,10
+1876,11,Sun,1986-11-16,4:00PM,Los Angeles Raiders,Cleveland Browns,27,14
+1877,11,Sun,1986-11-16,4:00PM,New York Jets,Indianapolis Colts,31,16
+1878,11,Sun,1986-11-16,4:00PM,Dallas Cowboys,San Diego Chargers,24,21
+1879,11,Sun,1986-11-16,4:00PM,Denver Broncos,Kansas City Chiefs,38,17
+1880,11,Sun,1986-11-16,4:00PM,New England Patriots,Los Angeles Rams,30,28
+1881,11,Mon,1986-11-17,9:00PM,Washington Redskins,San Francisco 49ers,14,6
+1882,12,Thu,1986-11-20,8:00PM,Los Angeles Raiders,San Diego Chargers,37,31
+1883,12,Sun,1986-11-23,1:00PM,New England Patriots,Buffalo Bills,22,19
+1884,12,Sun,1986-11-23,1:00PM,Chicago Bears,Green Bay Packers,12,10
+1885,12,Sun,1986-11-23,1:00PM,Cincinnati Bengals,Minnesota Vikings,24,20
+1886,12,Sun,1986-11-23,1:00PM,Cleveland Browns,Pittsburgh Steelers,37,31
+1887,12,Sun,1986-11-23,1:00PM,Houston Oilers,Indianapolis Colts,31,17
+1888,12,Sun,1986-11-23,1:00PM,New York Giants,Denver Broncos,19,16
+1889,12,Sun,1986-11-23,1:00PM,Detroit Lions,Tampa Bay Buccaneers,38,17
+1890,12,Sun,1986-11-23,4:00PM,San Francisco 49ers,Atlanta Falcons,20,0
+1891,12,Sun,1986-11-23,4:00PM,St. Louis Cardinals,Kansas City Chiefs,23,14
+1892,12,Sun,1986-11-23,4:00PM,Washington Redskins,Dallas Cowboys,41,14
+1893,12,Sun,1986-11-23,4:00PM,Los Angeles Rams,New Orleans Saints,26,13
+1894,12,Sun,1986-11-23,4:00PM,Seattle Seahawks,Philadelphia Eagles,24,20
+1895,12,Mon,1986-11-24,9:00PM,Miami Dolphins,New York Jets,45,3
+1896,13,Thu,1986-11-27,12:30PM,Green Bay Packers,Detroit Lions,44,40
+1897,13,Thu,1986-11-27,4:00PM,Seattle Seahawks,Dallas Cowboys,31,14
+1898,13,Sun,1986-11-30,1:00PM,Buffalo Bills,Kansas City Chiefs,17,14
+1899,13,Sun,1986-11-30,1:00PM,Chicago Bears,Pittsburgh Steelers,13,10
+1900,13,Sun,1986-11-30,1:00PM,Cleveland Browns,Houston Oilers,13,10
+1901,13,Sun,1986-11-30,1:00PM,San Diego Chargers,Indianapolis Colts,17,3
+1902,13,Sun,1986-11-30,1:00PM,Washington Redskins,St. Louis Cardinals,20,17
+1903,13,Sun,1986-11-30,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,45,13
+1904,13,Sun,1986-11-30,1:00PM,New England Patriots,New Orleans Saints,21,20
+1905,13,Sun,1986-11-30,1:00PM,Los Angeles Rams,New York Jets,17,3
+1906,13,Sun,1986-11-30,4:00PM,Atlanta Falcons,Miami Dolphins,20,14
+1907,13,Sun,1986-11-30,4:00PM,Denver Broncos,Cincinnati Bengals,34,28
+1908,13,Sun,1986-11-30,4:00PM,Philadelphia Eagles,Los Angeles Raiders,33,27
+1909,13,Mon,1986-12-01,9:00PM,New York Giants,San Francisco 49ers,21,17
+1910,14,Sun,1986-12-07,1:00PM,Indianapolis Colts,Atlanta Falcons,28,23
+1911,14,Sun,1986-12-07,1:00PM,Cleveland Browns,Buffalo Bills,21,17
+1912,14,Sun,1986-12-07,1:00PM,Chicago Bears,Tampa Bay Buccaneers,48,14
+1913,14,Sun,1986-12-07,1:00PM,Cincinnati Bengals,New England Patriots,31,7
+1914,14,Sun,1986-12-07,1:00PM,Philadelphia Eagles,St. Louis Cardinals,10,10
+1915,14,Sun,1986-12-07,1:00PM,Kansas City Chiefs,Denver Broncos,37,10
+1916,14,Sun,1986-12-07,1:00PM,Pittsburgh Steelers,Detroit Lions,27,17
+1917,14,Sun,1986-12-07,1:00PM,Minnesota Vikings,Green Bay Packers,32,6
+1918,14,Sun,1986-12-07,1:00PM,Miami Dolphins,New Orleans Saints,31,27
+1919,14,Sun,1986-12-07,1:00PM,New York Giants,Washington Redskins,24,14
+1920,14,Sun,1986-12-07,4:00PM,San Francisco 49ers,New York Jets,24,10
+1921,14,Sun,1986-12-07,4:00PM,San Diego Chargers,Houston Oilers,27,0
+1922,14,Sun,1986-12-07,9:00PM,Los Angeles Rams,Dallas Cowboys,29,10
+1923,14,Mon,1986-12-08,9:00PM,Seattle Seahawks,Los Angeles Raiders,37,0
+1924,15,Sat,1986-12-13,12:30PM,Pittsburgh Steelers,New York Jets,45,24
+1925,15,Sat,1986-12-13,4:00PM,Denver Broncos,Washington Redskins,31,30
+1926,15,Sun,1986-12-14,1:00PM,New Orleans Saints,Atlanta Falcons,14,9
+1927,15,Sun,1986-12-14,1:00PM,Indianapolis Colts,Buffalo Bills,24,14
+1928,15,Sun,1986-12-14,1:00PM,Cleveland Browns,Cincinnati Bengals,34,3
+1929,15,Sun,1986-12-14,1:00PM,New York Giants,St. Louis Cardinals,27,7
+1930,15,Sun,1986-12-14,1:00PM,Philadelphia Eagles,Dallas Cowboys,23,21
+1931,15,Sun,1986-12-14,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,21,7
+1932,15,Sun,1986-12-14,1:00PM,San Francisco 49ers,New England Patriots,29,24
+1933,15,Sun,1986-12-14,4:00PM,Kansas City Chiefs,Los Angeles Raiders,20,17
+1934,15,Sun,1986-12-14,4:00PM,Miami Dolphins,Los Angeles Rams,37,31
+1935,15,Sun,1986-12-14,4:00PM,Houston Oilers,Minnesota Vikings,23,10
+1936,15,Sun,1986-12-14,4:00PM,Seattle Seahawks,San Diego Chargers,34,24
+1937,15,Mon,1986-12-15,9:00PM,Chicago Bears,Detroit Lions,16,13
+1938,16,Fri,1986-12-19,9:00PM,San Francisco 49ers,Los Angeles Rams,24,14
+1939,16,Sat,1986-12-20,12:30PM,New York Giants,Green Bay Packers,55,24
+1940,16,Sat,1986-12-20,4:00PM,Seattle Seahawks,Denver Broncos,41,16
+1941,16,Sun,1986-12-21,1:00PM,Atlanta Falcons,Detroit Lions,20,6
+1942,16,Sun,1986-12-21,1:00PM,Houston Oilers,Buffalo Bills,16,7
+1943,16,Sun,1986-12-21,1:00PM,Cincinnati Bengals,New York Jets,52,21
+1944,16,Sun,1986-12-21,1:00PM,Cleveland Browns,San Diego Chargers,47,17
+1945,16,Sun,1986-12-21,1:00PM,St. Louis Cardinals,Tampa Bay Buccaneers,21,17
+1946,16,Sun,1986-12-21,1:00PM,Kansas City Chiefs,Pittsburgh Steelers,24,19
+1947,16,Sun,1986-12-21,1:00PM,Minnesota Vikings,New Orleans Saints,33,17
+1948,16,Sun,1986-12-21,1:00PM,Washington Redskins,Philadelphia Eagles,21,14
+1949,16,Sun,1986-12-21,4:00PM,Chicago Bears,Dallas Cowboys,24,10
+1950,16,Sun,1986-12-21,4:00PM,Indianapolis Colts,Los Angeles Raiders,30,24
+1951,16,Mon,1986-12-22,9:00PM,New England Patriots,Miami Dolphins,34,27
+1952,WildCard,Sun,1986-12-28,12:30PM,New York Jets,Kansas City Chiefs,35,15
+1953,WildCard,Sun,1986-12-28,4:00PM,Washington Redskins,Los Angeles Rams,19,7
+1954,Division,Sat,1987-01-03,12:30PM,Cleveland Browns,New York Jets,23,20
+1955,Division,Sat,1987-01-03,4:00PM,Washington Redskins,Chicago Bears,27,13
+1956,Division,Sun,1987-01-04,12:30PM,New York Giants,San Francisco 49ers,49,3
+1957,Division,Sun,1987-01-04,4:00PM,Denver Broncos,New England Patriots,22,17
+1958,ConfChamp,Sun,1987-01-11,12:30PM,Denver Broncos,Cleveland Browns,23,20
+1959,ConfChamp,Sun,1987-01-11,4:00PM,New York Giants,Washington Redskins,17,0
+1960,SuperBowl,Sun,1987-01-25,4:00PM,New York Giants,Denver Broncos,39,20
+1961,1,Sun,1987-09-13,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,48,10
+1962,1,Sun,1987-09-13,1:00PM,New York Jets,Buffalo Bills,31,28
+1963,1,Sun,1987-09-13,1:00PM,Cincinnati Bengals,Indianapolis Colts,23,21
+1964,1,Sun,1987-09-13,1:00PM,New Orleans Saints,Cleveland Browns,28,21
+1965,1,Sun,1987-09-13,1:00PM,St. Louis Cardinals,Dallas Cowboys,24,13
+1966,1,Sun,1987-09-13,1:00PM,Minnesota Vikings,Detroit Lions,34,19
+1967,1,Sun,1987-09-13,1:00PM,Kansas City Chiefs,San Diego Chargers,20,13
+1968,1,Sun,1987-09-13,1:00PM,New England Patriots,Miami Dolphins,28,21
+1969,1,Sun,1987-09-13,1:00PM,Houston Oilers,Los Angeles Rams,20,16
+1970,1,Sun,1987-09-13,1:00PM,Washington Redskins,Philadelphia Eagles,34,24
+1971,1,Sun,1987-09-13,1:00PM,Pittsburgh Steelers,San Francisco 49ers,30,17
+1972,1,Sun,1987-09-13,4:00PM,Denver Broncos,Seattle Seahawks,40,17
+1973,1,Sun,1987-09-13,4:00PM,Los Angeles Raiders,Green Bay Packers,20,0
+1974,1,Mon,1987-09-14,9:00PM,Chicago Bears,New York Giants,34,19
+1975,2,Sun,1987-09-20,1:00PM,Atlanta Falcons,Washington Redskins,21,20
+1976,2,Sun,1987-09-20,1:00PM,Buffalo Bills,Houston Oilers,34,30
+1977,2,Sun,1987-09-20,1:00PM,Chicago Bears,Tampa Bay Buccaneers,20,3
+1978,2,Sun,1987-09-20,1:00PM,San Francisco 49ers,Cincinnati Bengals,27,26
+1979,2,Sun,1987-09-20,1:00PM,Cleveland Browns,Pittsburgh Steelers,34,10
+1980,2,Sun,1987-09-20,1:00PM,Miami Dolphins,Indianapolis Colts,23,10
+1981,2,Sun,1987-09-20,1:00PM,Green Bay Packers,Denver Broncos,17,17
+1982,2,Sun,1987-09-20,1:00PM,Philadelphia Eagles,New Orleans Saints,27,17
+1983,2,Sun,1987-09-20,4:00PM,San Diego Chargers,St. Louis Cardinals,28,24
+1984,2,Sun,1987-09-20,4:00PM,Dallas Cowboys,New York Giants,16,14
+1985,2,Sun,1987-09-20,4:00PM,Los Angeles Raiders,Detroit Lions,27,7
+1986,2,Sun,1987-09-20,4:00PM,Seattle Seahawks,Kansas City Chiefs,43,14
+1987,2,Sun,1987-09-20,4:00PM,Minnesota Vikings,Los Angeles Rams,21,16
+1988,2,Mon,1987-09-21,9:00PM,New York Jets,New England Patriots,43,24
+1989,4,Sun,1987-10-04,1:00PM,Pittsburgh Steelers,Atlanta Falcons,28,12
+1990,4,Sun,1987-10-04,1:00PM,Indianapolis Colts,Buffalo Bills,47,6
+1991,4,Sun,1987-10-04,1:00PM,Chicago Bears,Philadelphia Eagles,35,3
+1992,4,Sun,1987-10-04,1:00PM,San Diego Chargers,Cincinnati Bengals,10,9
+1993,4,Sun,1987-10-04,1:00PM,Cleveland Browns,New England Patriots,20,10
+1994,4,Sun,1987-10-04,1:00PM,Washington Redskins,St. Louis Cardinals,28,21
+1995,4,Sun,1987-10-04,1:00PM,Tampa Bay Buccaneers,Detroit Lions,31,27
+1996,4,Sun,1987-10-04,1:00PM,New Orleans Saints,Los Angeles Rams,37,10
+1997,4,Sun,1987-10-04,4:00PM,Dallas Cowboys,New York Jets,38,24
+1998,4,Sun,1987-10-04,4:00PM,Houston Oilers,Denver Broncos,40,10
+1999,4,Sun,1987-10-04,4:00PM,Green Bay Packers,Minnesota Vikings,23,16
+2000,4,Sun,1987-10-04,4:00PM,Los Angeles Raiders,Kansas City Chiefs,35,17
+2001,4,Sun,1987-10-04,4:00PM,Seattle Seahawks,Miami Dolphins,24,20
+2002,4,Mon,1987-10-05,9:00PM,San Francisco 49ers,New York Giants,41,21
+2003,5,Sun,1987-10-11,1:00PM,New England Patriots,Buffalo Bills,14,7
+2004,5,Sun,1987-10-11,1:00PM,Chicago Bears,Minnesota Vikings,27,7
+2005,5,Sun,1987-10-11,1:00PM,Houston Oilers,Cleveland Browns,15,10
+2006,5,Sun,1987-10-11,1:00PM,Indianapolis Colts,New York Jets,6,0
+2007,5,Sun,1987-10-11,1:00PM,St. Louis Cardinals,New Orleans Saints,24,19
+2008,5,Sun,1987-10-11,1:00PM,Dallas Cowboys,Philadelphia Eagles,41,22
+2009,5,Sun,1987-10-11,1:00PM,Detroit Lions,Green Bay Packers,19,16
+2010,5,Sun,1987-10-11,1:00PM,Miami Dolphins,Kansas City Chiefs,42,0
+2011,5,Sun,1987-10-11,1:00PM,San Diego Chargers,Tampa Bay Buccaneers,17,13
+2012,5,Sun,1987-10-11,4:00PM,San Francisco 49ers,Atlanta Falcons,25,17
+2013,5,Sun,1987-10-11,4:00PM,Cincinnati Bengals,Seattle Seahawks,17,10
+2014,5,Sun,1987-10-11,4:00PM,Washington Redskins,New York Giants,38,12
+2015,5,Sun,1987-10-11,4:00PM,Los Angeles Rams,Pittsburgh Steelers,31,21
+2016,5,Mon,1987-10-12,9:00PM,Denver Broncos,Los Angeles Raiders,30,14
+2017,6,Sun,1987-10-18,1:00PM,Atlanta Falcons,Los Angeles Rams,24,20
+2018,6,Sun,1987-10-18,1:00PM,New Orleans Saints,Chicago Bears,19,17
+2019,6,Sun,1987-10-18,1:00PM,Cleveland Browns,Cincinnati Bengals,34,0
+2020,6,Sun,1987-10-18,1:00PM,Pittsburgh Steelers,Indianapolis Colts,21,7
+2021,6,Sun,1987-10-18,1:00PM,Seattle Seahawks,Detroit Lions,37,14
+2022,6,Sun,1987-10-18,1:00PM,Green Bay Packers,Philadelphia Eagles,16,10
+2023,6,Sun,1987-10-18,1:00PM,New York Jets,Miami Dolphins,37,31
+2024,6,Sun,1987-10-18,1:00PM,Tampa Bay Buccaneers,Minnesota Vikings,20,10
+2025,6,Sun,1987-10-18,1:00PM,New England Patriots,Houston Oilers,21,7
+2026,6,Sun,1987-10-18,4:00PM,Buffalo Bills,New York Giants,6,3
+2027,6,Sun,1987-10-18,4:00PM,San Francisco 49ers,St. Louis Cardinals,34,28
+2028,6,Sun,1987-10-18,4:00PM,Denver Broncos,Kansas City Chiefs,26,17
+2029,6,Sun,1987-10-18,4:00PM,San Diego Chargers,Los Angeles Raiders,23,17
+2030,6,Mon,1987-10-19,9:00PM,Washington Redskins,Dallas Cowboys,13,7
+2031,7,Sun,1987-10-25,1:00PM,Houston Oilers,Atlanta Falcons,37,33
+2032,7,Sun,1987-10-25,1:00PM,Buffalo Bills,Miami Dolphins,34,31
+2033,7,Sun,1987-10-25,1:00PM,Chicago Bears,Tampa Bay Buccaneers,27,26
+2034,7,Sun,1987-10-25,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,23,20
+2035,7,Sun,1987-10-25,1:00PM,Indianapolis Colts,New England Patriots,30,16
+2036,7,Sun,1987-10-25,1:00PM,Philadelphia Eagles,Dallas Cowboys,37,20
+2037,7,Sun,1987-10-25,1:00PM,Green Bay Packers,Detroit Lions,34,33
+2038,7,Sun,1987-10-25,1:00PM,San Francisco 49ers,New Orleans Saints,24,22
+2039,7,Sun,1987-10-25,1:00PM,Washington Redskins,New York Jets,17,16
+2040,7,Sun,1987-10-25,4:00PM,New York Giants,St. Louis Cardinals,30,7
+2041,7,Sun,1987-10-25,4:00PM,San Diego Chargers,Kansas City Chiefs,42,21
+2042,7,Sun,1987-10-25,4:00PM,Seattle Seahawks,Los Angeles Raiders,35,13
+2043,7,Mon,1987-10-26,9:00PM,Cleveland Browns,Los Angeles Rams,30,17
+2044,7,Mon,1987-10-26,9:00PM,Minnesota Vikings,Denver Broncos,34,27
+2045,8,Sun,1987-11-01,1:00PM,New Orleans Saints,Atlanta Falcons,38,0
+2046,8,Sun,1987-11-01,1:00PM,Washington Redskins,Buffalo Bills,27,7
+2047,8,Sun,1987-11-01,1:00PM,Chicago Bears,Kansas City Chiefs,31,28
+2048,8,Sun,1987-11-01,1:00PM,Houston Oilers,Cincinnati Bengals,31,29
+2049,8,Sun,1987-11-01,1:00PM,Indianapolis Colts,New York Jets,19,14
+2050,8,Sun,1987-11-01,1:00PM,Philadelphia Eagles,St. Louis Cardinals,28,23
+2051,8,Sun,1987-11-01,1:00PM,Tampa Bay Buccaneers,Green Bay Packers,23,17
+2052,8,Sun,1987-11-01,1:00PM,Miami Dolphins,Pittsburgh Steelers,35,24
+2053,8,Sun,1987-11-01,1:00PM,New England Patriots,Los Angeles Raiders,26,23
+2054,8,Sun,1987-11-01,4:00PM,San Diego Chargers,Cleveland Browns,27,24
+2055,8,Sun,1987-11-01,4:00PM,Denver Broncos,Detroit Lions,34,0
+2056,8,Sun,1987-11-01,4:00PM,Seattle Seahawks,Minnesota Vikings,28,17
+2057,8,Sun,1987-11-01,4:00PM,San Francisco 49ers,Los Angeles Rams,31,10
+2058,8,Mon,1987-11-02,9:00PM,Dallas Cowboys,New York Giants,33,24
+2059,9,Sun,1987-11-08,1:00PM,Cleveland Browns,Atlanta Falcons,38,3
+2060,9,Sun,1987-11-08,1:00PM,Buffalo Bills,Denver Broncos,21,14
+2061,9,Sun,1987-11-08,1:00PM,Chicago Bears,Green Bay Packers,26,24
+2062,9,Sun,1987-11-08,1:00PM,San Diego Chargers,Indianapolis Colts,16,13
+2063,9,Sun,1987-11-08,1:00PM,St. Louis Cardinals,Tampa Bay Buccaneers,31,28
+2064,9,Sun,1987-11-08,1:00PM,Detroit Lions,Dallas Cowboys,27,17
+2065,9,Sun,1987-11-08,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,17,16
+2066,9,Sun,1987-11-08,1:00PM,Minnesota Vikings,Los Angeles Raiders,31,20
+2067,9,Sun,1987-11-08,1:00PM,Philadelphia Eagles,Washington Redskins,31,27
+2068,9,Sun,1987-11-08,4:00PM,Miami Dolphins,Cincinnati Bengals,20,14
+2069,9,Sun,1987-11-08,4:00PM,New Orleans Saints,Los Angeles Rams,31,14
+2070,9,Sun,1987-11-08,4:00PM,San Francisco 49ers,Houston Oilers,27,20
+2071,9,Sun,1987-11-08,8:00PM,New York Giants,New England Patriots,17,10
+2072,9,Mon,1987-11-09,9:00PM,New York Jets,Seattle Seahawks,30,14
+2073,10,Sun,1987-11-15,1:00PM,Cleveland Browns,Buffalo Bills,27,21
+2074,10,Sun,1987-11-15,1:00PM,Indianapolis Colts,Miami Dolphins,40,21
+2075,10,Sun,1987-11-15,1:00PM,Los Angeles Rams,St. Louis Cardinals,27,24
+2076,10,Sun,1987-11-15,1:00PM,Dallas Cowboys,New England Patriots,23,17
+2077,10,Sun,1987-11-15,1:00PM,Washington Redskins,Detroit Lions,20,13
+2078,10,Sun,1987-11-15,1:00PM,New York Jets,Kansas City Chiefs,16,9
+2079,10,Sun,1987-11-15,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,23,17
+2080,10,Sun,1987-11-15,1:00PM,Houston Oilers,Pittsburgh Steelers,23,3
+2081,10,Sun,1987-11-15,4:00PM,Cincinnati Bengals,Atlanta Falcons,16,10
+2082,10,Sun,1987-11-15,4:00PM,Seattle Seahawks,Green Bay Packers,24,13
+2083,10,Sun,1987-11-15,4:00PM,New Orleans Saints,San Francisco 49ers,26,24
+2084,10,Sun,1987-11-15,4:00PM,New York Giants,Philadelphia Eagles,20,17
+2085,10,Sun,1987-11-15,8:00PM,San Diego Chargers,Los Angeles Raiders,16,14
+2086,10,Mon,1987-11-16,9:00PM,Denver Broncos,Chicago Bears,31,29
+2087,11,Sun,1987-11-22,1:00PM,Minnesota Vikings,Atlanta Falcons,24,13
+2088,11,Sun,1987-11-22,1:00PM,Buffalo Bills,New York Jets,17,14
+2089,11,Sun,1987-11-22,1:00PM,Chicago Bears,Detroit Lions,30,10
+2090,11,Sun,1987-11-22,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,30,16
+2091,11,Sun,1987-11-22,1:00PM,Cleveland Browns,Houston Oilers,40,7
+2092,11,Sun,1987-11-22,1:00PM,New England Patriots,Indianapolis Colts,24,0
+2093,11,Sun,1987-11-22,1:00PM,St. Louis Cardinals,Philadelphia Eagles,31,19
+2094,11,Sun,1987-11-22,1:00PM,Green Bay Packers,Kansas City Chiefs,23,3
+2095,11,Sun,1987-11-22,1:00PM,San Francisco 49ers,Tampa Bay Buccaneers,24,10
+2096,11,Sun,1987-11-22,4:00PM,Denver Broncos,Los Angeles Raiders,23,17
+2097,11,Sun,1987-11-22,4:00PM,New Orleans Saints,New York Giants,23,14
+2098,11,Sun,1987-11-22,4:00PM,Seattle Seahawks,San Diego Chargers,34,3
+2099,11,Sun,1987-11-22,8:00PM,Miami Dolphins,Dallas Cowboys,20,14
+2100,11,Mon,1987-11-23,9:00PM,Los Angeles Rams,Washington Redskins,30,26
+2101,12,Thu,1987-11-26,12:30PM,Kansas City Chiefs,Detroit Lions,27,20
+2102,12,Thu,1987-11-26,4:00PM,Minnesota Vikings,Dallas Cowboys,44,38
+2103,12,Sun,1987-11-29,1:00PM,St. Louis Cardinals,Atlanta Falcons,34,21
+2104,12,Sun,1987-11-29,1:00PM,Buffalo Bills,Miami Dolphins,27,0
+2105,12,Sun,1987-11-29,1:00PM,Chicago Bears,Green Bay Packers,23,10
+2106,12,Sun,1987-11-29,1:00PM,New York Jets,Cincinnati Bengals,27,20
+2107,12,Sun,1987-11-29,1:00PM,Indianapolis Colts,Houston Oilers,51,27
+2108,12,Sun,1987-11-29,1:00PM,New Orleans Saints,Pittsburgh Steelers,20,16
+2109,12,Sun,1987-11-29,1:00PM,Philadelphia Eagles,New England Patriots,34,31
+2110,12,Sun,1987-11-29,4:00PM,Denver Broncos,San Diego Chargers,31,17
+2111,12,Sun,1987-11-29,4:00PM,Washington Redskins,New York Giants,23,19
+2112,12,Sun,1987-11-29,4:00PM,Los Angeles Rams,Tampa Bay Buccaneers,35,3
+2113,12,Sun,1987-11-29,8:00PM,San Francisco 49ers,Cleveland Browns,38,24
+2114,12,Mon,1987-11-30,9:00PM,Los Angeles Raiders,Seattle Seahawks,37,14
+2115,13,Sun,1987-12-06,1:00PM,Atlanta Falcons,Dallas Cowboys,21,10
+2116,13,Sun,1987-12-06,1:00PM,Cincinnati Bengals,Kansas City Chiefs,30,27
+2117,13,Sun,1987-12-06,1:00PM,Indianapolis Colts,Cleveland Browns,9,7
+2118,13,Sun,1987-12-06,1:00PM,Washington Redskins,St. Louis Cardinals,34,17
+2119,13,Sun,1987-12-06,1:00PM,Los Angeles Rams,Detroit Lions,37,16
+2120,13,Sun,1987-12-06,1:00PM,San Francisco 49ers,Green Bay Packers,23,12
+2121,13,Sun,1987-12-06,1:00PM,New York Giants,Philadelphia Eagles,23,20
+2122,13,Sun,1987-12-06,1:00PM,Houston Oilers,San Diego Chargers,33,18
+2123,13,Sun,1987-12-06,1:00PM,Pittsburgh Steelers,Seattle Seahawks,13,9
+2124,13,Sun,1987-12-06,4:00PM,Los Angeles Raiders,Buffalo Bills,34,21
+2125,13,Sun,1987-12-06,4:00PM,Denver Broncos,New England Patriots,31,20
+2126,13,Sun,1987-12-06,4:00PM,New Orleans Saints,Tampa Bay Buccaneers,44,34
+2127,13,Sun,1987-12-06,8:00PM,Chicago Bears,Minnesota Vikings,30,24
+2128,13,Mon,1987-12-07,9:00PM,Miami Dolphins,New York Jets,37,28
+2129,14,Sun,1987-12-13,1:00PM,Buffalo Bills,Indianapolis Colts,27,3
+2130,14,Sun,1987-12-13,1:00PM,Cleveland Browns,Cincinnati Bengals,38,24
+2131,14,Sun,1987-12-13,1:00PM,Washington Redskins,Dallas Cowboys,24,20
+2132,14,Sun,1987-12-13,1:00PM,Green Bay Packers,Minnesota Vikings,16,10
+2133,14,Sun,1987-12-13,1:00PM,Miami Dolphins,Philadelphia Eagles,28,10
+2134,14,Sun,1987-12-13,1:00PM,New Orleans Saints,Houston Oilers,24,10
+2135,14,Sun,1987-12-13,1:00PM,New England Patriots,New York Jets,42,20
+2136,14,Sun,1987-12-13,4:00PM,Los Angeles Rams,Atlanta Falcons,33,0
+2137,14,Sun,1987-12-13,4:00PM,St. Louis Cardinals,New York Giants,27,24
+2138,14,Sun,1987-12-13,4:00PM,Detroit Lions,Tampa Bay Buccaneers,20,10
+2139,14,Sun,1987-12-13,4:00PM,Kansas City Chiefs,Los Angeles Raiders,16,10
+2140,14,Sun,1987-12-13,4:00PM,Pittsburgh Steelers,San Diego Chargers,20,16
+2141,14,Sun,1987-12-13,8:00PM,Seattle Seahawks,Denver Broncos,28,21
+2142,14,Mon,1987-12-14,9:00PM,San Francisco 49ers,Chicago Bears,41,0
+2143,15,Sat,1987-12-19,12:30PM,New York Giants,Green Bay Packers,20,10
+2144,15,Sat,1987-12-19,4:00PM,Denver Broncos,Kansas City Chiefs,20,17
+2145,15,Sun,1987-12-20,1:00PM,New England Patriots,Buffalo Bills,13,7
+2146,15,Sun,1987-12-20,1:00PM,Seattle Seahawks,Chicago Bears,34,21
+2147,15,Sun,1987-12-20,1:00PM,New Orleans Saints,Cincinnati Bengals,41,24
+2148,15,Sun,1987-12-20,1:00PM,Minnesota Vikings,Detroit Lions,17,14
+2149,15,Sun,1987-12-20,1:00PM,Philadelphia Eagles,New York Jets,38,27
+2150,15,Sun,1987-12-20,1:00PM,Houston Oilers,Pittsburgh Steelers,24,16
+2151,15,Sun,1987-12-20,4:00PM,San Francisco 49ers,Atlanta Falcons,35,7
+2152,15,Sun,1987-12-20,4:00PM,Cleveland Browns,Los Angeles Raiders,24,17
+2153,15,Sun,1987-12-20,4:00PM,Indianapolis Colts,San Diego Chargers,20,7
+2154,15,Sun,1987-12-20,4:00PM,St. Louis Cardinals,Tampa Bay Buccaneers,31,14
+2155,15,Sun,1987-12-20,8:00PM,Miami Dolphins,Washington Redskins,23,21
+2156,15,Mon,1987-12-21,9:00PM,Dallas Cowboys,Los Angeles Rams,29,21
+2157,16,Sat,1987-12-26,12:30PM,Cleveland Browns,Pittsburgh Steelers,19,13
+2158,16,Sat,1987-12-26,4:00PM,Washington Redskins,Minnesota Vikings,27,24
+2159,16,Sun,1987-12-27,1:00PM,Detroit Lions,Atlanta Falcons,30,13
+2160,16,Sun,1987-12-27,1:00PM,Philadelphia Eagles,Buffalo Bills,17,7
+2161,16,Sun,1987-12-27,1:00PM,Houston Oilers,Cincinnati Bengals,21,17
+2162,16,Sun,1987-12-27,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers,24,6
+2163,16,Sun,1987-12-27,1:00PM,Dallas Cowboys,St. Louis Cardinals,21,16
+2164,16,Sun,1987-12-27,1:00PM,New Orleans Saints,Green Bay Packers,33,24
+2165,16,Sun,1987-12-27,1:00PM,Kansas City Chiefs,Seattle Seahawks,41,20
+2166,16,Sun,1987-12-27,1:00PM,New York Giants,New York Jets,20,7
+2167,16,Sun,1987-12-27,4:00PM,Chicago Bears,Los Angeles Raiders,6,3
+2168,16,Sun,1987-12-27,4:00PM,Denver Broncos,San Diego Chargers,24,0
+2169,16,Sun,1987-12-27,8:00PM,San Francisco 49ers,Los Angeles Rams,48,0
+2170,16,Mon,1987-12-28,9:00PM,New England Patriots,Miami Dolphins,24,10
+2171,WildCard,Sun,1988-01-03,12:30PM,Minnesota Vikings,New Orleans Saints,44,10
+2172,WildCard,Sun,1988-01-03,4:00PM,Houston Oilers,Seattle Seahawks,23,20
+2173,Division,Sat,1988-01-09,12:30PM,Cleveland Browns,Indianapolis Colts,38,21
+2174,Division,Sat,1988-01-09,4:00PM,Minnesota Vikings,San Francisco 49ers,36,24
+2175,Division,Sun,1988-01-10,12:30PM,Washington Redskins,Chicago Bears,21,17
+2176,Division,Sun,1988-01-10,4:00PM,Denver Broncos,Houston Oilers,34,10
+2177,ConfChamp,Sun,1988-01-17,12:30PM,Washington Redskins,Minnesota Vikings,17,10
+2178,ConfChamp,Sun,1988-01-17,4:00PM,Denver Broncos,Cleveland Browns,38,33
+2179,SuperBowl,Sun,1988-01-31,6:00PM,Washington Redskins,Denver Broncos,42,10
+2180,1,Sun,1988-09-04,1:00PM,Detroit Lions,Atlanta Falcons,31,17
+2181,1,Sun,1988-09-04,1:00PM,Buffalo Bills,Minnesota Vikings,13,10
+2182,1,Sun,1988-09-04,1:00PM,Chicago Bears,Miami Dolphins,34,7
+2183,1,Sun,1988-09-04,1:00PM,Cincinnati Bengals,Phoenix Cardinals,21,14
+2184,1,Sun,1988-09-04,1:00PM,Pittsburgh Steelers,Dallas Cowboys,24,21
+2185,1,Sun,1988-09-04,1:00PM,Los Angeles Rams,Green Bay Packers,34,7
+2186,1,Sun,1988-09-04,1:00PM,San Francisco 49ers,New Orleans Saints,34,33
+2187,1,Sun,1988-09-04,1:00PM,Philadelphia Eagles,Tampa Bay Buccaneers,41,14
+2188,1,Sun,1988-09-04,4:00PM,Cleveland Browns,Kansas City Chiefs,6,3
+2189,1,Sun,1988-09-04,4:00PM,Houston Oilers,Indianapolis Colts,17,14
+2190,1,Sun,1988-09-04,4:00PM,Seattle Seahawks,Denver Broncos,21,14
+2191,1,Sun,1988-09-04,4:00PM,New England Patriots,New York Jets,28,3
+2192,1,Sun,1988-09-04,4:00PM,Los Angeles Raiders,San Diego Chargers,24,13
+2193,1,Mon,1988-09-05,8:00PM,New York Giants,Washington Redskins,27,20
+2194,2,Sun,1988-09-11,1:00PM,New Orleans Saints,Atlanta Falcons,29,21
+2195,2,Sun,1988-09-11,1:00PM,Buffalo Bills,Miami Dolphins,9,6
+2196,2,Sun,1988-09-11,1:00PM,Chicago Bears,Indianapolis Colts,17,13
+2197,2,Sun,1988-09-11,1:00PM,Tampa Bay Buccaneers,Green Bay Packers,13,10
+2198,2,Sun,1988-09-11,1:00PM,San Francisco 49ers,New York Giants,20,17
+2199,2,Sun,1988-09-11,1:00PM,Washington Redskins,Pittsburgh Steelers,30,29
+2200,2,Sun,1988-09-11,4:00PM,Cincinnati Bengals,Philadelphia Eagles,28,24
+2201,2,Sun,1988-09-11,4:00PM,New York Jets,Cleveland Browns,23,3
+2202,2,Sun,1988-09-11,4:00PM,Denver Broncos,San Diego Chargers,34,3
+2203,2,Sun,1988-09-11,4:00PM,Los Angeles Rams,Detroit Lions,17,10
+2204,2,Sun,1988-09-11,4:00PM,Seattle Seahawks,Kansas City Chiefs,31,10
+2205,2,Sun,1988-09-11,4:00PM,Minnesota Vikings,New England Patriots,36,6
+2206,2,Sun,1988-09-11,4:00PM,Houston Oilers,Los Angeles Raiders,38,35
+2207,2,Mon,1988-09-12,8:00PM,Dallas Cowboys,Phoenix Cardinals,17,14
+2208,3,Sun,1988-09-18,1:00PM,Buffalo Bills,New England Patriots,16,14
+2209,3,Sun,1988-09-18,1:00PM,Minnesota Vikings,Chicago Bears,31,7
+2210,3,Sun,1988-09-18,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,17,12
+2211,3,Sun,1988-09-18,1:00PM,Phoenix Cardinals,Tampa Bay Buccaneers,30,24
+2212,3,Sun,1988-09-18,1:00PM,Kansas City Chiefs,Denver Broncos,20,13
+2213,3,Sun,1988-09-18,1:00PM,New Orleans Saints,Detroit Lions,22,14
+2214,3,Sun,1988-09-18,1:00PM,Miami Dolphins,Green Bay Packers,24,17
+2215,3,Sun,1988-09-18,1:00PM,New York Jets,Houston Oilers,45,3
+2216,3,Sun,1988-09-18,1:00PM,Washington Redskins,Philadelphia Eagles,17,10
+2217,3,Sun,1988-09-18,4:00PM,Atlanta Falcons,San Francisco 49ers,34,17
+2218,3,Sun,1988-09-18,4:00PM,New York Giants,Dallas Cowboys,12,10
+2219,3,Sun,1988-09-18,4:00PM,Los Angeles Rams,Los Angeles Raiders,22,17
+2220,3,Sun,1988-09-18,4:00PM,San Diego Chargers,Seattle Seahawks,17,6
+2221,3,Mon,1988-09-19,8:00PM,Cleveland Browns,Indianapolis Colts,23,17
+2222,4,Sun,1988-09-25,1:00PM,Dallas Cowboys,Atlanta Falcons,26,20
+2223,4,Sun,1988-09-25,1:00PM,Buffalo Bills,Pittsburgh Steelers,36,28
+2224,4,Sun,1988-09-25,1:00PM,Chicago Bears,Green Bay Packers,24,6
+2225,4,Sun,1988-09-25,1:00PM,Cincinnati Bengals,Cleveland Browns,24,17
+2226,4,Sun,1988-09-25,1:00PM,Indianapolis Colts,Miami Dolphins,15,13
+2227,4,Sun,1988-09-25,1:00PM,New York Jets,Detroit Lions,17,10
+2228,4,Sun,1988-09-25,1:00PM,Minnesota Vikings,Philadelphia Eagles,23,21
+2229,4,Sun,1988-09-25,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,13,9
+2230,4,Sun,1988-09-25,1:00PM,Houston Oilers,New England Patriots,31,6
+2231,4,Sun,1988-09-25,4:00PM,Phoenix Cardinals,Washington Redskins,30,21
+2232,4,Sun,1988-09-25,4:00PM,San Diego Chargers,Kansas City Chiefs,24,23
+2233,4,Sun,1988-09-25,4:00PM,Los Angeles Rams,New York Giants,45,31
+2234,4,Sun,1988-09-25,4:00PM,San Francisco 49ers,Seattle Seahawks,38,7
+2235,4,Mon,1988-09-26,8:00PM,Los Angeles Raiders,Denver Broncos,30,27
+2236,5,Sun,1988-10-02,1:00PM,Seattle Seahawks,Atlanta Falcons,31,20
+2237,5,Sun,1988-10-02,1:00PM,Chicago Bears,Buffalo Bills,24,3
+2238,5,Sun,1988-10-02,1:00PM,Cleveland Browns,Pittsburgh Steelers,23,9
+2239,5,Sun,1988-10-02,1:00PM,New England Patriots,Indianapolis Colts,21,17
+2240,5,Sun,1988-10-02,1:00PM,Tampa Bay Buccaneers,Green Bay Packers,27,24
+2241,5,Sun,1988-10-02,1:00PM,New York Giants,Washington Redskins,24,23
+2242,5,Sun,1988-10-02,1:00PM,Philadelphia Eagles,Houston Oilers,32,23
+2243,5,Sun,1988-10-02,4:00PM,Cincinnati Bengals,Los Angeles Raiders,45,21
+2244,5,Sun,1988-10-02,4:00PM,Phoenix Cardinals,Los Angeles Rams,41,27
+2245,5,Sun,1988-10-02,4:00PM,Denver Broncos,San Diego Chargers,12,0
+2246,5,Sun,1988-10-02,4:00PM,San Francisco 49ers,Detroit Lions,20,13
+2247,5,Sun,1988-10-02,4:00PM,New York Jets,Kansas City Chiefs,17,17
+2248,5,Sun,1988-10-02,4:00PM,Miami Dolphins,Minnesota Vikings,24,7
+2249,5,Mon,1988-10-03,9:00PM,New Orleans Saints,Dallas Cowboys,20,17
+2250,6,Sun,1988-10-09,1:00PM,Los Angeles Rams,Atlanta Falcons,33,0
+2251,6,Sun,1988-10-09,1:00PM,Buffalo Bills,Indianapolis Colts,34,23
+2252,6,Sun,1988-10-09,1:00PM,Chicago Bears,Detroit Lions,24,7
+2253,6,Sun,1988-10-09,1:00PM,Cincinnati Bengals,New York Jets,36,19
+2254,6,Sun,1988-10-09,1:00PM,Seattle Seahawks,Cleveland Browns,16,10
+2255,6,Sun,1988-10-09,1:00PM,Washington Redskins,Dallas Cowboys,35,17
+2256,6,Sun,1988-10-09,1:00PM,Green Bay Packers,New England Patriots,45,3
+2257,6,Sun,1988-10-09,1:00PM,Houston Oilers,Kansas City Chiefs,7,6
+2258,6,Sun,1988-10-09,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,14,13
+2259,6,Sun,1988-10-09,4:00PM,Phoenix Cardinals,Pittsburgh Steelers,31,14
+2260,6,Sun,1988-10-09,4:00PM,Denver Broncos,San Francisco 49ers,16,13
+2261,6,Sun,1988-10-09,4:00PM,Miami Dolphins,Los Angeles Raiders,24,14
+2262,6,Sun,1988-10-09,4:00PM,New Orleans Saints,San Diego Chargers,23,17
+2263,6,Mon,1988-10-10,9:00PM,Philadelphia Eagles,New York Giants,24,13
+2264,7,Sun,1988-10-16,1:00PM,Chicago Bears,Dallas Cowboys,17,7
+2265,7,Sun,1988-10-16,1:00PM,New England Patriots,Cincinnati Bengals,27,21
+2266,7,Sun,1988-10-16,1:00PM,Cleveland Browns,Philadelphia Eagles,19,3
+2267,7,Sun,1988-10-16,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers,35,31
+2268,7,Sun,1988-10-16,1:00PM,Washington Redskins,Phoenix Cardinals,33,17
+2269,7,Sun,1988-10-16,1:00PM,New York Giants,Detroit Lions,30,10
+2270,7,Sun,1988-10-16,1:00PM,Green Bay Packers,Minnesota Vikings,34,14
+2271,7,Sun,1988-10-16,1:00PM,Los Angeles Raiders,Kansas City Chiefs,27,17
+2272,7,Sun,1988-10-16,1:00PM,Houston Oilers,Pittsburgh Steelers,34,14
+2273,7,Sun,1988-10-16,4:00PM,Denver Broncos,Atlanta Falcons,30,14
+2274,7,Sun,1988-10-16,4:00PM,Miami Dolphins,San Diego Chargers,31,28
+2275,7,Sun,1988-10-16,4:00PM,New Orleans Saints,Seattle Seahawks,20,19
+2276,7,Sun,1988-10-16,4:00PM,San Francisco 49ers,Los Angeles Rams,24,21
+2277,7,Mon,1988-10-17,9:00PM,Buffalo Bills,New York Jets,37,14
+2278,8,Sun,1988-10-23,1:00PM,New York Giants,Atlanta Falcons,23,16
+2279,8,Sun,1988-10-23,1:00PM,Buffalo Bills,New England Patriots,23,20
+2280,8,Sun,1988-10-23,1:00PM,Cincinnati Bengals,Houston Oilers,44,21
+2281,8,Sun,1988-10-23,1:00PM,Philadelphia Eagles,Dallas Cowboys,24,23
+2282,8,Sun,1988-10-23,1:00PM,Pittsburgh Steelers,Denver Broncos,39,21
+2283,8,Sun,1988-10-23,1:00PM,Detroit Lions,Kansas City Chiefs,7,6
+2284,8,Sun,1988-10-23,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,49,20
+2285,8,Sun,1988-10-23,1:00PM,New Orleans Saints,Los Angeles Raiders,20,6
+2286,8,Sun,1988-10-23,4:00PM,Cleveland Browns,Phoenix Cardinals,29,21
+2287,8,Sun,1988-10-23,4:00PM,Indianapolis Colts,San Diego Chargers,16,0
+2288,8,Sun,1988-10-23,4:00PM,Washington Redskins,Green Bay Packers,20,17
+2289,8,Sun,1988-10-23,4:00PM,New York Jets,Miami Dolphins,44,30
+2290,8,Sun,1988-10-23,4:00PM,Los Angeles Rams,Seattle Seahawks,31,10
+2291,8,Mon,1988-10-24,9:00PM,Chicago Bears,San Francisco 49ers,10,9
+2292,9,Sun,1988-10-30,1:00PM,Atlanta Falcons,Philadelphia Eagles,27,24
+2293,9,Sun,1988-10-30,1:00PM,Buffalo Bills,Green Bay Packers,28,0
+2294,9,Sun,1988-10-30,1:00PM,New England Patriots,Chicago Bears,30,7
+2295,9,Sun,1988-10-30,1:00PM,Cleveland Browns,Cincinnati Bengals,23,16
+2296,9,Sun,1988-10-30,1:00PM,Phoenix Cardinals,Dallas Cowboys,16,10
+2297,9,Sun,1988-10-30,1:00PM,Miami Dolphins,Tampa Bay Buccaneers,17,14
+2298,9,Sun,1988-10-30,1:00PM,Los Angeles Rams,New Orleans Saints,12,10
+2299,9,Sun,1988-10-30,1:00PM,New York Jets,Pittsburgh Steelers,24,20
+2300,9,Sun,1988-10-30,4:00PM,New York Giants,Detroit Lions,13,10
+2301,9,Sun,1988-10-30,4:00PM,Los Angeles Raiders,Kansas City Chiefs,17,10
+2302,9,Sun,1988-10-30,4:00PM,San Francisco 49ers,Minnesota Vikings,24,21
+2303,9,Sun,1988-10-30,4:00PM,Seattle Seahawks,San Diego Chargers,17,14
+2304,9,Sun,1988-10-30,8:00PM,Houston Oilers,Washington Redskins,41,17
+2305,9,Mon,1988-10-31,9:00PM,Indianapolis Colts,Denver Broncos,55,23
+2306,10,Sun,1988-11-06,1:00PM,Atlanta Falcons,Green Bay Packers,20,0
+2307,10,Sun,1988-11-06,1:00PM,Chicago Bears,Tampa Bay Buccaneers,28,10
+2308,10,Sun,1988-11-06,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,42,7
+2309,10,Sun,1988-11-06,1:00PM,New York Giants,Dallas Cowboys,29,21
+2310,10,Sun,1988-11-06,1:00PM,Minnesota Vikings,Detroit Lions,44,17
+2311,10,Sun,1988-11-06,1:00PM,New England Patriots,Miami Dolphins,21,10
+2312,10,Sun,1988-11-06,1:00PM,Philadelphia Eagles,Los Angeles Rams,30,24
+2313,10,Sun,1988-11-06,4:00PM,Buffalo Bills,Seattle Seahawks,13,3
+2314,10,Sun,1988-11-06,4:00PM,Indianapolis Colts,New York Jets,38,14
+2315,10,Sun,1988-11-06,4:00PM,Phoenix Cardinals,San Francisco 49ers,24,23
+2316,10,Sun,1988-11-06,4:00PM,Denver Broncos,Kansas City Chiefs,17,11
+2317,10,Sun,1988-11-06,4:00PM,Washington Redskins,New Orleans Saints,27,24
+2318,10,Sun,1988-11-06,8:00PM,Los Angeles Raiders,San Diego Chargers,13,3
+2319,10,Mon,1988-11-07,9:00PM,Houston Oilers,Cleveland Browns,24,17
+2320,11,Sun,1988-11-13,1:00PM,San Diego Chargers,Atlanta Falcons,10,7
+2321,11,Sun,1988-11-13,1:00PM,Chicago Bears,Washington Redskins,34,14
+2322,11,Sun,1988-11-13,1:00PM,Kansas City Chiefs,Cincinnati Bengals,31,28
+2323,11,Sun,1988-11-13,1:00PM,Indianapolis Colts,Green Bay Packers,20,13
+2324,11,Sun,1988-11-13,1:00PM,Tampa Bay Buccaneers,Detroit Lions,23,20
+2325,11,Sun,1988-11-13,1:00PM,New England Patriots,New York Jets,14,13
+2326,11,Sun,1988-11-13,1:00PM,Philadelphia Eagles,Pittsburgh Steelers,27,26
+2327,11,Sun,1988-11-13,4:00PM,Denver Broncos,Cleveland Browns,30,7
+2328,11,Sun,1988-11-13,4:00PM,Phoenix Cardinals,New York Giants,24,17
+2329,11,Sun,1988-11-13,4:00PM,New Orleans Saints,Los Angeles Rams,14,10
+2330,11,Sun,1988-11-13,4:00PM,Seattle Seahawks,Houston Oilers,27,24
+2331,11,Sun,1988-11-13,4:00PM,Los Angeles Raiders,San Francisco 49ers,9,3
+2332,11,Sun,1988-11-13,8:00PM,Minnesota Vikings,Dallas Cowboys,43,3
+2333,11,Mon,1988-11-14,9:00PM,Buffalo Bills,Miami Dolphins,31,6
+2334,12,Sun,1988-11-20,1:00PM,Buffalo Bills,New York Jets,9,6
+2335,12,Sun,1988-11-20,1:00PM,Chicago Bears,Tampa Bay Buccaneers,27,15
+2336,12,Sun,1988-11-20,1:00PM,Cincinnati Bengals,Dallas Cowboys,38,24
+2337,12,Sun,1988-11-20,1:00PM,Cleveland Browns,Pittsburgh Steelers,27,7
+2338,12,Sun,1988-11-20,1:00PM,Minnesota Vikings,Indianapolis Colts,12,3
+2339,12,Sun,1988-11-20,1:00PM,Houston Oilers,Phoenix Cardinals,38,20
+2340,12,Sun,1988-11-20,1:00PM,Detroit Lions,Green Bay Packers,19,9
+2341,12,Sun,1988-11-20,1:00PM,Kansas City Chiefs,Seattle Seahawks,27,24
+2342,12,Sun,1988-11-20,4:00PM,Atlanta Falcons,Los Angeles Raiders,12,6
+2343,12,Sun,1988-11-20,4:00PM,New Orleans Saints,Denver Broncos,42,0
+2344,12,Sun,1988-11-20,4:00PM,Philadelphia Eagles,New York Giants,23,17
+2345,12,Sun,1988-11-20,4:00PM,San Diego Chargers,Los Angeles Rams,38,24
+2346,12,Sun,1988-11-20,8:00PM,New England Patriots,Miami Dolphins,6,3
+2347,12,Mon,1988-11-21,9:00PM,San Francisco 49ers,Washington Redskins,37,21
+2348,13,Thu,1988-11-24,12:30PM,Minnesota Vikings,Detroit Lions,23,0
+2349,13,Thu,1988-11-24,4:00PM,Houston Oilers,Dallas Cowboys,25,17
+2350,13,Sun,1988-11-27,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,17,10
+2351,13,Sun,1988-11-27,1:00PM,Cincinnati Bengals,Buffalo Bills,35,21
+2352,13,Sun,1988-11-27,1:00PM,Chicago Bears,Green Bay Packers,16,0
+2353,13,Sun,1988-11-27,1:00PM,Cleveland Browns,Washington Redskins,17,13
+2354,13,Sun,1988-11-27,1:00PM,Philadelphia Eagles,Phoenix Cardinals,31,21
+2355,13,Sun,1988-11-27,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,16,10
+2356,13,Sun,1988-11-27,1:00PM,New York Jets,Miami Dolphins,38,34
+2357,13,Sun,1988-11-27,4:00PM,Indianapolis Colts,New England Patriots,24,21
+2358,13,Sun,1988-11-27,4:00PM,Denver Broncos,Los Angeles Rams,35,24
+2359,13,Sun,1988-11-27,4:00PM,San Francisco 49ers,San Diego Chargers,48,10
+2360,13,Sun,1988-11-27,8:00PM,New York Giants,New Orleans Saints,13,12
+2361,13,Mon,1988-11-28,9:00PM,Seattle Seahawks,Los Angeles Raiders,35,27
+2362,14,Sun,1988-12-04,1:00PM,San Francisco 49ers,Atlanta Falcons,13,3
+2363,14,Sun,1988-12-04,1:00PM,Tampa Bay Buccaneers,Buffalo Bills,10,5
+2364,14,Sun,1988-12-04,1:00PM,Cincinnati Bengals,San Diego Chargers,27,10
+2365,14,Sun,1988-12-04,1:00PM,Cleveland Browns,Dallas Cowboys,24,21
+2366,14,Sun,1988-12-04,1:00PM,Indianapolis Colts,Miami Dolphins,31,28
+2367,14,Sun,1988-12-04,1:00PM,New York Giants,Phoenix Cardinals,44,7
+2368,14,Sun,1988-12-04,1:00PM,Detroit Lions,Green Bay Packers,30,14
+2369,14,Sun,1988-12-04,1:00PM,New England Patriots,Seattle Seahawks,13,7
+2370,14,Sun,1988-12-04,1:00PM,Washington Redskins,Philadelphia Eagles,20,19
+2371,14,Sun,1988-12-04,4:00PM,Los Angeles Raiders,Denver Broncos,21,20
+2372,14,Sun,1988-12-04,4:00PM,Kansas City Chiefs,New York Jets,38,34
+2373,14,Sun,1988-12-04,4:00PM,Minnesota Vikings,New Orleans Saints,45,3
+2374,14,Sun,1988-12-04,8:00PM,Pittsburgh Steelers,Houston Oilers,37,34
+2375,14,Mon,1988-12-05,9:00PM,Los Angeles Rams,Chicago Bears,23,3
+2376,15,Sat,1988-12-10,12:30PM,New York Jets,Indianapolis Colts,34,16
+2377,15,Sat,1988-12-10,4:00PM,Philadelphia Eagles,Phoenix Cardinals,23,17
+2378,15,Sun,1988-12-11,1:00PM,Buffalo Bills,Los Angeles Raiders,37,21
+2379,15,Sun,1988-12-11,1:00PM,Chicago Bears,Detroit Lions,13,12
+2380,15,Sun,1988-12-11,1:00PM,Houston Oilers,Cincinnati Bengals,41,6
+2381,15,Sun,1988-12-11,1:00PM,Dallas Cowboys,Washington Redskins,24,17
+2382,15,Sun,1988-12-11,1:00PM,Green Bay Packers,Minnesota Vikings,18,6
+2383,15,Sun,1988-12-11,1:00PM,New York Giants,Kansas City Chiefs,28,12
+2384,15,Sun,1988-12-11,1:00PM,New England Patriots,Tampa Bay Buccaneers,10,7
+2385,15,Sun,1988-12-11,4:00PM,Los Angeles Rams,Atlanta Falcons,22,7
+2386,15,Sun,1988-12-11,4:00PM,San Francisco 49ers,New Orleans Saints,30,17
+2387,15,Sun,1988-12-11,4:00PM,San Diego Chargers,Pittsburgh Steelers,20,14
+2388,15,Sun,1988-12-11,8:00PM,Seattle Seahawks,Denver Broncos,42,14
+2389,15,Mon,1988-12-12,9:00PM,Miami Dolphins,Cleveland Browns,38,31
+2390,16,Sat,1988-12-17,12:30PM,Cincinnati Bengals,Washington Redskins,20,17
+2391,16,Sat,1988-12-17,4:00PM,Denver Broncos,New England Patriots,21,10
+2392,16,Sun,1988-12-18,1:00PM,New Orleans Saints,Atlanta Falcons,10,9
+2393,16,Sun,1988-12-18,1:00PM,Indianapolis Colts,Buffalo Bills,17,14
+2394,16,Sun,1988-12-18,1:00PM,Cleveland Browns,Houston Oilers,28,23
+2395,16,Sun,1988-12-18,1:00PM,Philadelphia Eagles,Dallas Cowboys,23,7
+2396,16,Sun,1988-12-18,1:00PM,Tampa Bay Buccaneers,Detroit Lions,21,10
+2397,16,Sun,1988-12-18,1:00PM,Pittsburgh Steelers,Miami Dolphins,40,24
+2398,16,Sun,1988-12-18,1:00PM,New York Jets,New York Giants,27,21
+2399,16,Sun,1988-12-18,4:00PM,Green Bay Packers,Phoenix Cardinals,26,17
+2400,16,Sun,1988-12-18,4:00PM,San Diego Chargers,Kansas City Chiefs,24,13
+2401,16,Sun,1988-12-18,4:00PM,Seattle Seahawks,Los Angeles Raiders,43,37
+2402,16,Sun,1988-12-18,8:00PM,Los Angeles Rams,San Francisco 49ers,38,16
+2403,16,Mon,1988-12-19,9:00PM,Minnesota Vikings,Chicago Bears,28,27
+2404,WildCard,Sat,1988-12-24,1:30PM,Houston Oilers,Cleveland Browns,24,23
+2405,WildCard,Mon,1988-12-26,2:30PM,Minnesota Vikings,Los Angeles Rams,28,17
+2406,Division,Sat,1988-12-31,12:30PM,Chicago Bears,Philadelphia Eagles,20,12
+2407,Division,Sat,1988-12-31,4:00PM,Cincinnati Bengals,Seattle Seahawks,21,13
+2408,Division,Sun,1989-01-01,12:30PM,Buffalo Bills,Houston Oilers,17,10
+2409,Division,Sun,1989-01-01,4:00PM,San Francisco 49ers,Minnesota Vikings,34,9
+2410,ConfChamp,Sun,1989-01-08,12:30PM,Cincinnati Bengals,Buffalo Bills,21,10
+2411,ConfChamp,Sun,1989-01-08,4:00PM,San Francisco 49ers,Chicago Bears,28,3
+2412,SuperBowl,Sun,1989-01-22,5:00PM,San Francisco 49ers,Cincinnati Bengals,20,16
