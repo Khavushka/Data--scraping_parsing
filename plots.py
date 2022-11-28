@@ -11,28 +11,41 @@ from dash.dependencies import Input, Output
 from dash import dcc
 from dash import html
 import plotly.express as px
+import glob
 
 app = dash.Dash(__name__)
 
-names=['Winner', 'loser', 'PtsW', 'PtsL']
-path = pd.read_csv('players_allInone.csv', names=names)
 
+path = ('players_allInone.csv')
 
-minwinner = path['Winner'].min()
-maxwinner = path['Winner'].max()
+all_files = glob.glob(path)
 
+all_files
+
+li = []
+
+for filename in all_files:
+    df = pd.read_csv(filename, index_col=None, header=0)
+    li.append(df)
+    
+li
+
+df = pd.concat(li, axis=0, ignore_index=True)
+df
+
+"""
 app.layout = html.Div([
-        html.H1("Project 2: American Football"),
+        html.H1("Plotting the IRIS data set"),
         html.Div([
             dcc.Dropdown(
                 id='feature1',
                 options=[{'label': i, 'value': i} for i in names],
-                value='Winner'
+                value='sepal-width'
             ),
             dcc.Dropdown(
                 id='feature2',
                 options=[{'label': i, 'value': i} for i in names],
-                value='Loser'
+                value='petal-width'
             ),
         ]),
         html.Div([
@@ -48,7 +61,7 @@ app.layout = html.Div([
     ]
 )
 def update_output(feature1, feature2):
-    figure = px.scatter(path, 
+    figure = px.scatter(data, 
                       x=feature1,
                       y=feature2,
                       color="class")
@@ -57,3 +70,4 @@ def update_output(feature1, feature2):
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=8080)
+    """
