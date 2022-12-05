@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec  5 12:00:28 2022
+
+@author: kasperhannberg
+"""
+#Data_Table
+from dash import Dash, html, Input, Output, dash_table
+import pandas as pd
+import pandas as pd
+
+#Load the 
+data = pd.read_csv("team_easyon.csv")
+
+#Sorts a data frame in Ascending or Descending order of passed Column
+df = data.sort_values(by=['Wins','Ties'], ascending=False)
+
+#ype-cast both the columns of interest to str and combine them by concatenating them.
+#Convert these back to numerical values so that they could be differentiated based on their magnitude.
+col1 = df["Wins"].astype(str) 
+col2 = df["Ties"].astype(str)
+df['Rank'] = (col1+col2).astype(int).rank(method='dense', ascending=False).astype(int)
+df.sort_values('Rank')
+
+
+#Simple interactive table
+
+#https://plotly.com/python/table/?fbclid=IwAR3-eJQdv-atyChBguYJRzol0ylIYvkapw87cvFXmTRW5_vchf3w7ljUWcs#styled-table
+
+app = Dash(__name__)
+
+
+app.layout = html.Div([
+    html.H4('Simple interactive table'),
+    html.P(id='table_out'),
+    dash_table.DataTable(
+        id='table',
+        columns=[{"name": i, "id": i} 
+                 for i in df.columns],
+        data=df.to_dict('records'),
+        style_cell=dict(textAlign='left'),
+        style_header=dict(backgroundColor="paleturquoise"),
+        style_data=dict(backgroundColor="lavender")
+    ), 
+])
+
+@app.callback(
+    Output('table_out', 'children'), 
+    Input('table', 'active_cell'))
+def update_graphs(active_cell):
+    if active_cell:
+        cell_data = df.iloc[active_cell['row']][active_cell['column_id']]
+        return f"Data: \"{cell_data}\" from table cell: {active_cell}"
+    return "Click the table"
+app.run_server(debug=True)
