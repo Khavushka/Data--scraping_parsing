@@ -1,259 +1,260 @@
-1,Sun,2001-09-09,12:01PM,Oakland Raiders,Kansas City Chiefs,27,24
-1,Sun,2001-09-09,12:02PM,Green Bay Packers,Detroit Lions,28,6
-1,Sun,2001-09-09,12:03PM,Tampa Bay Buccaneers,Dallas Cowboys,10,6
-1,Sun,2001-09-09,1:00PM,Carolina Panthers,Minnesota Vikings,24,13
-1,Sun,2001-09-09,1:02PM,Baltimore Ravens,Chicago Bears,17,6
-1,Sun,2001-09-09,1:02PM,Seattle Seahawks,Cleveland Browns,9,6
-1,Sun,2001-09-09,1:03PM,Cincinnati Bengals,New England Patriots,23,17
-1,Sun,2001-09-09,1:03PM,Indianapolis Colts,New York Jets,45,24
-1,Sun,2001-09-09,1:05PM,New Orleans Saints,Buffalo Bills,24,6
-1,Sun,2001-09-09,1:05PM,Jacksonville Jaguars,Pittsburgh Steelers,21,3
-1,Sun,2001-09-09,1:15PM,San Francisco 49ers,Atlanta Falcons,16,13
-1,Sun,2001-09-09,4:15PM,San Diego Chargers,Washington Redskins,30,3
-1,Sun,2001-09-09,4:16PM,St. Louis Rams,Philadelphia Eagles,20,17
-1,Sun,2001-09-09,8:36PM,Miami Dolphins,Tennessee Titans,31,23
-1,Mon,2001-09-10,7:07PM,Denver Broncos,New York Giants,31,20
-2,Sun,2001-09-23,12:00PM,New York Giants,Kansas City Chiefs,13,3
-2,Sun,2001-09-23,12:12PM,Chicago Bears,Minnesota Vikings,17,10
-2,Sun,2001-09-23,1:00PM,Indianapolis Colts,Buffalo Bills,42,26
-2,Sun,2001-09-23,1:10PM,Jacksonville Jaguars,Tennessee Titans,13,6
-2,Sun,2001-09-23,1:10PM,Miami Dolphins,Oakland Raiders,18,15
-2,Sun,2001-09-23,1:11PM,Cincinnati Bengals,Baltimore Ravens,21,10
-2,Sun,2001-09-23,1:12PM,Atlanta Falcons,Carolina Panthers,24,16
-2,Sun,2001-09-23,1:12PM,San Diego Chargers,Dallas Cowboys,32,21
-2,Sun,2001-09-23,1:13PM,Cleveland Browns,Detroit Lions,24,14
-2,Sun,2001-09-23,4:15PM,New York Jets,New England Patriots,10,3
-2,Sun,2001-09-23,4:27PM,Philadelphia Eagles,Seattle Seahawks,27,3
-2,Sun,2001-09-23,4:29PM,St. Louis Rams,San Francisco 49ers,30,26
-2,Sun,2001-09-23,8:37PM,Denver Broncos,Arizona Cardinals,38,17
-2,Mon,2001-09-24,9:08PM,Green Bay Packers,Washington Redskins,37,0
-3,Sun,2001-09-30,12:03PM,St. Louis Rams,Miami Dolphins,42,10
-3,Sun,2001-09-30,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,20,16
-3,Sun,2001-09-30,1:01PM,Kansas City Chiefs,Washington Redskins,45,13
-3,Sun,2001-09-30,1:03PM,Pittsburgh Steelers,Buffalo Bills,20,3
-3,Sun,2001-09-30,1:03PM,Green Bay Packers,Carolina Panthers,28,7
-3,Sun,2001-09-30,1:03PM,New England Patriots,Indianapolis Colts,44,13
-3,Sun,2001-09-30,1:06PM,New York Giants,New Orleans Saints,21,13
-3,Sun,2001-09-30,4:05PM,Atlanta Falcons,Arizona Cardinals,34,14
-3,Sun,2001-09-30,4:10PM,Oakland Raiders,Seattle Seahawks,38,14
-3,Sun,2001-09-30,4:15PM,San Diego Chargers,Cincinnati Bengals,28,14
-3,Sun,2001-09-30,4:15PM,Cleveland Browns,Jacksonville Jaguars,23,14
-3,Sun,2001-09-30,4:15PM,Baltimore Ravens,Denver Broncos,20,13
-3,Sun,2001-09-30,8:38PM,Philadelphia Eagles,Dallas Cowboys,40,18
-3,Mon,2001-10-01,9:10PM,San Francisco 49ers,New York Jets,19,17
-4,Sun,2001-10-07,12:05PM,New Orleans Saints,Minnesota Vikings,28,15
-4,Sun,2001-10-07,1:02PM,Baltimore Ravens,Tennessee Titans,26,7
-4,Sun,2001-10-07,1:02PM,Pittsburgh Steelers,Cincinnati Bengals,16,7
-4,Sun,2001-10-07,1:02PM,Cleveland Browns,San Diego Chargers,20,16
-4,Sun,2001-10-07,1:03PM,Miami Dolphins,New England Patriots,30,10
-4,Sun,2001-10-07,1:04PM,New York Giants,Washington Redskins,23,9
-4,Sun,2001-10-07,1:05PM,Chicago Bears,Atlanta Falcons,31,3
-4,Sun,2001-10-07,1:09PM,Arizona Cardinals,Philadelphia Eagles,21,20
-4,Sun,2001-10-07,1:15PM,Oakland Raiders,Dallas Cowboys,28,21
-4,Sun,2001-10-07,2:05PM,Denver Broncos,Kansas City Chiefs,20,6
-4,Sun,2001-10-07,4:05PM,New York Jets,Buffalo Bills,42,36
-4,Sun,2001-10-07,4:05PM,Seattle Seahawks,Jacksonville Jaguars,24,15
-4,Sun,2001-10-07,4:15PM,Tampa Bay Buccaneers,Green Bay Packers,14,10
-4,Sun,2001-10-07,8:38PM,San Francisco 49ers,Carolina Panthers,24,14
-4,Mon,2001-10-08,9:07PM,St. Louis Rams,Detroit Lions,35,0
-5,Sun,2001-10-14,12:00PM,Pittsburgh Steelers,Kansas City Chiefs,20,17
-5,Sun,2001-10-14,12:02PM,St. Louis Rams,New York Giants,15,14
-5,Sun,2001-10-14,12:03PM,Chicago Bears,Arizona Cardinals,20,13
-5,Sun,2001-10-14,1:00PM,Minnesota Vikings,Detroit Lions,31,26
-5,Sun,2001-10-14,1:02PM,New Orleans Saints,Carolina Panthers,27,25
-5,Sun,2001-10-14,1:02PM,Cincinnati Bengals,Cleveland Browns,24,14
-5,Sun,2001-10-14,1:02PM,Green Bay Packers,Baltimore Ravens,31,23
-5,Sun,2001-10-14,1:03PM,New England Patriots,San Diego Chargers,29,26
-5,Sun,2001-10-14,1:04PM,Tennessee Titans,Tampa Bay Buccaneers,31,28
-5,Sun,2001-10-14,1:04PM,San Francisco 49ers,Atlanta Falcons,37,31
-5,Sun,2001-10-14,4:15PM,New York Jets,Miami Dolphins,21,17
-5,Sun,2001-10-14,4:16PM,Seattle Seahawks,Denver Broncos,34,21
-5,Sun,2001-10-14,8:30PM,Oakland Raiders,Indianapolis Colts,23,18
-5,Mon,2001-10-15,8:08PM,Dallas Cowboys,Washington Redskins,9,7
-6,Thu,2001-10-18,8:35PM,Buffalo Bills,Jacksonville Jaguars,13,10
-6,Sun,2001-10-21,12:03PM,Atlanta Falcons,New Orleans Saints,20,13
-6,Sun,2001-10-21,1:00PM,New England Patriots,Indianapolis Colts,38,17
-6,Sun,2001-10-21,1:00PM,Tennessee Titans,Detroit Lions,27,24
-6,Sun,2001-10-21,1:01PM,Pittsburgh Steelers,Tampa Bay Buccaneers,17,10
-6,Sun,2001-10-21,1:01PM,Washington Redskins,Carolina Panthers,17,14
-6,Sun,2001-10-21,1:02PM,Chicago Bears,Cincinnati Bengals,24,0
-6,Sun,2001-10-21,1:02PM,Cleveland Browns,Baltimore Ravens,24,14
-6,Sun,2001-10-21,1:02PM,St. Louis Rams,New York Jets,34,14
-6,Sun,2001-10-21,1:05PM,San Diego Chargers,Denver Broncos,27,10
-6,Sun,2001-10-21,3:15PM,Minnesota Vikings,Green Bay Packers,35,13
-6,Sun,2001-10-21,4:05PM,Arizona Cardinals,Kansas City Chiefs,24,16
-6,Mon,2001-10-22,9:09PM,Philadelphia Eagles,New York Giants,10,9
-7,Thu,2001-10-25,7:30PM,Indianapolis Colts,Kansas City Chiefs,35,28
-7,Sun,2001-10-28,1:00PM,Cincinnati Bengals,Detroit Lions,31,27
-7,Sun,2001-10-28,1:01PM,Baltimore Ravens,Jacksonville Jaguars,18,17
-7,Sun,2001-10-28,1:01PM,Tampa Bay Buccaneers,Minnesota Vikings,41,14
-7,Sun,2001-10-28,1:02PM,New Orleans Saints,St. Louis Rams,34,31
-7,Sun,2001-10-28,1:02PM,New York Jets,Carolina Panthers,13,12
-7,Sun,2001-10-28,1:03PM,Chicago Bears,San Francisco 49ers,37,31
-7,Sun,2001-10-28,1:15PM,San Diego Chargers,Buffalo Bills,27,24
-7,Sun,2001-10-28,2:15PM,Denver Broncos,New England Patriots,31,20
-7,Sun,2001-10-28,3:05PM,Dallas Cowboys,Arizona Cardinals,17,3
-7,Sun,2001-10-28,4:05PM,Washington Redskins,New York Giants,35,21
-7,Sun,2001-10-28,4:15PM,Miami Dolphins,Seattle Seahawks,24,20
-7,Sun,2001-10-28,4:15PM,Oakland Raiders,Philadelphia Eagles,20,10
-7,Mon,2001-10-29,9:05PM,Pittsburgh Steelers,Tennessee Titans,34,7
-8,Sun,2001-11-04,1:01PM,New England Patriots,Atlanta Falcons,24,10
-8,Sun,2001-11-04,1:01PM,Indianapolis Colts,Buffalo Bills,30,14
-8,Sun,2001-11-04,1:01PM,Baltimore Ravens,Pittsburgh Steelers,13,10
-8,Sun,2001-11-04,1:01PM,Miami Dolphins,Carolina Panthers,23,6
-8,Sun,2001-11-04,1:02PM,Green Bay Packers,Tampa Bay Buccaneers,21,20
-8,Sun,2001-11-04,1:03PM,Tennessee Titans,Jacksonville Jaguars,28,24
-8,Sun,2001-11-04,1:04PM,New York Giants,Dallas Cowboys,27,24
-8,Sun,2001-11-04,4:05PM,Philadelphia Eagles,Arizona Cardinals,21,7
-8,Sun,2001-11-04,4:05PM,San Francisco 49ers,Detroit Lions,21,13
-8,Sun,2001-11-04,4:15PM,Chicago Bears,Cleveland Browns,27,21
-8,Sun,2001-11-04,4:15PM,Washington Redskins,Seattle Seahawks,27,14
-8,Sun,2001-11-04,4:15PM,Kansas City Chiefs,San Diego Chargers,25,20
-8,Sun,2001-11-04,8:37PM,New York Jets,New Orleans Saints,16,9
-8,Mon,2001-11-05,9:05PM,Oakland Raiders,Denver Broncos,38,28
-9,Sun,2001-11-11,1:00PM,Miami Dolphins,Indianapolis Colts,27,24
-9,Sun,2001-11-11,1:02PM,New England Patriots,Buffalo Bills,21,11
-9,Sun,2001-11-11,1:02PM,Green Bay Packers,Chicago Bears,20,12
-9,Sun,2001-11-11,1:02PM,St. Louis Rams,Carolina Panthers,48,14
-9,Sun,2001-11-11,1:02PM,New York Jets,Kansas City Chiefs,27,7
-9,Sun,2001-11-11,1:03PM,Jacksonville Jaguars,Cincinnati Bengals,30,13
-9,Sun,2001-11-11,1:03PM,Pittsburgh Steelers,Cleveland Browns,15,12
-9,Sun,2001-11-11,1:03PM,Tampa Bay Buccaneers,Detroit Lions,20,17
-9,Sun,2001-11-11,1:05PM,Atlanta Falcons,Dallas Cowboys,20,13
-9,Sun,2001-11-11,4:05PM,Denver Broncos,San Diego Chargers,26,16
-9,Sun,2001-11-11,4:15PM,Philadelphia Eagles,Minnesota Vikings,48,17
-9,Sun,2001-11-11,4:15PM,San Francisco 49ers,New Orleans Saints,28,27
-9,Sun,2001-11-11,4:17PM,New York Giants,Arizona Cardinals,17,10
-9,Sun,2001-11-11,8:36PM,Seattle Seahawks,Oakland Raiders,34,27
-9,Mon,2001-11-12,9:08PM,Baltimore Ravens,Tennessee Titans,16,10
-10,Sun,2001-11-18,1:01PM,Cleveland Browns,Baltimore Ravens,27,17
-10,Sun,2001-11-18,1:02PM,Atlanta Falcons,Green Bay Packers,23,20
-10,Sun,2001-11-18,1:02PM,Seattle Seahawks,Buffalo Bills,23,20
-10,Sun,2001-11-18,1:02PM,Tennessee Titans,Cincinnati Bengals,20,7
-10,Sun,2001-11-18,1:02PM,New Orleans Saints,Indianapolis Colts,34,20
-10,Sun,2001-11-18,1:02PM,New York Jets,Miami Dolphins,24,0
-10,Sun,2001-11-18,1:02PM,San Francisco 49ers,Carolina Panthers,25,22
-10,Sun,2001-11-18,1:03PM,Philadelphia Eagles,Dallas Cowboys,36,3
-10,Sun,2001-11-18,4:05PM,Pittsburgh Steelers,Jacksonville Jaguars,20,7
-10,Sun,2001-11-18,4:05PM,Oakland Raiders,San Diego Chargers,34,24
-10,Sun,2001-11-18,4:15PM,Chicago Bears,Tampa Bay Buccaneers,27,24
-10,Sun,2001-11-18,4:15PM,Arizona Cardinals,Detroit Lions,45,38
-10,Sun,2001-11-18,4:15PM,Washington Redskins,Denver Broncos,17,10
-10,Sun,2001-11-18,8:35PM,St. Louis Rams,New England Patriots,24,17
-10,Mon,2001-11-19,9:10PM,Minnesota Vikings,New York Giants,28,16
-11,Thu,2001-11-22,12:36PM,Green Bay Packers,Detroit Lions,29,27
-11,Thu,2001-11-22,4:15PM,Denver Broncos,Dallas Cowboys,26,24
-11,Sun,2001-11-25,1:00PM,San Francisco 49ers,Indianapolis Colts,40,21
-11,Sun,2001-11-25,1:00PM,Kansas City Chiefs,Seattle Seahawks,19,7
-11,Sun,2001-11-25,1:02PM,Atlanta Falcons,Carolina Panthers,10,7
-11,Sun,2001-11-25,1:02PM,Miami Dolphins,Buffalo Bills,34,27
-11,Sun,2001-11-25,1:03PM,Cleveland Browns,Cincinnati Bengals,18,0
-11,Sun,2001-11-25,1:03PM,Washington Redskins,Philadelphia Eagles,13,3
-11,Sun,2001-11-25,1:05PM,Pittsburgh Steelers,Tennessee Titans,34,24
-11,Sun,2001-11-25,4:05PM,Arizona Cardinals,San Diego Chargers,20,17
-11,Sun,2001-11-25,4:05PM,New England Patriots,New Orleans Saints,34,17
-11,Sun,2001-11-25,4:15PM,Baltimore Ravens,Jacksonville Jaguars,24,21
-11,Sun,2001-11-25,4:15PM,Oakland Raiders,New York Giants,28,10
-11,Sun,2001-11-25,8:35PM,Chicago Bears,Minnesota Vikings,13,6
-11,Mon,2001-11-26,9:10PM,Tampa Bay Buccaneers,St. Louis Rams,24,17
-12,Thu,2001-11-29,8:30PM,Philadelphia Eagles,Kansas City Chiefs,23,10
-12,Sun,2001-12-02,1:01PM,Pittsburgh Steelers,Minnesota Vikings,21,16
-12,Sun,2001-12-02,1:02PM,Tampa Bay Buccaneers,Cincinnati Bengals,16,13
-12,Sun,2001-12-02,1:02PM,Tennessee Titans,Cleveland Browns,31,15
-12,Sun,2001-12-02,1:02PM,Baltimore Ravens,Indianapolis Colts,39,27
-12,Sun,2001-12-02,1:02PM,Miami Dolphins,Denver Broncos,21,10
-12,Sun,2001-12-02,1:02PM,New England Patriots,New York Jets,17,16
-12,Sun,2001-12-02,1:03PM,Chicago Bears,Detroit Lions,13,10
-12,Sun,2001-12-02,1:03PM,New Orleans Saints,Carolina Panthers,27,23
-12,Sun,2001-12-02,4:05PM,Seattle Seahawks,San Diego Chargers,13,10
-12,Sun,2001-12-02,4:15PM,St. Louis Rams,Atlanta Falcons,35,6
-12,Sun,2001-12-02,4:15PM,Arizona Cardinals,Oakland Raiders,34,31
-12,Sun,2001-12-02,4:15PM,Dallas Cowboys,Washington Redskins,20,14
-12,Sun,2001-12-02,8:36PM,San Francisco 49ers,Buffalo Bills,35,0
-12,Mon,2001-12-03,9:07PM,Green Bay Packers,Jacksonville Jaguars,28,21
-13,Sun,2001-12-09,1:00PM,Minnesota Vikings,Tennessee Titans,42,24
-13,Sun,2001-12-09,1:01PM,Tampa Bay Buccaneers,Detroit Lions,15,12
-13,Sun,2001-12-09,1:02PM,Buffalo Bills,Carolina Panthers,25,24
-13,Sun,2001-12-09,1:02PM,Green Bay Packers,Chicago Bears,17,7
-13,Sun,2001-12-09,1:02PM,Jacksonville Jaguars,Cincinnati Bengals,14,10
-13,Sun,2001-12-09,1:02PM,New England Patriots,Cleveland Browns,27,16
-13,Sun,2001-12-09,1:02PM,Dallas Cowboys,New York Giants,20,13
-13,Sun,2001-12-09,1:02PM,St. Louis Rams,San Francisco 49ers,27,14
-13,Sun,2001-12-09,1:03PM,Philadelphia Eagles,San Diego Chargers,24,14
-13,Sun,2001-12-09,1:05PM,New Orleans Saints,Atlanta Falcons,28,10
-13,Sun,2001-12-09,4:04PM,Washington Redskins,Arizona Cardinals,20,10
-13,Sun,2001-12-09,4:15PM,Oakland Raiders,Kansas City Chiefs,28,26
-13,Sun,2001-12-09,4:15PM,Pittsburgh Steelers,New York Jets,18,7
-13,Sun,2001-12-09,8:35PM,Denver Broncos,Seattle Seahawks,20,7
-13,Mon,2001-12-10,9:08PM,Miami Dolphins,Indianapolis Colts,41,6
-14,Sat,2001-12-15,1:37PM,New York Giants,Arizona Cardinals,17,13
-14,Sat,2001-12-15,5:15PM,Oakland Raiders,San Diego Chargers,13,6
-14,Sun,2001-12-16,1:00PM,Indianapolis Colts,Atlanta Falcons,41,27
-14,Sun,2001-12-16,1:00PM,Kansas City Chiefs,Denver Broncos,26,23
-14,Sun,2001-12-16,1:02PM,New England Patriots,Buffalo Bills,12,9
-14,Sun,2001-12-16,1:02PM,Chicago Bears,Tampa Bay Buccaneers,27,3
-14,Sun,2001-12-16,1:02PM,New York Jets,Cincinnati Bengals,15,14
-14,Sun,2001-12-16,1:02PM,Detroit Lions,Minnesota Vikings,27,24
-14,Sun,2001-12-16,1:03PM,Jacksonville Jaguars,Cleveland Browns,15,10
-14,Sun,2001-12-16,4:07PM,San Francisco 49ers,Miami Dolphins,21,0
-14,Sun,2001-12-16,4:15PM,Tennessee Titans,Green Bay Packers,26,20
-14,Sun,2001-12-16,4:15PM,Philadelphia Eagles,Washington Redskins,20,6
-14,Sun,2001-12-16,4:17PM,Seattle Seahawks,Dallas Cowboys,29,3
-14,Sun,2001-12-16,8:35PM,Pittsburgh Steelers,Baltimore Ravens,26,21
-14,Mon,2001-12-17,9:09PM,St. Louis Rams,New Orleans Saints,34,21
-15,Sat,2001-12-22,1:35PM,New England Patriots,Miami Dolphins,20,13
-15,Sat,2001-12-22,5:15PM,San Francisco 49ers,Philadelphia Eagles,13,3
-15,Sat,2001-12-22,9:00PM,Tennessee Titans,Oakland Raiders,13,10
-15,Sun,2001-12-23,1:00PM,Jacksonville Jaguars,Minnesota Vikings,33,3
-15,Sun,2001-12-23,1:00PM,Kansas City Chiefs,San Diego Chargers,20,17
-15,Sun,2001-12-23,1:01PM,Chicago Bears,Washington Redskins,20,15
-15,Sun,2001-12-23,1:01PM,Pittsburgh Steelers,Detroit Lions,47,14
-15,Sun,2001-12-23,1:01PM,Tampa Bay Buccaneers,New Orleans Saints,48,21
-15,Sun,2001-12-23,1:02PM,St. Louis Rams,Carolina Panthers,38,32
-15,Sun,2001-12-23,1:02PM,Baltimore Ravens,Cincinnati Bengals,16,0
-15,Sun,2001-12-23,1:03PM,New York Giants,Seattle Seahawks,27,24
-15,Sun,2001-12-23,1:05PM,Atlanta Falcons,Buffalo Bills,33,30
-15,Sun,2001-12-23,4:06PM,Arizona Cardinals,Dallas Cowboys,17,10
-15,Sun,2001-12-23,4:15PM,Green Bay Packers,Cleveland Browns,30,7
-15,Sun,2001-12-23,8:30PM,New York Jets,Indianapolis Colts,29,28
-16,Sat,2001-12-29,9:07PM,Tampa Bay Buccaneers,Baltimore Ravens,22,10
-16,Sun,2001-12-30,1:02PM,Miami Dolphins,Atlanta Falcons,21,14
-16,Sun,2001-12-30,1:02PM,Arizona Cardinals,Carolina Panthers,30,7
-16,Sun,2001-12-30,1:02PM,Cincinnati Bengals,Pittsburgh Steelers,26,23
-16,Sun,2001-12-30,1:02PM,St. Louis Rams,Indianapolis Colts,42,17
-16,Sun,2001-12-30,1:02PM,Green Bay Packers,Minnesota Vikings,24,13
-16,Sun,2001-12-30,1:03PM,Buffalo Bills,New York Jets,14,9
-16,Sun,2001-12-30,1:03PM,Chicago Bears,Detroit Lions,24,0
-16,Sun,2001-12-30,1:03PM,Cleveland Browns,Tennessee Titans,41,38
-16,Sun,2001-12-30,1:03PM,Dallas Cowboys,San Francisco 49ers,27,21
-16,Sun,2001-12-30,1:05PM,Kansas City Chiefs,Jacksonville Jaguars,30,26
-16,Sun,2001-12-30,4:06PM,Philadelphia Eagles,New York Giants,24,21
-16,Sun,2001-12-30,4:15PM,Denver Broncos,Oakland Raiders,23,17
-16,Sun,2001-12-30,4:15PM,Seattle Seahawks,San Diego Chargers,25,22
-16,Sun,2001-12-30,8:36PM,Washington Redskins,New Orleans Saints,40,10
-17,Sun,2002-01-06,12:03PM,San Francisco 49ers,New Orleans Saints,38,0
-17,Sun,2002-01-06,1:00PM,Indianapolis Colts,Denver Broncos,29,10
-17,Sun,2002-01-06,1:01PM,Pittsburgh Steelers,Cleveland Browns,28,7
-17,Sun,2002-01-06,1:01PM,Washington Redskins,Arizona Cardinals,20,17
-17,Sun,2002-01-06,1:02PM,New England Patriots,Carolina Panthers,38,6
-17,Sun,2002-01-06,1:02PM,Chicago Bears,Jacksonville Jaguars,33,13
-17,Sun,2002-01-06,1:03PM,Cincinnati Bengals,Tennessee Titans,23,21
-17,Sun,2002-01-06,1:03PM,Detroit Lions,Dallas Cowboys,15,10
-17,Sun,2002-01-06,1:04PM,Green Bay Packers,New York Giants,34,25
-17,Sun,2002-01-06,4:05PM,St. Louis Rams,Atlanta Falcons,31,13
-17,Sun,2002-01-06,4:15PM,New York Jets,Oakland Raiders,24,22
-17,Sun,2002-01-06,4:16PM,Seattle Seahawks,Kansas City Chiefs,21,18
-17,Sun,2002-01-06,4:17PM,Miami Dolphins,Buffalo Bills,34,7
-17,Sun,2002-01-06,8:30PM,Philadelphia Eagles,Tampa Bay Buccaneers,17,13
-17,Mon,2002-01-07,9:07PM,Baltimore Ravens,Minnesota Vikings,19,3
-WildCard,Sat,2002-01-12,4:39PM,Philadelphia Eagles,Tampa Bay Buccaneers,31,9
-WildCard,Sat,2002-01-12,8:07PM,Oakland Raiders,New York Jets,38,24
-WildCard,Sun,2002-01-13,12:35PM,Green Bay Packers,San Francisco 49ers,25,15
-WildCard,Sun,2002-01-13,4:05PM,Baltimore Ravens,Miami Dolphins,20,3
-Division,Sat,2002-01-19,4:37PM,Philadelphia Eagles,Chicago Bears,33,19
-Division,Sat,2002-01-19,8:05PM,New England Patriots,Oakland Raiders,16,13
-Division,Sun,2002-01-20,12:40PM,Pittsburgh Steelers,Baltimore Ravens,27,10
-Division,Sun,2002-01-20,4:15PM,St. Louis Rams,Green Bay Packers,45,17
-ConfChamp,Sun,2002-01-27,12:40PM,New England Patriots,Pittsburgh Steelers,24,17
-ConfChamp,Sun,2002-01-27,4:27PM,St. Louis Rams,Philadelphia Eagles,29,24
-SuperBowl,Sun,2002-02-03,6:40PM,New England Patriots,St. Louis Rams,20,17
+,Week,Day,Date,Time,Winner,Loser,PtsW,PtsL
+0,1,Sun,2001-09-09,12:01PM,Oakland Raiders,Kansas City Chiefs,27,24
+1,1,Sun,2001-09-09,12:02PM,Green Bay Packers,Detroit Lions,28,6
+2,1,Sun,2001-09-09,12:03PM,Tampa Bay Buccaneers,Dallas Cowboys,10,6
+3,1,Sun,2001-09-09,1:00PM,Carolina Panthers,Minnesota Vikings,24,13
+4,1,Sun,2001-09-09,1:02PM,Baltimore Ravens,Chicago Bears,17,6
+5,1,Sun,2001-09-09,1:02PM,Seattle Seahawks,Cleveland Browns,9,6
+6,1,Sun,2001-09-09,1:03PM,Cincinnati Bengals,New England Patriots,23,17
+7,1,Sun,2001-09-09,1:03PM,Indianapolis Colts,New York Jets,45,24
+8,1,Sun,2001-09-09,1:05PM,New Orleans Saints,Buffalo Bills,24,6
+9,1,Sun,2001-09-09,1:05PM,Jacksonville Jaguars,Pittsburgh Steelers,21,3
+10,1,Sun,2001-09-09,1:15PM,San Francisco 49ers,Atlanta Falcons,16,13
+11,1,Sun,2001-09-09,4:15PM,San Diego Chargers,Washington Redskins,30,3
+12,1,Sun,2001-09-09,4:16PM,St. Louis Rams,Philadelphia Eagles,20,17
+13,1,Sun,2001-09-09,8:36PM,Miami Dolphins,Tennessee Titans,31,23
+14,1,Mon,2001-09-10,7:07PM,Denver Broncos,New York Giants,31,20
+15,2,Sun,2001-09-23,12:00PM,New York Giants,Kansas City Chiefs,13,3
+16,2,Sun,2001-09-23,12:12PM,Chicago Bears,Minnesota Vikings,17,10
+17,2,Sun,2001-09-23,1:00PM,Indianapolis Colts,Buffalo Bills,42,26
+18,2,Sun,2001-09-23,1:10PM,Jacksonville Jaguars,Tennessee Titans,13,6
+19,2,Sun,2001-09-23,1:10PM,Miami Dolphins,Oakland Raiders,18,15
+20,2,Sun,2001-09-23,1:11PM,Cincinnati Bengals,Baltimore Ravens,21,10
+21,2,Sun,2001-09-23,1:12PM,Atlanta Falcons,Carolina Panthers,24,16
+22,2,Sun,2001-09-23,1:12PM,San Diego Chargers,Dallas Cowboys,32,21
+23,2,Sun,2001-09-23,1:13PM,Cleveland Browns,Detroit Lions,24,14
+24,2,Sun,2001-09-23,4:15PM,New York Jets,New England Patriots,10,3
+25,2,Sun,2001-09-23,4:27PM,Philadelphia Eagles,Seattle Seahawks,27,3
+26,2,Sun,2001-09-23,4:29PM,St. Louis Rams,San Francisco 49ers,30,26
+27,2,Sun,2001-09-23,8:37PM,Denver Broncos,Arizona Cardinals,38,17
+28,2,Mon,2001-09-24,9:08PM,Green Bay Packers,Washington Redskins,37,0
+29,3,Sun,2001-09-30,12:03PM,St. Louis Rams,Miami Dolphins,42,10
+30,3,Sun,2001-09-30,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,20,16
+31,3,Sun,2001-09-30,1:01PM,Kansas City Chiefs,Washington Redskins,45,13
+32,3,Sun,2001-09-30,1:03PM,Pittsburgh Steelers,Buffalo Bills,20,3
+33,3,Sun,2001-09-30,1:03PM,Green Bay Packers,Carolina Panthers,28,7
+34,3,Sun,2001-09-30,1:03PM,New England Patriots,Indianapolis Colts,44,13
+35,3,Sun,2001-09-30,1:06PM,New York Giants,New Orleans Saints,21,13
+36,3,Sun,2001-09-30,4:05PM,Atlanta Falcons,Arizona Cardinals,34,14
+37,3,Sun,2001-09-30,4:10PM,Oakland Raiders,Seattle Seahawks,38,14
+38,3,Sun,2001-09-30,4:15PM,San Diego Chargers,Cincinnati Bengals,28,14
+39,3,Sun,2001-09-30,4:15PM,Cleveland Browns,Jacksonville Jaguars,23,14
+40,3,Sun,2001-09-30,4:15PM,Baltimore Ravens,Denver Broncos,20,13
+41,3,Sun,2001-09-30,8:38PM,Philadelphia Eagles,Dallas Cowboys,40,18
+42,3,Mon,2001-10-01,9:10PM,San Francisco 49ers,New York Jets,19,17
+43,4,Sun,2001-10-07,12:05PM,New Orleans Saints,Minnesota Vikings,28,15
+44,4,Sun,2001-10-07,1:02PM,Baltimore Ravens,Tennessee Titans,26,7
+45,4,Sun,2001-10-07,1:02PM,Pittsburgh Steelers,Cincinnati Bengals,16,7
+46,4,Sun,2001-10-07,1:02PM,Cleveland Browns,San Diego Chargers,20,16
+47,4,Sun,2001-10-07,1:03PM,Miami Dolphins,New England Patriots,30,10
+48,4,Sun,2001-10-07,1:04PM,New York Giants,Washington Redskins,23,9
+49,4,Sun,2001-10-07,1:05PM,Chicago Bears,Atlanta Falcons,31,3
+50,4,Sun,2001-10-07,1:09PM,Arizona Cardinals,Philadelphia Eagles,21,20
+51,4,Sun,2001-10-07,1:15PM,Oakland Raiders,Dallas Cowboys,28,21
+52,4,Sun,2001-10-07,2:05PM,Denver Broncos,Kansas City Chiefs,20,6
+53,4,Sun,2001-10-07,4:05PM,New York Jets,Buffalo Bills,42,36
+54,4,Sun,2001-10-07,4:05PM,Seattle Seahawks,Jacksonville Jaguars,24,15
+55,4,Sun,2001-10-07,4:15PM,Tampa Bay Buccaneers,Green Bay Packers,14,10
+56,4,Sun,2001-10-07,8:38PM,San Francisco 49ers,Carolina Panthers,24,14
+57,4,Mon,2001-10-08,9:07PM,St. Louis Rams,Detroit Lions,35,0
+58,5,Sun,2001-10-14,12:00PM,Pittsburgh Steelers,Kansas City Chiefs,20,17
+59,5,Sun,2001-10-14,12:02PM,St. Louis Rams,New York Giants,15,14
+60,5,Sun,2001-10-14,12:03PM,Chicago Bears,Arizona Cardinals,20,13
+61,5,Sun,2001-10-14,1:00PM,Minnesota Vikings,Detroit Lions,31,26
+62,5,Sun,2001-10-14,1:02PM,New Orleans Saints,Carolina Panthers,27,25
+63,5,Sun,2001-10-14,1:02PM,Cincinnati Bengals,Cleveland Browns,24,14
+64,5,Sun,2001-10-14,1:02PM,Green Bay Packers,Baltimore Ravens,31,23
+65,5,Sun,2001-10-14,1:03PM,New England Patriots,San Diego Chargers,29,26
+66,5,Sun,2001-10-14,1:04PM,Tennessee Titans,Tampa Bay Buccaneers,31,28
+67,5,Sun,2001-10-14,1:04PM,San Francisco 49ers,Atlanta Falcons,37,31
+68,5,Sun,2001-10-14,4:15PM,New York Jets,Miami Dolphins,21,17
+69,5,Sun,2001-10-14,4:16PM,Seattle Seahawks,Denver Broncos,34,21
+70,5,Sun,2001-10-14,8:30PM,Oakland Raiders,Indianapolis Colts,23,18
+71,5,Mon,2001-10-15,8:08PM,Dallas Cowboys,Washington Redskins,9,7
+72,6,Thu,2001-10-18,8:35PM,Buffalo Bills,Jacksonville Jaguars,13,10
+73,6,Sun,2001-10-21,12:03PM,Atlanta Falcons,New Orleans Saints,20,13
+74,6,Sun,2001-10-21,1:00PM,New England Patriots,Indianapolis Colts,38,17
+75,6,Sun,2001-10-21,1:00PM,Tennessee Titans,Detroit Lions,27,24
+76,6,Sun,2001-10-21,1:01PM,Pittsburgh Steelers,Tampa Bay Buccaneers,17,10
+77,6,Sun,2001-10-21,1:01PM,Washington Redskins,Carolina Panthers,17,14
+78,6,Sun,2001-10-21,1:02PM,Chicago Bears,Cincinnati Bengals,24,0
+79,6,Sun,2001-10-21,1:02PM,Cleveland Browns,Baltimore Ravens,24,14
+80,6,Sun,2001-10-21,1:02PM,St. Louis Rams,New York Jets,34,14
+81,6,Sun,2001-10-21,1:05PM,San Diego Chargers,Denver Broncos,27,10
+82,6,Sun,2001-10-21,3:15PM,Minnesota Vikings,Green Bay Packers,35,13
+83,6,Sun,2001-10-21,4:05PM,Arizona Cardinals,Kansas City Chiefs,24,16
+84,6,Mon,2001-10-22,9:09PM,Philadelphia Eagles,New York Giants,10,9
+85,7,Thu,2001-10-25,7:30PM,Indianapolis Colts,Kansas City Chiefs,35,28
+86,7,Sun,2001-10-28,1:00PM,Cincinnati Bengals,Detroit Lions,31,27
+87,7,Sun,2001-10-28,1:01PM,Baltimore Ravens,Jacksonville Jaguars,18,17
+88,7,Sun,2001-10-28,1:01PM,Tampa Bay Buccaneers,Minnesota Vikings,41,14
+89,7,Sun,2001-10-28,1:02PM,New Orleans Saints,St. Louis Rams,34,31
+90,7,Sun,2001-10-28,1:02PM,New York Jets,Carolina Panthers,13,12
+91,7,Sun,2001-10-28,1:03PM,Chicago Bears,San Francisco 49ers,37,31
+92,7,Sun,2001-10-28,1:15PM,San Diego Chargers,Buffalo Bills,27,24
+93,7,Sun,2001-10-28,2:15PM,Denver Broncos,New England Patriots,31,20
+94,7,Sun,2001-10-28,3:05PM,Dallas Cowboys,Arizona Cardinals,17,3
+95,7,Sun,2001-10-28,4:05PM,Washington Redskins,New York Giants,35,21
+96,7,Sun,2001-10-28,4:15PM,Miami Dolphins,Seattle Seahawks,24,20
+97,7,Sun,2001-10-28,4:15PM,Oakland Raiders,Philadelphia Eagles,20,10
+98,7,Mon,2001-10-29,9:05PM,Pittsburgh Steelers,Tennessee Titans,34,7
+99,8,Sun,2001-11-04,1:01PM,New England Patriots,Atlanta Falcons,24,10
+100,8,Sun,2001-11-04,1:01PM,Indianapolis Colts,Buffalo Bills,30,14
+101,8,Sun,2001-11-04,1:01PM,Baltimore Ravens,Pittsburgh Steelers,13,10
+102,8,Sun,2001-11-04,1:01PM,Miami Dolphins,Carolina Panthers,23,6
+103,8,Sun,2001-11-04,1:02PM,Green Bay Packers,Tampa Bay Buccaneers,21,20
+104,8,Sun,2001-11-04,1:03PM,Tennessee Titans,Jacksonville Jaguars,28,24
+105,8,Sun,2001-11-04,1:04PM,New York Giants,Dallas Cowboys,27,24
+106,8,Sun,2001-11-04,4:05PM,Philadelphia Eagles,Arizona Cardinals,21,7
+107,8,Sun,2001-11-04,4:05PM,San Francisco 49ers,Detroit Lions,21,13
+108,8,Sun,2001-11-04,4:15PM,Chicago Bears,Cleveland Browns,27,21
+109,8,Sun,2001-11-04,4:15PM,Washington Redskins,Seattle Seahawks,27,14
+110,8,Sun,2001-11-04,4:15PM,Kansas City Chiefs,San Diego Chargers,25,20
+111,8,Sun,2001-11-04,8:37PM,New York Jets,New Orleans Saints,16,9
+112,8,Mon,2001-11-05,9:05PM,Oakland Raiders,Denver Broncos,38,28
+113,9,Sun,2001-11-11,1:00PM,Miami Dolphins,Indianapolis Colts,27,24
+114,9,Sun,2001-11-11,1:02PM,New England Patriots,Buffalo Bills,21,11
+115,9,Sun,2001-11-11,1:02PM,Green Bay Packers,Chicago Bears,20,12
+116,9,Sun,2001-11-11,1:02PM,St. Louis Rams,Carolina Panthers,48,14
+117,9,Sun,2001-11-11,1:02PM,New York Jets,Kansas City Chiefs,27,7
+118,9,Sun,2001-11-11,1:03PM,Jacksonville Jaguars,Cincinnati Bengals,30,13
+119,9,Sun,2001-11-11,1:03PM,Pittsburgh Steelers,Cleveland Browns,15,12
+120,9,Sun,2001-11-11,1:03PM,Tampa Bay Buccaneers,Detroit Lions,20,17
+121,9,Sun,2001-11-11,1:05PM,Atlanta Falcons,Dallas Cowboys,20,13
+122,9,Sun,2001-11-11,4:05PM,Denver Broncos,San Diego Chargers,26,16
+123,9,Sun,2001-11-11,4:15PM,Philadelphia Eagles,Minnesota Vikings,48,17
+124,9,Sun,2001-11-11,4:15PM,San Francisco 49ers,New Orleans Saints,28,27
+125,9,Sun,2001-11-11,4:17PM,New York Giants,Arizona Cardinals,17,10
+126,9,Sun,2001-11-11,8:36PM,Seattle Seahawks,Oakland Raiders,34,27
+127,9,Mon,2001-11-12,9:08PM,Baltimore Ravens,Tennessee Titans,16,10
+128,10,Sun,2001-11-18,1:01PM,Cleveland Browns,Baltimore Ravens,27,17
+129,10,Sun,2001-11-18,1:02PM,Atlanta Falcons,Green Bay Packers,23,20
+130,10,Sun,2001-11-18,1:02PM,Seattle Seahawks,Buffalo Bills,23,20
+131,10,Sun,2001-11-18,1:02PM,Tennessee Titans,Cincinnati Bengals,20,7
+132,10,Sun,2001-11-18,1:02PM,New Orleans Saints,Indianapolis Colts,34,20
+133,10,Sun,2001-11-18,1:02PM,New York Jets,Miami Dolphins,24,0
+134,10,Sun,2001-11-18,1:02PM,San Francisco 49ers,Carolina Panthers,25,22
+135,10,Sun,2001-11-18,1:03PM,Philadelphia Eagles,Dallas Cowboys,36,3
+136,10,Sun,2001-11-18,4:05PM,Pittsburgh Steelers,Jacksonville Jaguars,20,7
+137,10,Sun,2001-11-18,4:05PM,Oakland Raiders,San Diego Chargers,34,24
+138,10,Sun,2001-11-18,4:15PM,Chicago Bears,Tampa Bay Buccaneers,27,24
+139,10,Sun,2001-11-18,4:15PM,Arizona Cardinals,Detroit Lions,45,38
+140,10,Sun,2001-11-18,4:15PM,Washington Redskins,Denver Broncos,17,10
+141,10,Sun,2001-11-18,8:35PM,St. Louis Rams,New England Patriots,24,17
+142,10,Mon,2001-11-19,9:10PM,Minnesota Vikings,New York Giants,28,16
+143,11,Thu,2001-11-22,12:36PM,Green Bay Packers,Detroit Lions,29,27
+144,11,Thu,2001-11-22,4:15PM,Denver Broncos,Dallas Cowboys,26,24
+145,11,Sun,2001-11-25,1:00PM,San Francisco 49ers,Indianapolis Colts,40,21
+146,11,Sun,2001-11-25,1:00PM,Kansas City Chiefs,Seattle Seahawks,19,7
+147,11,Sun,2001-11-25,1:02PM,Atlanta Falcons,Carolina Panthers,10,7
+148,11,Sun,2001-11-25,1:02PM,Miami Dolphins,Buffalo Bills,34,27
+149,11,Sun,2001-11-25,1:03PM,Cleveland Browns,Cincinnati Bengals,18,0
+150,11,Sun,2001-11-25,1:03PM,Washington Redskins,Philadelphia Eagles,13,3
+151,11,Sun,2001-11-25,1:05PM,Pittsburgh Steelers,Tennessee Titans,34,24
+152,11,Sun,2001-11-25,4:05PM,Arizona Cardinals,San Diego Chargers,20,17
+153,11,Sun,2001-11-25,4:05PM,New England Patriots,New Orleans Saints,34,17
+154,11,Sun,2001-11-25,4:15PM,Baltimore Ravens,Jacksonville Jaguars,24,21
+155,11,Sun,2001-11-25,4:15PM,Oakland Raiders,New York Giants,28,10
+156,11,Sun,2001-11-25,8:35PM,Chicago Bears,Minnesota Vikings,13,6
+157,11,Mon,2001-11-26,9:10PM,Tampa Bay Buccaneers,St. Louis Rams,24,17
+158,12,Thu,2001-11-29,8:30PM,Philadelphia Eagles,Kansas City Chiefs,23,10
+159,12,Sun,2001-12-02,1:01PM,Pittsburgh Steelers,Minnesota Vikings,21,16
+160,12,Sun,2001-12-02,1:02PM,Tampa Bay Buccaneers,Cincinnati Bengals,16,13
+161,12,Sun,2001-12-02,1:02PM,Tennessee Titans,Cleveland Browns,31,15
+162,12,Sun,2001-12-02,1:02PM,Baltimore Ravens,Indianapolis Colts,39,27
+163,12,Sun,2001-12-02,1:02PM,Miami Dolphins,Denver Broncos,21,10
+164,12,Sun,2001-12-02,1:02PM,New England Patriots,New York Jets,17,16
+165,12,Sun,2001-12-02,1:03PM,Chicago Bears,Detroit Lions,13,10
+166,12,Sun,2001-12-02,1:03PM,New Orleans Saints,Carolina Panthers,27,23
+167,12,Sun,2001-12-02,4:05PM,Seattle Seahawks,San Diego Chargers,13,10
+168,12,Sun,2001-12-02,4:15PM,St. Louis Rams,Atlanta Falcons,35,6
+169,12,Sun,2001-12-02,4:15PM,Arizona Cardinals,Oakland Raiders,34,31
+170,12,Sun,2001-12-02,4:15PM,Dallas Cowboys,Washington Redskins,20,14
+171,12,Sun,2001-12-02,8:36PM,San Francisco 49ers,Buffalo Bills,35,0
+172,12,Mon,2001-12-03,9:07PM,Green Bay Packers,Jacksonville Jaguars,28,21
+173,13,Sun,2001-12-09,1:00PM,Minnesota Vikings,Tennessee Titans,42,24
+174,13,Sun,2001-12-09,1:01PM,Tampa Bay Buccaneers,Detroit Lions,15,12
+175,13,Sun,2001-12-09,1:02PM,Buffalo Bills,Carolina Panthers,25,24
+176,13,Sun,2001-12-09,1:02PM,Green Bay Packers,Chicago Bears,17,7
+177,13,Sun,2001-12-09,1:02PM,Jacksonville Jaguars,Cincinnati Bengals,14,10
+178,13,Sun,2001-12-09,1:02PM,New England Patriots,Cleveland Browns,27,16
+179,13,Sun,2001-12-09,1:02PM,Dallas Cowboys,New York Giants,20,13
+180,13,Sun,2001-12-09,1:02PM,St. Louis Rams,San Francisco 49ers,27,14
+181,13,Sun,2001-12-09,1:03PM,Philadelphia Eagles,San Diego Chargers,24,14
+182,13,Sun,2001-12-09,1:05PM,New Orleans Saints,Atlanta Falcons,28,10
+183,13,Sun,2001-12-09,4:04PM,Washington Redskins,Arizona Cardinals,20,10
+184,13,Sun,2001-12-09,4:15PM,Oakland Raiders,Kansas City Chiefs,28,26
+185,13,Sun,2001-12-09,4:15PM,Pittsburgh Steelers,New York Jets,18,7
+186,13,Sun,2001-12-09,8:35PM,Denver Broncos,Seattle Seahawks,20,7
+187,13,Mon,2001-12-10,9:08PM,Miami Dolphins,Indianapolis Colts,41,6
+188,14,Sat,2001-12-15,1:37PM,New York Giants,Arizona Cardinals,17,13
+189,14,Sat,2001-12-15,5:15PM,Oakland Raiders,San Diego Chargers,13,6
+190,14,Sun,2001-12-16,1:00PM,Indianapolis Colts,Atlanta Falcons,41,27
+191,14,Sun,2001-12-16,1:00PM,Kansas City Chiefs,Denver Broncos,26,23
+192,14,Sun,2001-12-16,1:02PM,New England Patriots,Buffalo Bills,12,9
+193,14,Sun,2001-12-16,1:02PM,Chicago Bears,Tampa Bay Buccaneers,27,3
+194,14,Sun,2001-12-16,1:02PM,New York Jets,Cincinnati Bengals,15,14
+195,14,Sun,2001-12-16,1:02PM,Detroit Lions,Minnesota Vikings,27,24
+196,14,Sun,2001-12-16,1:03PM,Jacksonville Jaguars,Cleveland Browns,15,10
+197,14,Sun,2001-12-16,4:07PM,San Francisco 49ers,Miami Dolphins,21,0
+198,14,Sun,2001-12-16,4:15PM,Tennessee Titans,Green Bay Packers,26,20
+199,14,Sun,2001-12-16,4:15PM,Philadelphia Eagles,Washington Redskins,20,6
+200,14,Sun,2001-12-16,4:17PM,Seattle Seahawks,Dallas Cowboys,29,3
+201,14,Sun,2001-12-16,8:35PM,Pittsburgh Steelers,Baltimore Ravens,26,21
+202,14,Mon,2001-12-17,9:09PM,St. Louis Rams,New Orleans Saints,34,21
+203,15,Sat,2001-12-22,1:35PM,New England Patriots,Miami Dolphins,20,13
+204,15,Sat,2001-12-22,5:15PM,San Francisco 49ers,Philadelphia Eagles,13,3
+205,15,Sat,2001-12-22,9:00PM,Tennessee Titans,Oakland Raiders,13,10
+206,15,Sun,2001-12-23,1:00PM,Jacksonville Jaguars,Minnesota Vikings,33,3
+207,15,Sun,2001-12-23,1:00PM,Kansas City Chiefs,San Diego Chargers,20,17
+208,15,Sun,2001-12-23,1:01PM,Chicago Bears,Washington Redskins,20,15
+209,15,Sun,2001-12-23,1:01PM,Pittsburgh Steelers,Detroit Lions,47,14
+210,15,Sun,2001-12-23,1:01PM,Tampa Bay Buccaneers,New Orleans Saints,48,21
+211,15,Sun,2001-12-23,1:02PM,St. Louis Rams,Carolina Panthers,38,32
+212,15,Sun,2001-12-23,1:02PM,Baltimore Ravens,Cincinnati Bengals,16,0
+213,15,Sun,2001-12-23,1:03PM,New York Giants,Seattle Seahawks,27,24
+214,15,Sun,2001-12-23,1:05PM,Atlanta Falcons,Buffalo Bills,33,30
+215,15,Sun,2001-12-23,4:06PM,Arizona Cardinals,Dallas Cowboys,17,10
+216,15,Sun,2001-12-23,4:15PM,Green Bay Packers,Cleveland Browns,30,7
+217,15,Sun,2001-12-23,8:30PM,New York Jets,Indianapolis Colts,29,28
+218,16,Sat,2001-12-29,9:07PM,Tampa Bay Buccaneers,Baltimore Ravens,22,10
+219,16,Sun,2001-12-30,1:02PM,Miami Dolphins,Atlanta Falcons,21,14
+220,16,Sun,2001-12-30,1:02PM,Arizona Cardinals,Carolina Panthers,30,7
+221,16,Sun,2001-12-30,1:02PM,Cincinnati Bengals,Pittsburgh Steelers,26,23
+222,16,Sun,2001-12-30,1:02PM,St. Louis Rams,Indianapolis Colts,42,17
+223,16,Sun,2001-12-30,1:02PM,Green Bay Packers,Minnesota Vikings,24,13
+224,16,Sun,2001-12-30,1:03PM,Buffalo Bills,New York Jets,14,9
+225,16,Sun,2001-12-30,1:03PM,Chicago Bears,Detroit Lions,24,0
+226,16,Sun,2001-12-30,1:03PM,Cleveland Browns,Tennessee Titans,41,38
+227,16,Sun,2001-12-30,1:03PM,Dallas Cowboys,San Francisco 49ers,27,21
+228,16,Sun,2001-12-30,1:05PM,Kansas City Chiefs,Jacksonville Jaguars,30,26
+229,16,Sun,2001-12-30,4:06PM,Philadelphia Eagles,New York Giants,24,21
+230,16,Sun,2001-12-30,4:15PM,Denver Broncos,Oakland Raiders,23,17
+231,16,Sun,2001-12-30,4:15PM,Seattle Seahawks,San Diego Chargers,25,22
+232,16,Sun,2001-12-30,8:36PM,Washington Redskins,New Orleans Saints,40,10
+233,17,Sun,2002-01-06,12:03PM,San Francisco 49ers,New Orleans Saints,38,0
+234,17,Sun,2002-01-06,1:00PM,Indianapolis Colts,Denver Broncos,29,10
+235,17,Sun,2002-01-06,1:01PM,Pittsburgh Steelers,Cleveland Browns,28,7
+236,17,Sun,2002-01-06,1:01PM,Washington Redskins,Arizona Cardinals,20,17
+237,17,Sun,2002-01-06,1:02PM,New England Patriots,Carolina Panthers,38,6
+238,17,Sun,2002-01-06,1:02PM,Chicago Bears,Jacksonville Jaguars,33,13
+239,17,Sun,2002-01-06,1:03PM,Cincinnati Bengals,Tennessee Titans,23,21
+240,17,Sun,2002-01-06,1:03PM,Detroit Lions,Dallas Cowboys,15,10
+241,17,Sun,2002-01-06,1:04PM,Green Bay Packers,New York Giants,34,25
+242,17,Sun,2002-01-06,4:05PM,St. Louis Rams,Atlanta Falcons,31,13
+243,17,Sun,2002-01-06,4:15PM,New York Jets,Oakland Raiders,24,22
+244,17,Sun,2002-01-06,4:16PM,Seattle Seahawks,Kansas City Chiefs,21,18
+245,17,Sun,2002-01-06,4:17PM,Miami Dolphins,Buffalo Bills,34,7
+246,17,Sun,2002-01-06,8:30PM,Philadelphia Eagles,Tampa Bay Buccaneers,17,13
+247,17,Mon,2002-01-07,9:07PM,Baltimore Ravens,Minnesota Vikings,19,3
+248,WildCard,Sat,2002-01-12,4:39PM,Philadelphia Eagles,Tampa Bay Buccaneers,31,9
+249,WildCard,Sat,2002-01-12,8:07PM,Oakland Raiders,New York Jets,38,24
+250,WildCard,Sun,2002-01-13,12:35PM,Green Bay Packers,San Francisco 49ers,25,15
+251,WildCard,Sun,2002-01-13,4:05PM,Baltimore Ravens,Miami Dolphins,20,3
+252,Division,Sat,2002-01-19,4:37PM,Philadelphia Eagles,Chicago Bears,33,19
+253,Division,Sat,2002-01-19,8:05PM,New England Patriots,Oakland Raiders,16,13
+254,Division,Sun,2002-01-20,12:40PM,Pittsburgh Steelers,Baltimore Ravens,27,10
+255,Division,Sun,2002-01-20,4:15PM,St. Louis Rams,Green Bay Packers,45,17
+256,ConfChamp,Sun,2002-01-27,12:40PM,New England Patriots,Pittsburgh Steelers,24,17
+257,ConfChamp,Sun,2002-01-27,4:27PM,St. Louis Rams,Philadelphia Eagles,29,24
+258,SuperBowl,Sun,2002-02-03,6:40PM,New England Patriots,St. Louis Rams,20,17

@@ -1,189 +1,190 @@
-1,Sun,1973-09-16,1:00PM,Buffalo Bills,New England Patriots,31,13
-1,Sun,1973-09-16,1:00PM,Cleveland Browns,Baltimore Colts,24,14
-1,Sun,1973-09-16,1:00PM,St. Louis Cardinals,Philadelphia Eagles,34,23
-1,Sun,1973-09-16,1:00PM,Miami Dolphins,San Francisco 49ers,21,13
-1,Sun,1973-09-16,1:00PM,New York Giants,Houston Oilers,34,14
-1,Sun,1973-09-16,1:00PM,Washington Redskins,San Diego Chargers,38,0
-1,Sun,1973-09-16,2:00PM,Atlanta Falcons,New Orleans Saints,62,7
-1,Sun,1973-09-16,2:00PM,Dallas Cowboys,Chicago Bears,20,17
-1,Sun,1973-09-16,2:00PM,Minnesota Vikings,Oakland Raiders,24,16
-1,Sun,1973-09-16,4:00PM,Denver Broncos,Cincinnati Bengals,28,10
-1,Sun,1973-09-16,4:00PM,Pittsburgh Steelers,Detroit Lions,24,10
-1,Sun,1973-09-16,4:00PM,Los Angeles Rams,Kansas City Chiefs,23,13
-1,Mon,1973-09-17,9:00PM,Green Bay Packers,New York Jets,23,7
-2,Sun,1973-09-23,1:00PM,Cincinnati Bengals,Houston Oilers,24,10
-2,Sun,1973-09-23,1:00PM,Pittsburgh Steelers,Cleveland Browns,33,6
-2,Sun,1973-09-23,1:00PM,Kansas City Chiefs,New England Patriots,10,7
-2,Sun,1973-09-23,1:00PM,Philadelphia Eagles,New York Giants,23,23
-2,Sun,1973-09-23,2:00PM,Minnesota Vikings,Chicago Bears,22,13
-2,Sun,1973-09-23,2:00PM,New York Jets,Baltimore Colts,34,10
-2,Sun,1973-09-23,2:00PM,St. Louis Cardinals,Washington Redskins,34,27
-2,Sun,1973-09-23,2:00PM,Green Bay Packers,Detroit Lions,13,13
-2,Sun,1973-09-23,4:00PM,Los Angeles Rams,Atlanta Falcons,31,0
-2,Sun,1973-09-23,4:00PM,San Diego Chargers,Buffalo Bills,34,7
-2,Sun,1973-09-23,4:00PM,San Francisco 49ers,Denver Broncos,36,34
-2,Sun,1973-09-23,4:00PM,Oakland Raiders,Miami Dolphins,12,7
-2,Mon,1973-09-24,9:00PM,Dallas Cowboys,New Orleans Saints,40,3
-3,Sun,1973-09-30,1:00PM,Buffalo Bills,New York Jets,9,7
-3,Sun,1973-09-30,1:00PM,Cleveland Browns,New York Giants,12,10
-3,Sun,1973-09-30,1:00PM,Miami Dolphins,New England Patriots,44,23
-3,Sun,1973-09-30,1:00PM,Washington Redskins,Philadelphia Eagles,28,7
-3,Sun,1973-09-30,2:00PM,Baltimore Colts,New Orleans Saints,14,10
-3,Sun,1973-09-30,2:00PM,Dallas Cowboys,St. Louis Cardinals,45,10
-3,Sun,1973-09-30,2:00PM,Minnesota Vikings,Green Bay Packers,11,3
-3,Sun,1973-09-30,2:00PM,Pittsburgh Steelers,Houston Oilers,36,7
-3,Sun,1973-09-30,4:00PM,Chicago Bears,Denver Broncos,33,14
-3,Sun,1973-09-30,4:00PM,Cincinnati Bengals,San Diego Chargers,20,13
-3,Sun,1973-09-30,4:00PM,Kansas City Chiefs,Oakland Raiders,16,3
-3,Sun,1973-09-30,4:00PM,Los Angeles Rams,San Francisco 49ers,40,20
-3,Mon,1973-10-01,9:00PM,Detroit Lions,Atlanta Falcons,31,6
-4,Sun,1973-10-07,1:00PM,San Francisco 49ers,Atlanta Falcons,13,9
-4,Sun,1973-10-07,1:00PM,Buffalo Bills,Philadelphia Eagles,27,26
-4,Sun,1973-10-07,1:00PM,Cleveland Browns,Cincinnati Bengals,17,10
-4,Sun,1973-10-07,1:00PM,New England Patriots,Baltimore Colts,24,16
-4,Sun,1973-10-07,1:00PM,Green Bay Packers,New York Giants,16,14
-4,Sun,1973-10-07,1:00PM,Miami Dolphins,New York Jets,31,3
-4,Sun,1973-10-07,1:00PM,Pittsburgh Steelers,San Diego Chargers,38,21
-4,Sun,1973-10-07,2:00PM,New Orleans Saints,Chicago Bears,21,16
-4,Sun,1973-10-07,2:00PM,Oakland Raiders,St. Louis Cardinals,17,10
-4,Sun,1973-10-07,2:00PM,Kansas City Chiefs,Denver Broncos,16,14
-4,Sun,1973-10-07,2:00PM,Los Angeles Rams,Houston Oilers,31,26
-4,Sun,1973-10-07,4:00PM,Minnesota Vikings,Detroit Lions,23,9
-4,Mon,1973-10-08,9:00PM,Washington Redskins,Dallas Cowboys,14,7
-5,Sun,1973-10-14,1:00PM,Atlanta Falcons,Chicago Bears,46,6
-5,Sun,1973-10-14,1:00PM,Buffalo Bills,Baltimore Colts,31,13
-5,Sun,1973-10-14,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,19,7
-5,Sun,1973-10-14,1:00PM,New York Jets,New England Patriots,9,7
-5,Sun,1973-10-14,1:00PM,Washington Redskins,New York Giants,21,3
-5,Sun,1973-10-14,2:00PM,Philadelphia Eagles,St. Louis Cardinals,27,24
-5,Sun,1973-10-14,2:00PM,Denver Broncos,Houston Oilers,48,20
-5,Sun,1973-10-14,2:00PM,New Orleans Saints,Detroit Lions,20,13
-5,Sun,1973-10-14,2:00PM,Kansas City Chiefs,Green Bay Packers,10,10
-5,Sun,1973-10-14,4:00PM,Los Angeles Rams,Dallas Cowboys,37,31
-5,Sun,1973-10-14,4:00PM,Minnesota Vikings,San Francisco 49ers,17,13
-5,Sun,1973-10-14,4:00PM,Oakland Raiders,San Diego Chargers,27,17
-5,Mon,1973-10-15,9:00PM,Miami Dolphins,Cleveland Browns,17,9
-6,Sun,1973-10-21,1:00PM,Miami Dolphins,Buffalo Bills,27,6
-6,Sun,1973-10-21,1:00PM,Cleveland Browns,Houston Oilers,42,13
-6,Sun,1973-10-21,1:00PM,Baltimore Colts,Detroit Lions,29,27
-6,Sun,1973-10-21,1:00PM,Washington Redskins,St. Louis Cardinals,31,13
-6,Sun,1973-10-21,1:00PM,Pittsburgh Steelers,New York Jets,26,14
-6,Sun,1973-10-21,2:00PM,New England Patriots,Chicago Bears,13,10
-6,Sun,1973-10-21,2:00PM,Minnesota Vikings,Philadelphia Eagles,28,21
-6,Sun,1973-10-21,4:00PM,Atlanta Falcons,San Diego Chargers,41,0
-6,Sun,1973-10-21,4:00PM,Cincinnati Bengals,Kansas City Chiefs,14,6
-6,Sun,1973-10-21,4:00PM,Dallas Cowboys,New York Giants,45,28
-6,Sun,1973-10-21,4:00PM,Los Angeles Rams,Green Bay Packers,24,7
-6,Sun,1973-10-21,4:00PM,San Francisco 49ers,New Orleans Saints,40,0
-6,Mon,1973-10-22,9:00PM,Oakland Raiders,Denver Broncos,23,23
-7,Sun,1973-10-28,1:00PM,San Diego Chargers,Cleveland Browns,16,16
-7,Sun,1973-10-28,1:00PM,Philadelphia Eagles,Dallas Cowboys,30,16
-7,Sun,1973-10-28,1:00PM,Denver Broncos,New York Jets,40,28
-7,Sun,1973-10-28,1:00PM,Detroit Lions,Green Bay Packers,34,0
-7,Sun,1973-10-28,1:00PM,Miami Dolphins,New England Patriots,30,14
-7,Sun,1973-10-28,2:00PM,Chicago Bears,Houston Oilers,35,14
-7,Sun,1973-10-28,2:00PM,Oakland Raiders,Baltimore Colts,34,21
-7,Sun,1973-10-28,2:00PM,St. Louis Cardinals,New York Giants,35,27
-7,Sun,1973-10-28,2:00PM,Minnesota Vikings,Los Angeles Rams,10,9
-7,Sun,1973-10-28,2:00PM,New Orleans Saints,Washington Redskins,19,3
-7,Sun,1973-10-28,4:00PM,Atlanta Falcons,San Francisco 49ers,17,3
-7,Sun,1973-10-28,4:00PM,Pittsburgh Steelers,Cincinnati Bengals,20,13
-7,Mon,1973-10-29,9:00PM,Buffalo Bills,Kansas City Chiefs,23,14
-8,Sun,1973-11-04,1:00PM,Atlanta Falcons,Los Angeles Rams,15,13
-8,Sun,1973-11-04,1:00PM,Miami Dolphins,New York Jets,24,14
-8,Sun,1973-11-04,1:00PM,Philadelphia Eagles,New England Patriots,24,23
-8,Sun,1973-11-04,2:00PM,New Orleans Saints,Buffalo Bills,13,0
-8,Sun,1973-11-04,2:00PM,Chicago Bears,Green Bay Packers,31,17
-8,Sun,1973-11-04,2:00PM,Dallas Cowboys,Cincinnati Bengals,38,10
-8,Sun,1973-11-04,2:00PM,Minnesota Vikings,Cleveland Browns,26,3
-8,Sun,1973-11-04,2:00PM,Houston Oilers,Baltimore Colts,31,27
-8,Sun,1973-11-04,2:00PM,Denver Broncos,St. Louis Cardinals,17,17
-8,Sun,1973-11-04,4:00PM,Detroit Lions,San Francisco 49ers,30,20
-8,Sun,1973-11-04,4:00PM,Kansas City Chiefs,San Diego Chargers,19,0
-8,Sun,1973-11-04,4:00PM,Oakland Raiders,New York Giants,42,0
-8,Mon,1973-11-05,9:00PM,Pittsburgh Steelers,Washington Redskins,21,16
-9,Sun,1973-11-11,1:00PM,Atlanta Falcons,Philadelphia Eagles,44,27
-9,Sun,1973-11-11,1:00PM,Cincinnati Bengals,Buffalo Bills,16,13
-9,Sun,1973-11-11,1:00PM,Miami Dolphins,Baltimore Colts,44,0
-9,Sun,1973-11-11,1:00PM,Dallas Cowboys,New York Giants,23,10
-9,Sun,1973-11-11,1:00PM,New York Jets,New England Patriots,33,13
-9,Sun,1973-11-11,1:00PM,Washington Redskins,San Francisco 49ers,33,9
-9,Sun,1973-11-11,2:00PM,Cleveland Browns,Houston Oilers,23,13
-9,Sun,1973-11-11,2:00PM,Green Bay Packers,St. Louis Cardinals,25,21
-9,Sun,1973-11-11,2:00PM,Minnesota Vikings,Detroit Lions,28,7
-9,Sun,1973-11-11,4:00PM,Denver Broncos,San Diego Chargers,30,19
-9,Sun,1973-11-11,4:00PM,Los Angeles Rams,New Orleans Saints,29,7
-9,Sun,1973-11-11,4:00PM,Pittsburgh Steelers,Oakland Raiders,17,9
-9,Mon,1973-11-12,9:00PM,Kansas City Chiefs,Chicago Bears,19,7
-10,Sun,1973-11-18,1:00PM,Miami Dolphins,Buffalo Bills,17,0
-10,Sun,1973-11-18,1:00PM,Washington Redskins,Baltimore Colts,22,14
-10,Sun,1973-11-18,1:00PM,New York Giants,St. Louis Cardinals,24,13
-10,Sun,1973-11-18,1:00PM,Denver Broncos,Pittsburgh Steelers,23,13
-10,Sun,1973-11-18,1:00PM,New England Patriots,Green Bay Packers,33,24
-10,Sun,1973-11-18,2:00PM,Detroit Lions,Chicago Bears,30,7
-10,Sun,1973-11-18,2:00PM,Cincinnati Bengals,New York Jets,20,14
-10,Sun,1973-11-18,2:00PM,Dallas Cowboys,Philadelphia Eagles,31,10
-10,Sun,1973-11-18,2:00PM,Kansas City Chiefs,Houston Oilers,38,14
-10,Sun,1973-11-18,4:00PM,Cleveland Browns,Oakland Raiders,7,3
-10,Sun,1973-11-18,4:00PM,San Diego Chargers,New Orleans Saints,17,14
-10,Sun,1973-11-18,4:00PM,Los Angeles Rams,San Francisco 49ers,31,13
-10,Mon,1973-11-19,9:00PM,Atlanta Falcons,Minnesota Vikings,20,14
-11,Thu,1973-11-22,12:15PM,Washington Redskins,Detroit Lions,20,0
-11,Thu,1973-11-22,3:30PM,Miami Dolphins,Dallas Cowboys,14,7
-11,Sun,1973-11-25,1:00PM,Cincinnati Bengals,St. Louis Cardinals,42,24
-11,Sun,1973-11-25,1:00PM,Cleveland Browns,Pittsburgh Steelers,21,16
-11,Sun,1973-11-25,1:00PM,Philadelphia Eagles,New York Giants,20,16
-11,Sun,1973-11-25,2:00PM,Buffalo Bills,Baltimore Colts,24,17
-11,Sun,1973-11-25,2:00PM,Minnesota Vikings,Chicago Bears,31,13
-11,Sun,1973-11-25,2:00PM,Los Angeles Rams,New Orleans Saints,24,13
-11,Sun,1973-11-25,2:00PM,New England Patriots,Houston Oilers,32,0
-11,Sun,1973-11-25,3:00PM,Denver Broncos,Kansas City Chiefs,14,10
-11,Sun,1973-11-25,4:00PM,Atlanta Falcons,New York Jets,28,20
-11,Sun,1973-11-25,4:00PM,Oakland Raiders,San Diego Chargers,31,3
-11,Mon,1973-11-26,9:00PM,San Francisco 49ers,Green Bay Packers,20,6
-12,Sun,1973-12-02,1:00PM,Buffalo Bills,Atlanta Falcons,17,6
-12,Sun,1973-12-02,1:00PM,Cincinnati Bengals,Minnesota Vikings,27,0
-12,Sun,1973-12-02,1:00PM,New York Jets,Baltimore Colts,20,17
-12,Sun,1973-12-02,1:00PM,New England Patriots,San Diego Chargers,30,14
-12,Sun,1973-12-02,1:00PM,Washington Redskins,New York Giants,27,24
-12,Sun,1973-12-02,2:00PM,Los Angeles Rams,Chicago Bears,26,0
-12,Sun,1973-12-02,2:00PM,Detroit Lions,St. Louis Cardinals,20,16
-12,Sun,1973-12-02,2:00PM,Green Bay Packers,New Orleans Saints,30,10
-12,Sun,1973-12-02,2:00PM,Oakland Raiders,Houston Oilers,17,6
-12,Sun,1973-12-02,4:00PM,Kansas City Chiefs,Cleveland Browns,20,20
-12,Sun,1973-12-02,4:00PM,Dallas Cowboys,Denver Broncos,22,10
-12,Sun,1973-12-02,4:00PM,San Francisco 49ers,Philadelphia Eagles,38,28
-12,Mon,1973-12-03,9:00PM,Miami Dolphins,Pittsburgh Steelers,30,26
-13,Sat,1973-12-08,1:00PM,Minnesota Vikings,Green Bay Packers,31,7
-13,Sat,1973-12-08,4:00PM,Oakland Raiders,Kansas City Chiefs,37,7
-13,Sun,1973-12-09,1:00PM,St. Louis Cardinals,Atlanta Falcons,32,10
-13,Sun,1973-12-09,1:00PM,Buffalo Bills,New England Patriots,37,13
-13,Sun,1973-12-09,1:00PM,Detroit Lions,Chicago Bears,40,7
-13,Sun,1973-12-09,1:00PM,Cincinnati Bengals,Cleveland Browns,34,17
-13,Sun,1973-12-09,1:00PM,Philadelphia Eagles,New York Jets,24,23
-13,Sun,1973-12-09,1:00PM,Pittsburgh Steelers,Houston Oilers,33,7
-13,Sun,1973-12-09,2:00PM,Baltimore Colts,Miami Dolphins,16,3
-13,Sun,1973-12-09,2:00PM,New Orleans Saints,San Francisco 49ers,16,10
-13,Sun,1973-12-09,4:00PM,Dallas Cowboys,Washington Redskins,27,7
-13,Sun,1973-12-09,4:00PM,Denver Broncos,San Diego Chargers,42,28
-13,Mon,1973-12-10,9:00PM,Los Angeles Rams,New York Giants,40,6
-14,Sat,1973-12-15,1:00PM,Miami Dolphins,Detroit Lions,34,7
-14,Sat,1973-12-15,4:00PM,Pittsburgh Steelers,San Francisco 49ers,37,14
-14,Sun,1973-12-16,1:00PM,Atlanta Falcons,New Orleans Saints,14,10
-14,Sun,1973-12-16,1:00PM,Buffalo Bills,New York Jets,34,14
-14,Sun,1973-12-16,1:00PM,Minnesota Vikings,New York Giants,31,7
-14,Sun,1973-12-16,1:00PM,Washington Redskins,Philadelphia Eagles,38,20
-14,Sun,1973-12-16,2:00PM,Green Bay Packers,Chicago Bears,21,0
-14,Sun,1973-12-16,2:00PM,Cincinnati Bengals,Houston Oilers,27,24
-14,Sun,1973-12-16,2:00PM,Baltimore Colts,New England Patriots,18,13
-14,Sun,1973-12-16,2:00PM,Dallas Cowboys,St. Louis Cardinals,30,3
-14,Sun,1973-12-16,2:00PM,Kansas City Chiefs,San Diego Chargers,33,6
-14,Sun,1973-12-16,4:00PM,Los Angeles Rams,Cleveland Browns,30,17
-14,Sun,1973-12-16,4:00PM,Oakland Raiders,Denver Broncos,21,17
-Division,Sat,1973-12-22,1:00PM,Minnesota Vikings,Washington Redskins,27,20
-Division,Sat,1973-12-22,4:00PM,Oakland Raiders,Pittsburgh Steelers,33,14
-Division,Sun,1973-12-23,1:00PM,Miami Dolphins,Cincinnati Bengals,34,16
-Division,Sun,1973-12-23,4:00PM,Dallas Cowboys,Los Angeles Rams,27,16
-ConfChamp,Sun,1973-12-30,1:00PM,Minnesota Vikings,Dallas Cowboys,27,10
-ConfChamp,Sun,1973-12-30,4:00PM,Miami Dolphins,Oakland Raiders,27,10
-SuperBowl,Sun,1974-01-13,3:50PM,Miami Dolphins,Minnesota Vikings,24,7
+,Week,Day,Date,Time,Winner,Loser,PtsW,PtsL
+0,1,Sun,1973-09-16,1:00PM,Buffalo Bills,New England Patriots,31,13
+1,1,Sun,1973-09-16,1:00PM,Cleveland Browns,Baltimore Colts,24,14
+2,1,Sun,1973-09-16,1:00PM,St. Louis Cardinals,Philadelphia Eagles,34,23
+3,1,Sun,1973-09-16,1:00PM,Miami Dolphins,San Francisco 49ers,21,13
+4,1,Sun,1973-09-16,1:00PM,New York Giants,Houston Oilers,34,14
+5,1,Sun,1973-09-16,1:00PM,Washington Redskins,San Diego Chargers,38,0
+6,1,Sun,1973-09-16,2:00PM,Atlanta Falcons,New Orleans Saints,62,7
+7,1,Sun,1973-09-16,2:00PM,Dallas Cowboys,Chicago Bears,20,17
+8,1,Sun,1973-09-16,2:00PM,Minnesota Vikings,Oakland Raiders,24,16
+9,1,Sun,1973-09-16,4:00PM,Denver Broncos,Cincinnati Bengals,28,10
+10,1,Sun,1973-09-16,4:00PM,Pittsburgh Steelers,Detroit Lions,24,10
+11,1,Sun,1973-09-16,4:00PM,Los Angeles Rams,Kansas City Chiefs,23,13
+12,1,Mon,1973-09-17,9:00PM,Green Bay Packers,New York Jets,23,7
+13,2,Sun,1973-09-23,1:00PM,Cincinnati Bengals,Houston Oilers,24,10
+14,2,Sun,1973-09-23,1:00PM,Pittsburgh Steelers,Cleveland Browns,33,6
+15,2,Sun,1973-09-23,1:00PM,Kansas City Chiefs,New England Patriots,10,7
+16,2,Sun,1973-09-23,1:00PM,Philadelphia Eagles,New York Giants,23,23
+17,2,Sun,1973-09-23,2:00PM,Minnesota Vikings,Chicago Bears,22,13
+18,2,Sun,1973-09-23,2:00PM,New York Jets,Baltimore Colts,34,10
+19,2,Sun,1973-09-23,2:00PM,St. Louis Cardinals,Washington Redskins,34,27
+20,2,Sun,1973-09-23,2:00PM,Green Bay Packers,Detroit Lions,13,13
+21,2,Sun,1973-09-23,4:00PM,Los Angeles Rams,Atlanta Falcons,31,0
+22,2,Sun,1973-09-23,4:00PM,San Diego Chargers,Buffalo Bills,34,7
+23,2,Sun,1973-09-23,4:00PM,San Francisco 49ers,Denver Broncos,36,34
+24,2,Sun,1973-09-23,4:00PM,Oakland Raiders,Miami Dolphins,12,7
+25,2,Mon,1973-09-24,9:00PM,Dallas Cowboys,New Orleans Saints,40,3
+26,3,Sun,1973-09-30,1:00PM,Buffalo Bills,New York Jets,9,7
+27,3,Sun,1973-09-30,1:00PM,Cleveland Browns,New York Giants,12,10
+28,3,Sun,1973-09-30,1:00PM,Miami Dolphins,New England Patriots,44,23
+29,3,Sun,1973-09-30,1:00PM,Washington Redskins,Philadelphia Eagles,28,7
+30,3,Sun,1973-09-30,2:00PM,Baltimore Colts,New Orleans Saints,14,10
+31,3,Sun,1973-09-30,2:00PM,Dallas Cowboys,St. Louis Cardinals,45,10
+32,3,Sun,1973-09-30,2:00PM,Minnesota Vikings,Green Bay Packers,11,3
+33,3,Sun,1973-09-30,2:00PM,Pittsburgh Steelers,Houston Oilers,36,7
+34,3,Sun,1973-09-30,4:00PM,Chicago Bears,Denver Broncos,33,14
+35,3,Sun,1973-09-30,4:00PM,Cincinnati Bengals,San Diego Chargers,20,13
+36,3,Sun,1973-09-30,4:00PM,Kansas City Chiefs,Oakland Raiders,16,3
+37,3,Sun,1973-09-30,4:00PM,Los Angeles Rams,San Francisco 49ers,40,20
+38,3,Mon,1973-10-01,9:00PM,Detroit Lions,Atlanta Falcons,31,6
+39,4,Sun,1973-10-07,1:00PM,San Francisco 49ers,Atlanta Falcons,13,9
+40,4,Sun,1973-10-07,1:00PM,Buffalo Bills,Philadelphia Eagles,27,26
+41,4,Sun,1973-10-07,1:00PM,Cleveland Browns,Cincinnati Bengals,17,10
+42,4,Sun,1973-10-07,1:00PM,New England Patriots,Baltimore Colts,24,16
+43,4,Sun,1973-10-07,1:00PM,Green Bay Packers,New York Giants,16,14
+44,4,Sun,1973-10-07,1:00PM,Miami Dolphins,New York Jets,31,3
+45,4,Sun,1973-10-07,1:00PM,Pittsburgh Steelers,San Diego Chargers,38,21
+46,4,Sun,1973-10-07,2:00PM,New Orleans Saints,Chicago Bears,21,16
+47,4,Sun,1973-10-07,2:00PM,Oakland Raiders,St. Louis Cardinals,17,10
+48,4,Sun,1973-10-07,2:00PM,Kansas City Chiefs,Denver Broncos,16,14
+49,4,Sun,1973-10-07,2:00PM,Los Angeles Rams,Houston Oilers,31,26
+50,4,Sun,1973-10-07,4:00PM,Minnesota Vikings,Detroit Lions,23,9
+51,4,Mon,1973-10-08,9:00PM,Washington Redskins,Dallas Cowboys,14,7
+52,5,Sun,1973-10-14,1:00PM,Atlanta Falcons,Chicago Bears,46,6
+53,5,Sun,1973-10-14,1:00PM,Buffalo Bills,Baltimore Colts,31,13
+54,5,Sun,1973-10-14,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,19,7
+55,5,Sun,1973-10-14,1:00PM,New York Jets,New England Patriots,9,7
+56,5,Sun,1973-10-14,1:00PM,Washington Redskins,New York Giants,21,3
+57,5,Sun,1973-10-14,2:00PM,Philadelphia Eagles,St. Louis Cardinals,27,24
+58,5,Sun,1973-10-14,2:00PM,Denver Broncos,Houston Oilers,48,20
+59,5,Sun,1973-10-14,2:00PM,New Orleans Saints,Detroit Lions,20,13
+60,5,Sun,1973-10-14,2:00PM,Kansas City Chiefs,Green Bay Packers,10,10
+61,5,Sun,1973-10-14,4:00PM,Los Angeles Rams,Dallas Cowboys,37,31
+62,5,Sun,1973-10-14,4:00PM,Minnesota Vikings,San Francisco 49ers,17,13
+63,5,Sun,1973-10-14,4:00PM,Oakland Raiders,San Diego Chargers,27,17
+64,5,Mon,1973-10-15,9:00PM,Miami Dolphins,Cleveland Browns,17,9
+65,6,Sun,1973-10-21,1:00PM,Miami Dolphins,Buffalo Bills,27,6
+66,6,Sun,1973-10-21,1:00PM,Cleveland Browns,Houston Oilers,42,13
+67,6,Sun,1973-10-21,1:00PM,Baltimore Colts,Detroit Lions,29,27
+68,6,Sun,1973-10-21,1:00PM,Washington Redskins,St. Louis Cardinals,31,13
+69,6,Sun,1973-10-21,1:00PM,Pittsburgh Steelers,New York Jets,26,14
+70,6,Sun,1973-10-21,2:00PM,New England Patriots,Chicago Bears,13,10
+71,6,Sun,1973-10-21,2:00PM,Minnesota Vikings,Philadelphia Eagles,28,21
+72,6,Sun,1973-10-21,4:00PM,Atlanta Falcons,San Diego Chargers,41,0
+73,6,Sun,1973-10-21,4:00PM,Cincinnati Bengals,Kansas City Chiefs,14,6
+74,6,Sun,1973-10-21,4:00PM,Dallas Cowboys,New York Giants,45,28
+75,6,Sun,1973-10-21,4:00PM,Los Angeles Rams,Green Bay Packers,24,7
+76,6,Sun,1973-10-21,4:00PM,San Francisco 49ers,New Orleans Saints,40,0
+77,6,Mon,1973-10-22,9:00PM,Oakland Raiders,Denver Broncos,23,23
+78,7,Sun,1973-10-28,1:00PM,San Diego Chargers,Cleveland Browns,16,16
+79,7,Sun,1973-10-28,1:00PM,Philadelphia Eagles,Dallas Cowboys,30,16
+80,7,Sun,1973-10-28,1:00PM,Denver Broncos,New York Jets,40,28
+81,7,Sun,1973-10-28,1:00PM,Detroit Lions,Green Bay Packers,34,0
+82,7,Sun,1973-10-28,1:00PM,Miami Dolphins,New England Patriots,30,14
+83,7,Sun,1973-10-28,2:00PM,Chicago Bears,Houston Oilers,35,14
+84,7,Sun,1973-10-28,2:00PM,Oakland Raiders,Baltimore Colts,34,21
+85,7,Sun,1973-10-28,2:00PM,St. Louis Cardinals,New York Giants,35,27
+86,7,Sun,1973-10-28,2:00PM,Minnesota Vikings,Los Angeles Rams,10,9
+87,7,Sun,1973-10-28,2:00PM,New Orleans Saints,Washington Redskins,19,3
+88,7,Sun,1973-10-28,4:00PM,Atlanta Falcons,San Francisco 49ers,17,3
+89,7,Sun,1973-10-28,4:00PM,Pittsburgh Steelers,Cincinnati Bengals,20,13
+90,7,Mon,1973-10-29,9:00PM,Buffalo Bills,Kansas City Chiefs,23,14
+91,8,Sun,1973-11-04,1:00PM,Atlanta Falcons,Los Angeles Rams,15,13
+92,8,Sun,1973-11-04,1:00PM,Miami Dolphins,New York Jets,24,14
+93,8,Sun,1973-11-04,1:00PM,Philadelphia Eagles,New England Patriots,24,23
+94,8,Sun,1973-11-04,2:00PM,New Orleans Saints,Buffalo Bills,13,0
+95,8,Sun,1973-11-04,2:00PM,Chicago Bears,Green Bay Packers,31,17
+96,8,Sun,1973-11-04,2:00PM,Dallas Cowboys,Cincinnati Bengals,38,10
+97,8,Sun,1973-11-04,2:00PM,Minnesota Vikings,Cleveland Browns,26,3
+98,8,Sun,1973-11-04,2:00PM,Houston Oilers,Baltimore Colts,31,27
+99,8,Sun,1973-11-04,2:00PM,Denver Broncos,St. Louis Cardinals,17,17
+100,8,Sun,1973-11-04,4:00PM,Detroit Lions,San Francisco 49ers,30,20
+101,8,Sun,1973-11-04,4:00PM,Kansas City Chiefs,San Diego Chargers,19,0
+102,8,Sun,1973-11-04,4:00PM,Oakland Raiders,New York Giants,42,0
+103,8,Mon,1973-11-05,9:00PM,Pittsburgh Steelers,Washington Redskins,21,16
+104,9,Sun,1973-11-11,1:00PM,Atlanta Falcons,Philadelphia Eagles,44,27
+105,9,Sun,1973-11-11,1:00PM,Cincinnati Bengals,Buffalo Bills,16,13
+106,9,Sun,1973-11-11,1:00PM,Miami Dolphins,Baltimore Colts,44,0
+107,9,Sun,1973-11-11,1:00PM,Dallas Cowboys,New York Giants,23,10
+108,9,Sun,1973-11-11,1:00PM,New York Jets,New England Patriots,33,13
+109,9,Sun,1973-11-11,1:00PM,Washington Redskins,San Francisco 49ers,33,9
+110,9,Sun,1973-11-11,2:00PM,Cleveland Browns,Houston Oilers,23,13
+111,9,Sun,1973-11-11,2:00PM,Green Bay Packers,St. Louis Cardinals,25,21
+112,9,Sun,1973-11-11,2:00PM,Minnesota Vikings,Detroit Lions,28,7
+113,9,Sun,1973-11-11,4:00PM,Denver Broncos,San Diego Chargers,30,19
+114,9,Sun,1973-11-11,4:00PM,Los Angeles Rams,New Orleans Saints,29,7
+115,9,Sun,1973-11-11,4:00PM,Pittsburgh Steelers,Oakland Raiders,17,9
+116,9,Mon,1973-11-12,9:00PM,Kansas City Chiefs,Chicago Bears,19,7
+117,10,Sun,1973-11-18,1:00PM,Miami Dolphins,Buffalo Bills,17,0
+118,10,Sun,1973-11-18,1:00PM,Washington Redskins,Baltimore Colts,22,14
+119,10,Sun,1973-11-18,1:00PM,New York Giants,St. Louis Cardinals,24,13
+120,10,Sun,1973-11-18,1:00PM,Denver Broncos,Pittsburgh Steelers,23,13
+121,10,Sun,1973-11-18,1:00PM,New England Patriots,Green Bay Packers,33,24
+122,10,Sun,1973-11-18,2:00PM,Detroit Lions,Chicago Bears,30,7
+123,10,Sun,1973-11-18,2:00PM,Cincinnati Bengals,New York Jets,20,14
+124,10,Sun,1973-11-18,2:00PM,Dallas Cowboys,Philadelphia Eagles,31,10
+125,10,Sun,1973-11-18,2:00PM,Kansas City Chiefs,Houston Oilers,38,14
+126,10,Sun,1973-11-18,4:00PM,Cleveland Browns,Oakland Raiders,7,3
+127,10,Sun,1973-11-18,4:00PM,San Diego Chargers,New Orleans Saints,17,14
+128,10,Sun,1973-11-18,4:00PM,Los Angeles Rams,San Francisco 49ers,31,13
+129,10,Mon,1973-11-19,9:00PM,Atlanta Falcons,Minnesota Vikings,20,14
+130,11,Thu,1973-11-22,12:15PM,Washington Redskins,Detroit Lions,20,0
+131,11,Thu,1973-11-22,3:30PM,Miami Dolphins,Dallas Cowboys,14,7
+132,11,Sun,1973-11-25,1:00PM,Cincinnati Bengals,St. Louis Cardinals,42,24
+133,11,Sun,1973-11-25,1:00PM,Cleveland Browns,Pittsburgh Steelers,21,16
+134,11,Sun,1973-11-25,1:00PM,Philadelphia Eagles,New York Giants,20,16
+135,11,Sun,1973-11-25,2:00PM,Buffalo Bills,Baltimore Colts,24,17
+136,11,Sun,1973-11-25,2:00PM,Minnesota Vikings,Chicago Bears,31,13
+137,11,Sun,1973-11-25,2:00PM,Los Angeles Rams,New Orleans Saints,24,13
+138,11,Sun,1973-11-25,2:00PM,New England Patriots,Houston Oilers,32,0
+139,11,Sun,1973-11-25,3:00PM,Denver Broncos,Kansas City Chiefs,14,10
+140,11,Sun,1973-11-25,4:00PM,Atlanta Falcons,New York Jets,28,20
+141,11,Sun,1973-11-25,4:00PM,Oakland Raiders,San Diego Chargers,31,3
+142,11,Mon,1973-11-26,9:00PM,San Francisco 49ers,Green Bay Packers,20,6
+143,12,Sun,1973-12-02,1:00PM,Buffalo Bills,Atlanta Falcons,17,6
+144,12,Sun,1973-12-02,1:00PM,Cincinnati Bengals,Minnesota Vikings,27,0
+145,12,Sun,1973-12-02,1:00PM,New York Jets,Baltimore Colts,20,17
+146,12,Sun,1973-12-02,1:00PM,New England Patriots,San Diego Chargers,30,14
+147,12,Sun,1973-12-02,1:00PM,Washington Redskins,New York Giants,27,24
+148,12,Sun,1973-12-02,2:00PM,Los Angeles Rams,Chicago Bears,26,0
+149,12,Sun,1973-12-02,2:00PM,Detroit Lions,St. Louis Cardinals,20,16
+150,12,Sun,1973-12-02,2:00PM,Green Bay Packers,New Orleans Saints,30,10
+151,12,Sun,1973-12-02,2:00PM,Oakland Raiders,Houston Oilers,17,6
+152,12,Sun,1973-12-02,4:00PM,Kansas City Chiefs,Cleveland Browns,20,20
+153,12,Sun,1973-12-02,4:00PM,Dallas Cowboys,Denver Broncos,22,10
+154,12,Sun,1973-12-02,4:00PM,San Francisco 49ers,Philadelphia Eagles,38,28
+155,12,Mon,1973-12-03,9:00PM,Miami Dolphins,Pittsburgh Steelers,30,26
+156,13,Sat,1973-12-08,1:00PM,Minnesota Vikings,Green Bay Packers,31,7
+157,13,Sat,1973-12-08,4:00PM,Oakland Raiders,Kansas City Chiefs,37,7
+158,13,Sun,1973-12-09,1:00PM,St. Louis Cardinals,Atlanta Falcons,32,10
+159,13,Sun,1973-12-09,1:00PM,Buffalo Bills,New England Patriots,37,13
+160,13,Sun,1973-12-09,1:00PM,Detroit Lions,Chicago Bears,40,7
+161,13,Sun,1973-12-09,1:00PM,Cincinnati Bengals,Cleveland Browns,34,17
+162,13,Sun,1973-12-09,1:00PM,Philadelphia Eagles,New York Jets,24,23
+163,13,Sun,1973-12-09,1:00PM,Pittsburgh Steelers,Houston Oilers,33,7
+164,13,Sun,1973-12-09,2:00PM,Baltimore Colts,Miami Dolphins,16,3
+165,13,Sun,1973-12-09,2:00PM,New Orleans Saints,San Francisco 49ers,16,10
+166,13,Sun,1973-12-09,4:00PM,Dallas Cowboys,Washington Redskins,27,7
+167,13,Sun,1973-12-09,4:00PM,Denver Broncos,San Diego Chargers,42,28
+168,13,Mon,1973-12-10,9:00PM,Los Angeles Rams,New York Giants,40,6
+169,14,Sat,1973-12-15,1:00PM,Miami Dolphins,Detroit Lions,34,7
+170,14,Sat,1973-12-15,4:00PM,Pittsburgh Steelers,San Francisco 49ers,37,14
+171,14,Sun,1973-12-16,1:00PM,Atlanta Falcons,New Orleans Saints,14,10
+172,14,Sun,1973-12-16,1:00PM,Buffalo Bills,New York Jets,34,14
+173,14,Sun,1973-12-16,1:00PM,Minnesota Vikings,New York Giants,31,7
+174,14,Sun,1973-12-16,1:00PM,Washington Redskins,Philadelphia Eagles,38,20
+175,14,Sun,1973-12-16,2:00PM,Green Bay Packers,Chicago Bears,21,0
+176,14,Sun,1973-12-16,2:00PM,Cincinnati Bengals,Houston Oilers,27,24
+177,14,Sun,1973-12-16,2:00PM,Baltimore Colts,New England Patriots,18,13
+178,14,Sun,1973-12-16,2:00PM,Dallas Cowboys,St. Louis Cardinals,30,3
+179,14,Sun,1973-12-16,2:00PM,Kansas City Chiefs,San Diego Chargers,33,6
+180,14,Sun,1973-12-16,4:00PM,Los Angeles Rams,Cleveland Browns,30,17
+181,14,Sun,1973-12-16,4:00PM,Oakland Raiders,Denver Broncos,21,17
+182,Division,Sat,1973-12-22,1:00PM,Minnesota Vikings,Washington Redskins,27,20
+183,Division,Sat,1973-12-22,4:00PM,Oakland Raiders,Pittsburgh Steelers,33,14
+184,Division,Sun,1973-12-23,1:00PM,Miami Dolphins,Cincinnati Bengals,34,16
+185,Division,Sun,1973-12-23,4:00PM,Dallas Cowboys,Los Angeles Rams,27,16
+186,ConfChamp,Sun,1973-12-30,1:00PM,Minnesota Vikings,Dallas Cowboys,27,10
+187,ConfChamp,Sun,1973-12-30,4:00PM,Miami Dolphins,Oakland Raiders,27,10
+188,SuperBowl,Sun,1974-01-13,3:50PM,Miami Dolphins,Minnesota Vikings,24,7

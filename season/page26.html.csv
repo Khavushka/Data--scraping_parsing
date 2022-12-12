@@ -1,251 +1,252 @@
-1,Sun,1995-09-03,1:00PM,Atlanta Falcons,Carolina Panthers,23,20
-1,Sun,1995-09-03,1:00PM,Cincinnati Bengals,Indianapolis Colts,24,21
-1,Sun,1995-09-03,1:00PM,New England Patriots,Cleveland Browns,17,14
-1,Sun,1995-09-03,1:00PM,Pittsburgh Steelers,Detroit Lions,23,20
-1,Sun,1995-09-03,1:00PM,St. Louis Rams,Green Bay Packers,17,14
-1,Sun,1995-09-03,1:00PM,Houston Oilers,Jacksonville Jaguars,10,3
-1,Sun,1995-09-03,1:00PM,San Francisco 49ers,New Orleans Saints,24,22
-1,Sun,1995-09-03,1:00PM,Tampa Bay Buccaneers,Philadelphia Eagles,21,6
-1,Sun,1995-09-03,4:00PM,Chicago Bears,Minnesota Vikings,31,14
-1,Sun,1995-09-03,4:00PM,Washington Redskins,Arizona Cardinals,27,7
-1,Sun,1995-09-03,4:00PM,Kansas City Chiefs,Seattle Seahawks,34,10
-1,Sun,1995-09-03,4:00PM,Miami Dolphins,New York Jets,52,14
-1,Sun,1995-09-03,4:00PM,Oakland Raiders,San Diego Chargers,17,7
-1,Sun,1995-09-03,8:00PM,Denver Broncos,Buffalo Bills,22,7
-1,Mon,1995-09-04,9:00PM,Dallas Cowboys,New York Giants,35,0
-2,Sun,1995-09-10,1:00PM,Buffalo Bills,Carolina Panthers,31,9
-2,Sun,1995-09-10,1:00PM,Cleveland Browns,Tampa Bay Buccaneers,22,6
-2,Sun,1995-09-10,1:00PM,Minnesota Vikings,Detroit Lions,20,10
-2,Sun,1995-09-10,1:00PM,Kansas City Chiefs,New York Giants,20,17
-2,Sun,1995-09-10,1:00PM,Miami Dolphins,New England Patriots,20,3
-2,Sun,1995-09-10,1:00PM,St. Louis Rams,New Orleans Saints,17,13
-2,Sun,1995-09-10,1:00PM,Pittsburgh Steelers,Houston Oilers,34,17
-2,Sun,1995-09-10,1:00PM,Oakland Raiders,Washington Redskins,20,8
-2,Sun,1995-09-10,4:00PM,San Francisco 49ers,Atlanta Falcons,41,10
-2,Sun,1995-09-10,4:00PM,Cincinnati Bengals,Jacksonville Jaguars,24,17
-2,Sun,1995-09-10,4:00PM,Indianapolis Colts,New York Jets,27,24
-2,Sun,1995-09-10,4:00PM,Dallas Cowboys,Denver Broncos,31,21
-2,Sun,1995-09-10,4:00PM,San Diego Chargers,Seattle Seahawks,14,10
-2,Sun,1995-09-10,8:00PM,Philadelphia Eagles,Arizona Cardinals,31,19
-2,Mon,1995-09-11,9:00PM,Green Bay Packers,Chicago Bears,27,24
-3,Sun,1995-09-17,1:00PM,Atlanta Falcons,New Orleans Saints,27,24
-3,Sun,1995-09-17,1:00PM,Buffalo Bills,Indianapolis Colts,20,14
-3,Sun,1995-09-17,1:00PM,St. Louis Rams,Carolina Panthers,31,10
-3,Sun,1995-09-17,1:00PM,Cleveland Browns,Houston Oilers,14,7
-3,Sun,1995-09-17,1:00PM,Arizona Cardinals,Detroit Lions,20,17
-3,Sun,1995-09-17,1:00PM,Green Bay Packers,New York Giants,14,6
-3,Sun,1995-09-17,1:00PM,Kansas City Chiefs,Oakland Raiders,23,17
-3,Sun,1995-09-17,1:00PM,San Diego Chargers,Philadelphia Eagles,27,21
-3,Sun,1995-09-17,4:00PM,Chicago Bears,Tampa Bay Buccaneers,25,6
-3,Sun,1995-09-17,4:00PM,Seattle Seahawks,Cincinnati Bengals,24,21
-3,Sun,1995-09-17,4:00PM,Denver Broncos,Washington Redskins,38,31
-3,Sun,1995-09-17,4:00PM,New York Jets,Jacksonville Jaguars,27,10
-3,Sun,1995-09-17,4:00PM,San Francisco 49ers,New England Patriots,28,3
-3,Sun,1995-09-17,8:00PM,Dallas Cowboys,Minnesota Vikings,23,17
-3,Mon,1995-09-18,9:00PM,Miami Dolphins,Pittsburgh Steelers,23,10
-4,Sun,1995-09-24,1:00PM,St. Louis Rams,Chicago Bears,34,28
-4,Sun,1995-09-24,1:00PM,Minnesota Vikings,Pittsburgh Steelers,44,24
-4,Sun,1995-09-24,1:00PM,New York Giants,New Orleans Saints,45,29
-4,Sun,1995-09-24,1:00PM,Tampa Bay Buccaneers,Washington Redskins,14,6
-4,Sun,1995-09-24,4:00PM,Atlanta Falcons,New York Jets,13,3
-4,Sun,1995-09-24,4:00PM,Houston Oilers,Cincinnati Bengals,38,28
-4,Sun,1995-09-24,4:00PM,Cleveland Browns,Kansas City Chiefs,35,17
-4,Sun,1995-09-24,4:00PM,Dallas Cowboys,Arizona Cardinals,34,20
-4,Sun,1995-09-24,4:00PM,San Diego Chargers,Denver Broncos,17,6
-4,Sun,1995-09-24,4:00PM,Oakland Raiders,Philadelphia Eagles,48,17
-4,Sun,1995-09-24,8:00PM,Green Bay Packers,Jacksonville Jaguars,24,14
-4,Mon,1995-09-25,9:00PM,Detroit Lions,San Francisco 49ers,27,24
-5,Sun,1995-10-01,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,20,13
-5,Sun,1995-10-01,1:00PM,Indianapolis Colts,St. Louis Rams,21,18
-5,Sun,1995-10-01,1:00PM,Atlanta Falcons,New England Patriots,30,17
-5,Sun,1995-10-01,1:00PM,Miami Dolphins,Cincinnati Bengals,26,23
-5,Sun,1995-10-01,1:00PM,Washington Redskins,Dallas Cowboys,27,23
-5,Sun,1995-10-01,1:00PM,Philadelphia Eagles,New Orleans Saints,15,10
-5,Sun,1995-10-01,4:00PM,Kansas City Chiefs,Arizona Cardinals,24,3
-5,Sun,1995-10-01,4:00PM,Seattle Seahawks,Denver Broncos,27,10
-5,Sun,1995-10-01,4:00PM,Jacksonville Jaguars,Houston Oilers,17,16
-5,Sun,1995-10-01,4:00PM,San Francisco 49ers,New York Giants,20,6
-5,Sun,1995-10-01,4:00PM,Pittsburgh Steelers,San Diego Chargers,31,16
-5,Sun,1995-10-01,8:00PM,Oakland Raiders,New York Jets,47,10
-5,Mon,1995-10-02,9:00PM,Buffalo Bills,Cleveland Browns,22,19
-6,Sun,1995-10-08,1:00PM,Buffalo Bills,New York Jets,29,10
-6,Sun,1995-10-08,1:00PM,Chicago Bears,Carolina Panthers,31,27
-6,Sun,1995-10-08,1:00PM,Minnesota Vikings,Houston Oilers,23,17
-6,Sun,1995-10-08,1:00PM,Tampa Bay Buccaneers,Cincinnati Bengals,19,16
-6,Sun,1995-10-08,1:00PM,Dallas Cowboys,Green Bay Packers,34,24
-6,Sun,1995-10-08,1:00PM,Jacksonville Jaguars,Pittsburgh Steelers,20,16
-6,Sun,1995-10-08,1:00PM,Philadelphia Eagles,Washington Redskins,37,34
-6,Sun,1995-10-08,4:00PM,Indianapolis Colts,Miami Dolphins,27,24
-6,Sun,1995-10-08,4:00PM,Detroit Lions,Cleveland Browns,38,20
-6,Sun,1995-10-08,4:00PM,New York Giants,Arizona Cardinals,27,21
-6,Sun,1995-10-08,4:00PM,Oakland Raiders,Seattle Seahawks,34,14
-6,Sun,1995-10-08,8:00PM,Denver Broncos,New England Patriots,37,3
-6,Mon,1995-10-09,9:00PM,Kansas City Chiefs,San Diego Chargers,29,23
-7,Thu,1995-10-12,8:00PM,St. Louis Rams,Atlanta Falcons,21,19
-7,Sun,1995-10-15,1:00PM,Buffalo Bills,Seattle Seahawks,27,21
-7,Sun,1995-10-15,1:00PM,Chicago Bears,Jacksonville Jaguars,30,27
-7,Sun,1995-10-15,1:00PM,Indianapolis Colts,San Francisco 49ers,18,17
-7,Sun,1995-10-15,1:00PM,Green Bay Packers,Detroit Lions,30,21
-7,Sun,1995-10-15,1:00PM,Tampa Bay Buccaneers,Minnesota Vikings,20,17
-7,Sun,1995-10-15,1:00PM,Kansas City Chiefs,New England Patriots,31,26
-7,Sun,1995-10-15,1:00PM,Philadelphia Eagles,New York Giants,17,14
-7,Sun,1995-10-15,4:00PM,Carolina Panthers,New York Jets,26,15
-7,Sun,1995-10-15,4:00PM,New Orleans Saints,Miami Dolphins,33,30
-7,Sun,1995-10-15,4:00PM,Arizona Cardinals,Washington Redskins,24,20
-7,Sun,1995-10-15,4:00PM,Dallas Cowboys,San Diego Chargers,23,9
-7,Mon,1995-10-16,9:00PM,Denver Broncos,Oakland Raiders,27,0
-8,Thu,1995-10-19,8:00PM,Cincinnati Bengals,Pittsburgh Steelers,27,9
-8,Sun,1995-10-22,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,24,21
-8,Sun,1995-10-22,1:00PM,Carolina Panthers,New Orleans Saints,20,3
-8,Sun,1995-10-22,1:00PM,Chicago Bears,Houston Oilers,35,32
-8,Sun,1995-10-22,1:00PM,Jacksonville Jaguars,Cleveland Browns,23,15
-8,Sun,1995-10-22,1:00PM,Washington Redskins,Detroit Lions,36,30
-8,Sun,1995-10-22,1:00PM,Green Bay Packers,Minnesota Vikings,38,21
-8,Sun,1995-10-22,1:00PM,New York Jets,Miami Dolphins,17,16
-8,Sun,1995-10-22,4:00PM,Oakland Raiders,Indianapolis Colts,30,17
-8,Sun,1995-10-22,4:00PM,San Francisco 49ers,St. Louis Rams,44,10
-8,Sun,1995-10-22,4:00PM,Kansas City Chiefs,Denver Broncos,21,7
-8,Sun,1995-10-22,4:00PM,San Diego Chargers,Seattle Seahawks,35,25
-8,Mon,1995-10-23,9:00PM,New England Patriots,Buffalo Bills,27,14
-9,Sun,1995-10-29,1:00PM,Dallas Cowboys,Atlanta Falcons,28,13
-9,Sun,1995-10-29,1:00PM,Carolina Panthers,New England Patriots,20,17
-9,Sun,1995-10-29,1:00PM,Cleveland Browns,Cincinnati Bengals,29,26
-9,Sun,1995-10-29,1:00PM,Indianapolis Colts,New York Jets,17,10
-9,Sun,1995-10-29,1:00PM,Detroit Lions,Green Bay Packers,24,16
-9,Sun,1995-10-29,1:00PM,Philadelphia Eagles,St. Louis Rams,20,9
-9,Sun,1995-10-29,1:00PM,Pittsburgh Steelers,Jacksonville Jaguars,24,7
-9,Sun,1995-10-29,4:00PM,Miami Dolphins,Buffalo Bills,23,6
-9,Sun,1995-10-29,4:00PM,Arizona Cardinals,Seattle Seahawks,20,14
-9,Sun,1995-10-29,4:00PM,New Orleans Saints,San Francisco 49ers,11,7
-9,Sun,1995-10-29,4:00PM,Houston Oilers,Tampa Bay Buccaneers,19,7
-9,Sun,1995-10-29,8:00PM,New York Giants,Washington Redskins,24,15
-9,Mon,1995-10-30,9:00PM,Chicago Bears,Minnesota Vikings,14,6
-10,Sun,1995-11-05,1:00PM,Atlanta Falcons,Detroit Lions,34,22
-10,Sun,1995-11-05,1:00PM,Buffalo Bills,Indianapolis Colts,16,10
-10,Sun,1995-11-05,1:00PM,Houston Oilers,Cleveland Browns,37,10
-10,Sun,1995-11-05,1:00PM,Minnesota Vikings,Green Bay Packers,27,24
-10,Sun,1995-11-05,1:00PM,Kansas City Chiefs,Washington Redskins,24,3
-10,Sun,1995-11-05,1:00PM,New Orleans Saints,St. Louis Rams,19,10
-10,Sun,1995-11-05,1:00PM,New England Patriots,New York Jets,20,7
-10,Sun,1995-11-05,4:00PM,Carolina Panthers,San Francisco 49ers,13,7
-10,Sun,1995-11-05,4:00PM,Pittsburgh Steelers,Chicago Bears,37,34
-10,Sun,1995-11-05,4:00PM,Oakland Raiders,Cincinnati Bengals,20,17
-10,Sun,1995-11-05,4:00PM,Denver Broncos,Arizona Cardinals,38,6
-10,Sun,1995-11-05,4:00PM,Seattle Seahawks,New York Giants,30,28
-10,Sun,1995-11-05,8:00PM,Miami Dolphins,San Diego Chargers,24,14
-10,Mon,1995-11-06,9:00PM,Dallas Cowboys,Philadelphia Eagles,34,12
-11,Sun,1995-11-12,1:00PM,Buffalo Bills,Atlanta Falcons,23,17
-11,Sun,1995-11-12,1:00PM,St. Louis Rams,Carolina Panthers,28,17
-11,Sun,1995-11-12,1:00PM,Green Bay Packers,Chicago Bears,35,28
-11,Sun,1995-11-12,1:00PM,Cincinnati Bengals,Houston Oilers,32,25
-11,Sun,1995-11-12,1:00PM,New Orleans Saints,Indianapolis Colts,17,14
-11,Sun,1995-11-12,1:00PM,Detroit Lions,Tampa Bay Buccaneers,27,24
-11,Sun,1995-11-12,1:00PM,Seattle Seahawks,Jacksonville Jaguars,47,30
-11,Sun,1995-11-12,1:00PM,New England Patriots,Miami Dolphins,34,17
-11,Sun,1995-11-12,1:00PM,Oakland Raiders,New York Giants,17,13
-11,Sun,1995-11-12,4:00PM,Minnesota Vikings,Arizona Cardinals,30,24
-11,Sun,1995-11-12,4:00PM,San Francisco 49ers,Dallas Cowboys,38,20
-11,Sun,1995-11-12,4:00PM,Kansas City Chiefs,San Diego Chargers,22,7
-11,Sun,1995-11-12,8:00PM,Philadelphia Eagles,Denver Broncos,31,13
-11,Mon,1995-11-13,9:00PM,Pittsburgh Steelers,Cleveland Browns,20,3
-12,Sun,1995-11-19,1:00PM,Atlanta Falcons,St. Louis Rams,31,6
-12,Sun,1995-11-19,1:00PM,Carolina Panthers,Arizona Cardinals,27,7
-12,Sun,1995-11-19,1:00PM,Detroit Lions,Chicago Bears,24,17
-12,Sun,1995-11-19,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,49,31
-12,Sun,1995-11-19,1:00PM,Green Bay Packers,Cleveland Browns,31,20
-12,Sun,1995-11-19,1:00PM,Indianapolis Colts,New England Patriots,24,10
-12,Sun,1995-11-19,1:00PM,Tampa Bay Buccaneers,Jacksonville Jaguars,17,16
-12,Sun,1995-11-19,1:00PM,Philadelphia Eagles,New York Giants,28,19
-12,Sun,1995-11-19,1:00PM,Seattle Seahawks,Washington Redskins,27,20
-12,Sun,1995-11-19,4:00PM,Buffalo Bills,New York Jets,28,26
-12,Sun,1995-11-19,4:00PM,Dallas Cowboys,Oakland Raiders,34,21
-12,Sun,1995-11-19,4:00PM,Denver Broncos,San Diego Chargers,30,27
-12,Sun,1995-11-19,4:00PM,Minnesota Vikings,New Orleans Saints,43,24
-12,Sun,1995-11-19,8:00PM,Kansas City Chiefs,Houston Oilers,20,13
-12,Mon,1995-11-20,9:00PM,San Francisco 49ers,Miami Dolphins,44,20
-13,Thu,1995-11-23,12:30PM,Detroit Lions,Minnesota Vikings,44,38
-13,Thu,1995-11-23,4:00PM,Dallas Cowboys,Kansas City Chiefs,24,12
-13,Sun,1995-11-26,1:00PM,New England Patriots,Buffalo Bills,35,25
-13,Sun,1995-11-26,1:00PM,Chicago Bears,New York Giants,27,24
-13,Sun,1995-11-26,1:00PM,Cincinnati Bengals,Jacksonville Jaguars,17,13
-13,Sun,1995-11-26,1:00PM,Indianapolis Colts,Miami Dolphins,36,28
-13,Sun,1995-11-26,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,35,13
-13,Sun,1995-11-26,1:00PM,Philadelphia Eagles,Washington Redskins,14,7
-13,Sun,1995-11-26,4:00PM,Arizona Cardinals,Atlanta Falcons,40,37
-13,Sun,1995-11-26,4:00PM,Pittsburgh Steelers,Cleveland Browns,20,17
-13,Sun,1995-11-26,4:00PM,Houston Oilers,Denver Broncos,42,33
-13,Sun,1995-11-26,4:00PM,New York Jets,Seattle Seahawks,16,10
-13,Sun,1995-11-26,4:00PM,San Francisco 49ers,St. Louis Rams,41,13
-13,Sun,1995-11-26,8:00PM,New Orleans Saints,Carolina Panthers,34,26
-13,Mon,1995-11-27,9:00PM,San Diego Chargers,Oakland Raiders,12,6
-14,Thu,1995-11-30,8:00PM,New York Giants,Arizona Cardinals,10,6
-14,Sun,1995-12-03,1:00PM,Miami Dolphins,Atlanta Falcons,21,20
-14,Sun,1995-12-03,1:00PM,Carolina Panthers,Indianapolis Colts,13,10
-14,Sun,1995-12-03,1:00PM,Green Bay Packers,Cincinnati Bengals,24,10
-14,Sun,1995-12-03,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,31,17
-14,Sun,1995-12-03,1:00PM,New Orleans Saints,New England Patriots,31,17
-14,Sun,1995-12-03,1:00PM,St. Louis Rams,New York Jets,23,20
-14,Sun,1995-12-03,1:00PM,Pittsburgh Steelers,Houston Oilers,21,7
-14,Sun,1995-12-03,4:00PM,San Diego Chargers,Cleveland Browns,31,13
-14,Sun,1995-12-03,4:00PM,Washington Redskins,Dallas Cowboys,24,17
-14,Sun,1995-12-03,4:00PM,Denver Broncos,Jacksonville Jaguars,31,23
-14,Sun,1995-12-03,4:00PM,Kansas City Chiefs,Oakland Raiders,29,23
-14,Sun,1995-12-03,4:00PM,Seattle Seahawks,Philadelphia Eagles,26,14
-14,Sun,1995-12-03,8:00PM,San Francisco 49ers,Buffalo Bills,27,17
-14,Mon,1995-12-04,9:00PM,Detroit Lions,Chicago Bears,27,7
-15,Sat,1995-12-09,12:30PM,Minnesota Vikings,Cleveland Browns,27,11
-15,Sat,1995-12-09,4:00PM,San Diego Chargers,Arizona Cardinals,28,25
-15,Sun,1995-12-10,1:00PM,Atlanta Falcons,New Orleans Saints,19,14
-15,Sun,1995-12-10,1:00PM,Buffalo Bills,St. Louis Rams,45,27
-15,Sun,1995-12-10,1:00PM,San Francisco 49ers,Carolina Panthers,31,10
-15,Sun,1995-12-10,1:00PM,Cincinnati Bengals,Chicago Bears,16,10
-15,Sun,1995-12-10,1:00PM,Indianapolis Colts,Jacksonville Jaguars,41,31
-15,Sun,1995-12-10,1:00PM,Philadelphia Eagles,Dallas Cowboys,20,17
-15,Sun,1995-12-10,1:00PM,Detroit Lions,Houston Oilers,24,17
-15,Sun,1995-12-10,1:00PM,New England Patriots,New York Jets,31,28
-15,Sun,1995-12-10,4:00PM,Seattle Seahawks,Denver Broncos,31,27
-15,Sun,1995-12-10,4:00PM,New York Giants,Washington Redskins,20,13
-15,Sun,1995-12-10,4:00PM,Pittsburgh Steelers,Oakland Raiders,29,10
-15,Sun,1995-12-10,8:00PM,Tampa Bay Buccaneers,Green Bay Packers,13,10
-15,Mon,1995-12-11,9:00PM,Miami Dolphins,Kansas City Chiefs,13,6
-16,Sat,1995-12-16,12:30PM,Pittsburgh Steelers,New England Patriots,41,27
-16,Sat,1995-12-16,4:00PM,Green Bay Packers,New Orleans Saints,34,23
-16,Sun,1995-12-17,1:00PM,Carolina Panthers,Atlanta Falcons,21,17
-16,Sun,1995-12-17,1:00PM,Buffalo Bills,Miami Dolphins,23,20
-16,Sun,1995-12-17,1:00PM,Chicago Bears,Tampa Bay Buccaneers,31,10
-16,Sun,1995-12-17,1:00PM,Cleveland Browns,Cincinnati Bengals,26,10
-16,Sun,1995-12-17,1:00PM,Philadelphia Eagles,Arizona Cardinals,21,20
-16,Sun,1995-12-17,1:00PM,Detroit Lions,Jacksonville Jaguars,44,0
-16,Sun,1995-12-17,1:00PM,Houston Oilers,New York Jets,23,6
-16,Sun,1995-12-17,1:00PM,Washington Redskins,St. Louis Rams,35,23
-16,Sun,1995-12-17,4:00PM,San Diego Chargers,Indianapolis Colts,27,24
-16,Sun,1995-12-17,4:00PM,Dallas Cowboys,New York Giants,21,20
-16,Sun,1995-12-17,4:00PM,Kansas City Chiefs,Denver Broncos,20,17
-16,Sun,1995-12-17,8:00PM,Seattle Seahawks,Oakland Raiders,44,10
-16,Mon,1995-12-18,9:00PM,San Francisco 49ers,Minnesota Vikings,37,30
-17,Sat,1995-12-23,12:30PM,San Diego Chargers,New York Giants,27,17
-17,Sat,1995-12-23,4:00PM,Detroit Lions,Tampa Bay Buccaneers,37,10
-17,Sat,1995-12-23,8:00PM,Indianapolis Colts,New England Patriots,10,7
-17,Sun,1995-12-24,1:00PM,Atlanta Falcons,San Francisco 49ers,28,27
-17,Sun,1995-12-24,1:00PM,Houston Oilers,Buffalo Bills,28,17
-17,Sun,1995-12-24,1:00PM,Chicago Bears,Philadelphia Eagles,20,14
-17,Sun,1995-12-24,1:00PM,Cincinnati Bengals,Minnesota Vikings,27,24
-17,Sun,1995-12-24,1:00PM,Jacksonville Jaguars,Cleveland Browns,24,21
-17,Sun,1995-12-24,1:00PM,Green Bay Packers,Pittsburgh Steelers,24,19
-17,Sun,1995-12-24,1:00PM,Kansas City Chiefs,Seattle Seahawks,26,3
-17,Sun,1995-12-24,1:00PM,New Orleans Saints,New York Jets,12,0
-17,Sun,1995-12-24,4:00PM,Washington Redskins,Carolina Panthers,20,17
-17,Sun,1995-12-24,4:00PM,Denver Broncos,Oakland Raiders,31,28
-17,Sun,1995-12-24,4:00PM,Miami Dolphins,St. Louis Rams,41,22
-17,Mon,1995-12-25,9:00PM,Dallas Cowboys,Arizona Cardinals,37,13
-WildCard,Sat,1995-12-30,12:30PM,Buffalo Bills,Miami Dolphins,37,22
-WildCard,Sat,1995-12-30,4:00PM,Philadelphia Eagles,Detroit Lions,58,37
-WildCard,Sun,1995-12-31,12:30PM,Green Bay Packers,Atlanta Falcons,37,20
-WildCard,Sun,1995-12-31,4:00PM,Indianapolis Colts,San Diego Chargers,35,20
-Division,Sat,1996-01-06,12:30PM,Pittsburgh Steelers,Buffalo Bills,40,21
-Division,Sat,1996-01-06,4:00PM,Green Bay Packers,San Francisco 49ers,27,17
-Division,Sun,1996-01-07,12:30PM,Dallas Cowboys,Philadelphia Eagles,30,11
-Division,Sun,1996-01-07,4:00PM,Indianapolis Colts,Kansas City Chiefs,10,7
-ConfChamp,Sun,1996-01-14,12:30PM,Pittsburgh Steelers,Indianapolis Colts,20,16
-ConfChamp,Sun,1996-01-14,4:00PM,Dallas Cowboys,Green Bay Packers,38,27
-SuperBowl,Sun,1996-01-28,6:33PM,Dallas Cowboys,Pittsburgh Steelers,27,17
+,Week,Day,Date,Time,Winner,Loser,PtsW,PtsL
+0,1,Sun,1995-09-03,1:00PM,Atlanta Falcons,Carolina Panthers,23,20
+1,1,Sun,1995-09-03,1:00PM,Cincinnati Bengals,Indianapolis Colts,24,21
+2,1,Sun,1995-09-03,1:00PM,New England Patriots,Cleveland Browns,17,14
+3,1,Sun,1995-09-03,1:00PM,Pittsburgh Steelers,Detroit Lions,23,20
+4,1,Sun,1995-09-03,1:00PM,St. Louis Rams,Green Bay Packers,17,14
+5,1,Sun,1995-09-03,1:00PM,Houston Oilers,Jacksonville Jaguars,10,3
+6,1,Sun,1995-09-03,1:00PM,San Francisco 49ers,New Orleans Saints,24,22
+7,1,Sun,1995-09-03,1:00PM,Tampa Bay Buccaneers,Philadelphia Eagles,21,6
+8,1,Sun,1995-09-03,4:00PM,Chicago Bears,Minnesota Vikings,31,14
+9,1,Sun,1995-09-03,4:00PM,Washington Redskins,Arizona Cardinals,27,7
+10,1,Sun,1995-09-03,4:00PM,Kansas City Chiefs,Seattle Seahawks,34,10
+11,1,Sun,1995-09-03,4:00PM,Miami Dolphins,New York Jets,52,14
+12,1,Sun,1995-09-03,4:00PM,Oakland Raiders,San Diego Chargers,17,7
+13,1,Sun,1995-09-03,8:00PM,Denver Broncos,Buffalo Bills,22,7
+14,1,Mon,1995-09-04,9:00PM,Dallas Cowboys,New York Giants,35,0
+15,2,Sun,1995-09-10,1:00PM,Buffalo Bills,Carolina Panthers,31,9
+16,2,Sun,1995-09-10,1:00PM,Cleveland Browns,Tampa Bay Buccaneers,22,6
+17,2,Sun,1995-09-10,1:00PM,Minnesota Vikings,Detroit Lions,20,10
+18,2,Sun,1995-09-10,1:00PM,Kansas City Chiefs,New York Giants,20,17
+19,2,Sun,1995-09-10,1:00PM,Miami Dolphins,New England Patriots,20,3
+20,2,Sun,1995-09-10,1:00PM,St. Louis Rams,New Orleans Saints,17,13
+21,2,Sun,1995-09-10,1:00PM,Pittsburgh Steelers,Houston Oilers,34,17
+22,2,Sun,1995-09-10,1:00PM,Oakland Raiders,Washington Redskins,20,8
+23,2,Sun,1995-09-10,4:00PM,San Francisco 49ers,Atlanta Falcons,41,10
+24,2,Sun,1995-09-10,4:00PM,Cincinnati Bengals,Jacksonville Jaguars,24,17
+25,2,Sun,1995-09-10,4:00PM,Indianapolis Colts,New York Jets,27,24
+26,2,Sun,1995-09-10,4:00PM,Dallas Cowboys,Denver Broncos,31,21
+27,2,Sun,1995-09-10,4:00PM,San Diego Chargers,Seattle Seahawks,14,10
+28,2,Sun,1995-09-10,8:00PM,Philadelphia Eagles,Arizona Cardinals,31,19
+29,2,Mon,1995-09-11,9:00PM,Green Bay Packers,Chicago Bears,27,24
+30,3,Sun,1995-09-17,1:00PM,Atlanta Falcons,New Orleans Saints,27,24
+31,3,Sun,1995-09-17,1:00PM,Buffalo Bills,Indianapolis Colts,20,14
+32,3,Sun,1995-09-17,1:00PM,St. Louis Rams,Carolina Panthers,31,10
+33,3,Sun,1995-09-17,1:00PM,Cleveland Browns,Houston Oilers,14,7
+34,3,Sun,1995-09-17,1:00PM,Arizona Cardinals,Detroit Lions,20,17
+35,3,Sun,1995-09-17,1:00PM,Green Bay Packers,New York Giants,14,6
+36,3,Sun,1995-09-17,1:00PM,Kansas City Chiefs,Oakland Raiders,23,17
+37,3,Sun,1995-09-17,1:00PM,San Diego Chargers,Philadelphia Eagles,27,21
+38,3,Sun,1995-09-17,4:00PM,Chicago Bears,Tampa Bay Buccaneers,25,6
+39,3,Sun,1995-09-17,4:00PM,Seattle Seahawks,Cincinnati Bengals,24,21
+40,3,Sun,1995-09-17,4:00PM,Denver Broncos,Washington Redskins,38,31
+41,3,Sun,1995-09-17,4:00PM,New York Jets,Jacksonville Jaguars,27,10
+42,3,Sun,1995-09-17,4:00PM,San Francisco 49ers,New England Patriots,28,3
+43,3,Sun,1995-09-17,8:00PM,Dallas Cowboys,Minnesota Vikings,23,17
+44,3,Mon,1995-09-18,9:00PM,Miami Dolphins,Pittsburgh Steelers,23,10
+45,4,Sun,1995-09-24,1:00PM,St. Louis Rams,Chicago Bears,34,28
+46,4,Sun,1995-09-24,1:00PM,Minnesota Vikings,Pittsburgh Steelers,44,24
+47,4,Sun,1995-09-24,1:00PM,New York Giants,New Orleans Saints,45,29
+48,4,Sun,1995-09-24,1:00PM,Tampa Bay Buccaneers,Washington Redskins,14,6
+49,4,Sun,1995-09-24,4:00PM,Atlanta Falcons,New York Jets,13,3
+50,4,Sun,1995-09-24,4:00PM,Houston Oilers,Cincinnati Bengals,38,28
+51,4,Sun,1995-09-24,4:00PM,Cleveland Browns,Kansas City Chiefs,35,17
+52,4,Sun,1995-09-24,4:00PM,Dallas Cowboys,Arizona Cardinals,34,20
+53,4,Sun,1995-09-24,4:00PM,San Diego Chargers,Denver Broncos,17,6
+54,4,Sun,1995-09-24,4:00PM,Oakland Raiders,Philadelphia Eagles,48,17
+55,4,Sun,1995-09-24,8:00PM,Green Bay Packers,Jacksonville Jaguars,24,14
+56,4,Mon,1995-09-25,9:00PM,Detroit Lions,San Francisco 49ers,27,24
+57,5,Sun,1995-10-01,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,20,13
+58,5,Sun,1995-10-01,1:00PM,Indianapolis Colts,St. Louis Rams,21,18
+59,5,Sun,1995-10-01,1:00PM,Atlanta Falcons,New England Patriots,30,17
+60,5,Sun,1995-10-01,1:00PM,Miami Dolphins,Cincinnati Bengals,26,23
+61,5,Sun,1995-10-01,1:00PM,Washington Redskins,Dallas Cowboys,27,23
+62,5,Sun,1995-10-01,1:00PM,Philadelphia Eagles,New Orleans Saints,15,10
+63,5,Sun,1995-10-01,4:00PM,Kansas City Chiefs,Arizona Cardinals,24,3
+64,5,Sun,1995-10-01,4:00PM,Seattle Seahawks,Denver Broncos,27,10
+65,5,Sun,1995-10-01,4:00PM,Jacksonville Jaguars,Houston Oilers,17,16
+66,5,Sun,1995-10-01,4:00PM,San Francisco 49ers,New York Giants,20,6
+67,5,Sun,1995-10-01,4:00PM,Pittsburgh Steelers,San Diego Chargers,31,16
+68,5,Sun,1995-10-01,8:00PM,Oakland Raiders,New York Jets,47,10
+69,5,Mon,1995-10-02,9:00PM,Buffalo Bills,Cleveland Browns,22,19
+70,6,Sun,1995-10-08,1:00PM,Buffalo Bills,New York Jets,29,10
+71,6,Sun,1995-10-08,1:00PM,Chicago Bears,Carolina Panthers,31,27
+72,6,Sun,1995-10-08,1:00PM,Minnesota Vikings,Houston Oilers,23,17
+73,6,Sun,1995-10-08,1:00PM,Tampa Bay Buccaneers,Cincinnati Bengals,19,16
+74,6,Sun,1995-10-08,1:00PM,Dallas Cowboys,Green Bay Packers,34,24
+75,6,Sun,1995-10-08,1:00PM,Jacksonville Jaguars,Pittsburgh Steelers,20,16
+76,6,Sun,1995-10-08,1:00PM,Philadelphia Eagles,Washington Redskins,37,34
+77,6,Sun,1995-10-08,4:00PM,Indianapolis Colts,Miami Dolphins,27,24
+78,6,Sun,1995-10-08,4:00PM,Detroit Lions,Cleveland Browns,38,20
+79,6,Sun,1995-10-08,4:00PM,New York Giants,Arizona Cardinals,27,21
+80,6,Sun,1995-10-08,4:00PM,Oakland Raiders,Seattle Seahawks,34,14
+81,6,Sun,1995-10-08,8:00PM,Denver Broncos,New England Patriots,37,3
+82,6,Mon,1995-10-09,9:00PM,Kansas City Chiefs,San Diego Chargers,29,23
+83,7,Thu,1995-10-12,8:00PM,St. Louis Rams,Atlanta Falcons,21,19
+84,7,Sun,1995-10-15,1:00PM,Buffalo Bills,Seattle Seahawks,27,21
+85,7,Sun,1995-10-15,1:00PM,Chicago Bears,Jacksonville Jaguars,30,27
+86,7,Sun,1995-10-15,1:00PM,Indianapolis Colts,San Francisco 49ers,18,17
+87,7,Sun,1995-10-15,1:00PM,Green Bay Packers,Detroit Lions,30,21
+88,7,Sun,1995-10-15,1:00PM,Tampa Bay Buccaneers,Minnesota Vikings,20,17
+89,7,Sun,1995-10-15,1:00PM,Kansas City Chiefs,New England Patriots,31,26
+90,7,Sun,1995-10-15,1:00PM,Philadelphia Eagles,New York Giants,17,14
+91,7,Sun,1995-10-15,4:00PM,Carolina Panthers,New York Jets,26,15
+92,7,Sun,1995-10-15,4:00PM,New Orleans Saints,Miami Dolphins,33,30
+93,7,Sun,1995-10-15,4:00PM,Arizona Cardinals,Washington Redskins,24,20
+94,7,Sun,1995-10-15,4:00PM,Dallas Cowboys,San Diego Chargers,23,9
+95,7,Mon,1995-10-16,9:00PM,Denver Broncos,Oakland Raiders,27,0
+96,8,Thu,1995-10-19,8:00PM,Cincinnati Bengals,Pittsburgh Steelers,27,9
+97,8,Sun,1995-10-22,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,24,21
+98,8,Sun,1995-10-22,1:00PM,Carolina Panthers,New Orleans Saints,20,3
+99,8,Sun,1995-10-22,1:00PM,Chicago Bears,Houston Oilers,35,32
+100,8,Sun,1995-10-22,1:00PM,Jacksonville Jaguars,Cleveland Browns,23,15
+101,8,Sun,1995-10-22,1:00PM,Washington Redskins,Detroit Lions,36,30
+102,8,Sun,1995-10-22,1:00PM,Green Bay Packers,Minnesota Vikings,38,21
+103,8,Sun,1995-10-22,1:00PM,New York Jets,Miami Dolphins,17,16
+104,8,Sun,1995-10-22,4:00PM,Oakland Raiders,Indianapolis Colts,30,17
+105,8,Sun,1995-10-22,4:00PM,San Francisco 49ers,St. Louis Rams,44,10
+106,8,Sun,1995-10-22,4:00PM,Kansas City Chiefs,Denver Broncos,21,7
+107,8,Sun,1995-10-22,4:00PM,San Diego Chargers,Seattle Seahawks,35,25
+108,8,Mon,1995-10-23,9:00PM,New England Patriots,Buffalo Bills,27,14
+109,9,Sun,1995-10-29,1:00PM,Dallas Cowboys,Atlanta Falcons,28,13
+110,9,Sun,1995-10-29,1:00PM,Carolina Panthers,New England Patriots,20,17
+111,9,Sun,1995-10-29,1:00PM,Cleveland Browns,Cincinnati Bengals,29,26
+112,9,Sun,1995-10-29,1:00PM,Indianapolis Colts,New York Jets,17,10
+113,9,Sun,1995-10-29,1:00PM,Detroit Lions,Green Bay Packers,24,16
+114,9,Sun,1995-10-29,1:00PM,Philadelphia Eagles,St. Louis Rams,20,9
+115,9,Sun,1995-10-29,1:00PM,Pittsburgh Steelers,Jacksonville Jaguars,24,7
+116,9,Sun,1995-10-29,4:00PM,Miami Dolphins,Buffalo Bills,23,6
+117,9,Sun,1995-10-29,4:00PM,Arizona Cardinals,Seattle Seahawks,20,14
+118,9,Sun,1995-10-29,4:00PM,New Orleans Saints,San Francisco 49ers,11,7
+119,9,Sun,1995-10-29,4:00PM,Houston Oilers,Tampa Bay Buccaneers,19,7
+120,9,Sun,1995-10-29,8:00PM,New York Giants,Washington Redskins,24,15
+121,9,Mon,1995-10-30,9:00PM,Chicago Bears,Minnesota Vikings,14,6
+122,10,Sun,1995-11-05,1:00PM,Atlanta Falcons,Detroit Lions,34,22
+123,10,Sun,1995-11-05,1:00PM,Buffalo Bills,Indianapolis Colts,16,10
+124,10,Sun,1995-11-05,1:00PM,Houston Oilers,Cleveland Browns,37,10
+125,10,Sun,1995-11-05,1:00PM,Minnesota Vikings,Green Bay Packers,27,24
+126,10,Sun,1995-11-05,1:00PM,Kansas City Chiefs,Washington Redskins,24,3
+127,10,Sun,1995-11-05,1:00PM,New Orleans Saints,St. Louis Rams,19,10
+128,10,Sun,1995-11-05,1:00PM,New England Patriots,New York Jets,20,7
+129,10,Sun,1995-11-05,4:00PM,Carolina Panthers,San Francisco 49ers,13,7
+130,10,Sun,1995-11-05,4:00PM,Pittsburgh Steelers,Chicago Bears,37,34
+131,10,Sun,1995-11-05,4:00PM,Oakland Raiders,Cincinnati Bengals,20,17
+132,10,Sun,1995-11-05,4:00PM,Denver Broncos,Arizona Cardinals,38,6
+133,10,Sun,1995-11-05,4:00PM,Seattle Seahawks,New York Giants,30,28
+134,10,Sun,1995-11-05,8:00PM,Miami Dolphins,San Diego Chargers,24,14
+135,10,Mon,1995-11-06,9:00PM,Dallas Cowboys,Philadelphia Eagles,34,12
+136,11,Sun,1995-11-12,1:00PM,Buffalo Bills,Atlanta Falcons,23,17
+137,11,Sun,1995-11-12,1:00PM,St. Louis Rams,Carolina Panthers,28,17
+138,11,Sun,1995-11-12,1:00PM,Green Bay Packers,Chicago Bears,35,28
+139,11,Sun,1995-11-12,1:00PM,Cincinnati Bengals,Houston Oilers,32,25
+140,11,Sun,1995-11-12,1:00PM,New Orleans Saints,Indianapolis Colts,17,14
+141,11,Sun,1995-11-12,1:00PM,Detroit Lions,Tampa Bay Buccaneers,27,24
+142,11,Sun,1995-11-12,1:00PM,Seattle Seahawks,Jacksonville Jaguars,47,30
+143,11,Sun,1995-11-12,1:00PM,New England Patriots,Miami Dolphins,34,17
+144,11,Sun,1995-11-12,1:00PM,Oakland Raiders,New York Giants,17,13
+145,11,Sun,1995-11-12,4:00PM,Minnesota Vikings,Arizona Cardinals,30,24
+146,11,Sun,1995-11-12,4:00PM,San Francisco 49ers,Dallas Cowboys,38,20
+147,11,Sun,1995-11-12,4:00PM,Kansas City Chiefs,San Diego Chargers,22,7
+148,11,Sun,1995-11-12,8:00PM,Philadelphia Eagles,Denver Broncos,31,13
+149,11,Mon,1995-11-13,9:00PM,Pittsburgh Steelers,Cleveland Browns,20,3
+150,12,Sun,1995-11-19,1:00PM,Atlanta Falcons,St. Louis Rams,31,6
+151,12,Sun,1995-11-19,1:00PM,Carolina Panthers,Arizona Cardinals,27,7
+152,12,Sun,1995-11-19,1:00PM,Detroit Lions,Chicago Bears,24,17
+153,12,Sun,1995-11-19,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,49,31
+154,12,Sun,1995-11-19,1:00PM,Green Bay Packers,Cleveland Browns,31,20
+155,12,Sun,1995-11-19,1:00PM,Indianapolis Colts,New England Patriots,24,10
+156,12,Sun,1995-11-19,1:00PM,Tampa Bay Buccaneers,Jacksonville Jaguars,17,16
+157,12,Sun,1995-11-19,1:00PM,Philadelphia Eagles,New York Giants,28,19
+158,12,Sun,1995-11-19,1:00PM,Seattle Seahawks,Washington Redskins,27,20
+159,12,Sun,1995-11-19,4:00PM,Buffalo Bills,New York Jets,28,26
+160,12,Sun,1995-11-19,4:00PM,Dallas Cowboys,Oakland Raiders,34,21
+161,12,Sun,1995-11-19,4:00PM,Denver Broncos,San Diego Chargers,30,27
+162,12,Sun,1995-11-19,4:00PM,Minnesota Vikings,New Orleans Saints,43,24
+163,12,Sun,1995-11-19,8:00PM,Kansas City Chiefs,Houston Oilers,20,13
+164,12,Mon,1995-11-20,9:00PM,San Francisco 49ers,Miami Dolphins,44,20
+165,13,Thu,1995-11-23,12:30PM,Detroit Lions,Minnesota Vikings,44,38
+166,13,Thu,1995-11-23,4:00PM,Dallas Cowboys,Kansas City Chiefs,24,12
+167,13,Sun,1995-11-26,1:00PM,New England Patriots,Buffalo Bills,35,25
+168,13,Sun,1995-11-26,1:00PM,Chicago Bears,New York Giants,27,24
+169,13,Sun,1995-11-26,1:00PM,Cincinnati Bengals,Jacksonville Jaguars,17,13
+170,13,Sun,1995-11-26,1:00PM,Indianapolis Colts,Miami Dolphins,36,28
+171,13,Sun,1995-11-26,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,35,13
+172,13,Sun,1995-11-26,1:00PM,Philadelphia Eagles,Washington Redskins,14,7
+173,13,Sun,1995-11-26,4:00PM,Arizona Cardinals,Atlanta Falcons,40,37
+174,13,Sun,1995-11-26,4:00PM,Pittsburgh Steelers,Cleveland Browns,20,17
+175,13,Sun,1995-11-26,4:00PM,Houston Oilers,Denver Broncos,42,33
+176,13,Sun,1995-11-26,4:00PM,New York Jets,Seattle Seahawks,16,10
+177,13,Sun,1995-11-26,4:00PM,San Francisco 49ers,St. Louis Rams,41,13
+178,13,Sun,1995-11-26,8:00PM,New Orleans Saints,Carolina Panthers,34,26
+179,13,Mon,1995-11-27,9:00PM,San Diego Chargers,Oakland Raiders,12,6
+180,14,Thu,1995-11-30,8:00PM,New York Giants,Arizona Cardinals,10,6
+181,14,Sun,1995-12-03,1:00PM,Miami Dolphins,Atlanta Falcons,21,20
+182,14,Sun,1995-12-03,1:00PM,Carolina Panthers,Indianapolis Colts,13,10
+183,14,Sun,1995-12-03,1:00PM,Green Bay Packers,Cincinnati Bengals,24,10
+184,14,Sun,1995-12-03,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,31,17
+185,14,Sun,1995-12-03,1:00PM,New Orleans Saints,New England Patriots,31,17
+186,14,Sun,1995-12-03,1:00PM,St. Louis Rams,New York Jets,23,20
+187,14,Sun,1995-12-03,1:00PM,Pittsburgh Steelers,Houston Oilers,21,7
+188,14,Sun,1995-12-03,4:00PM,San Diego Chargers,Cleveland Browns,31,13
+189,14,Sun,1995-12-03,4:00PM,Washington Redskins,Dallas Cowboys,24,17
+190,14,Sun,1995-12-03,4:00PM,Denver Broncos,Jacksonville Jaguars,31,23
+191,14,Sun,1995-12-03,4:00PM,Kansas City Chiefs,Oakland Raiders,29,23
+192,14,Sun,1995-12-03,4:00PM,Seattle Seahawks,Philadelphia Eagles,26,14
+193,14,Sun,1995-12-03,8:00PM,San Francisco 49ers,Buffalo Bills,27,17
+194,14,Mon,1995-12-04,9:00PM,Detroit Lions,Chicago Bears,27,7
+195,15,Sat,1995-12-09,12:30PM,Minnesota Vikings,Cleveland Browns,27,11
+196,15,Sat,1995-12-09,4:00PM,San Diego Chargers,Arizona Cardinals,28,25
+197,15,Sun,1995-12-10,1:00PM,Atlanta Falcons,New Orleans Saints,19,14
+198,15,Sun,1995-12-10,1:00PM,Buffalo Bills,St. Louis Rams,45,27
+199,15,Sun,1995-12-10,1:00PM,San Francisco 49ers,Carolina Panthers,31,10
+200,15,Sun,1995-12-10,1:00PM,Cincinnati Bengals,Chicago Bears,16,10
+201,15,Sun,1995-12-10,1:00PM,Indianapolis Colts,Jacksonville Jaguars,41,31
+202,15,Sun,1995-12-10,1:00PM,Philadelphia Eagles,Dallas Cowboys,20,17
+203,15,Sun,1995-12-10,1:00PM,Detroit Lions,Houston Oilers,24,17
+204,15,Sun,1995-12-10,1:00PM,New England Patriots,New York Jets,31,28
+205,15,Sun,1995-12-10,4:00PM,Seattle Seahawks,Denver Broncos,31,27
+206,15,Sun,1995-12-10,4:00PM,New York Giants,Washington Redskins,20,13
+207,15,Sun,1995-12-10,4:00PM,Pittsburgh Steelers,Oakland Raiders,29,10
+208,15,Sun,1995-12-10,8:00PM,Tampa Bay Buccaneers,Green Bay Packers,13,10
+209,15,Mon,1995-12-11,9:00PM,Miami Dolphins,Kansas City Chiefs,13,6
+210,16,Sat,1995-12-16,12:30PM,Pittsburgh Steelers,New England Patriots,41,27
+211,16,Sat,1995-12-16,4:00PM,Green Bay Packers,New Orleans Saints,34,23
+212,16,Sun,1995-12-17,1:00PM,Carolina Panthers,Atlanta Falcons,21,17
+213,16,Sun,1995-12-17,1:00PM,Buffalo Bills,Miami Dolphins,23,20
+214,16,Sun,1995-12-17,1:00PM,Chicago Bears,Tampa Bay Buccaneers,31,10
+215,16,Sun,1995-12-17,1:00PM,Cleveland Browns,Cincinnati Bengals,26,10
+216,16,Sun,1995-12-17,1:00PM,Philadelphia Eagles,Arizona Cardinals,21,20
+217,16,Sun,1995-12-17,1:00PM,Detroit Lions,Jacksonville Jaguars,44,0
+218,16,Sun,1995-12-17,1:00PM,Houston Oilers,New York Jets,23,6
+219,16,Sun,1995-12-17,1:00PM,Washington Redskins,St. Louis Rams,35,23
+220,16,Sun,1995-12-17,4:00PM,San Diego Chargers,Indianapolis Colts,27,24
+221,16,Sun,1995-12-17,4:00PM,Dallas Cowboys,New York Giants,21,20
+222,16,Sun,1995-12-17,4:00PM,Kansas City Chiefs,Denver Broncos,20,17
+223,16,Sun,1995-12-17,8:00PM,Seattle Seahawks,Oakland Raiders,44,10
+224,16,Mon,1995-12-18,9:00PM,San Francisco 49ers,Minnesota Vikings,37,30
+225,17,Sat,1995-12-23,12:30PM,San Diego Chargers,New York Giants,27,17
+226,17,Sat,1995-12-23,4:00PM,Detroit Lions,Tampa Bay Buccaneers,37,10
+227,17,Sat,1995-12-23,8:00PM,Indianapolis Colts,New England Patriots,10,7
+228,17,Sun,1995-12-24,1:00PM,Atlanta Falcons,San Francisco 49ers,28,27
+229,17,Sun,1995-12-24,1:00PM,Houston Oilers,Buffalo Bills,28,17
+230,17,Sun,1995-12-24,1:00PM,Chicago Bears,Philadelphia Eagles,20,14
+231,17,Sun,1995-12-24,1:00PM,Cincinnati Bengals,Minnesota Vikings,27,24
+232,17,Sun,1995-12-24,1:00PM,Jacksonville Jaguars,Cleveland Browns,24,21
+233,17,Sun,1995-12-24,1:00PM,Green Bay Packers,Pittsburgh Steelers,24,19
+234,17,Sun,1995-12-24,1:00PM,Kansas City Chiefs,Seattle Seahawks,26,3
+235,17,Sun,1995-12-24,1:00PM,New Orleans Saints,New York Jets,12,0
+236,17,Sun,1995-12-24,4:00PM,Washington Redskins,Carolina Panthers,20,17
+237,17,Sun,1995-12-24,4:00PM,Denver Broncos,Oakland Raiders,31,28
+238,17,Sun,1995-12-24,4:00PM,Miami Dolphins,St. Louis Rams,41,22
+239,17,Mon,1995-12-25,9:00PM,Dallas Cowboys,Arizona Cardinals,37,13
+240,WildCard,Sat,1995-12-30,12:30PM,Buffalo Bills,Miami Dolphins,37,22
+241,WildCard,Sat,1995-12-30,4:00PM,Philadelphia Eagles,Detroit Lions,58,37
+242,WildCard,Sun,1995-12-31,12:30PM,Green Bay Packers,Atlanta Falcons,37,20
+243,WildCard,Sun,1995-12-31,4:00PM,Indianapolis Colts,San Diego Chargers,35,20
+244,Division,Sat,1996-01-06,12:30PM,Pittsburgh Steelers,Buffalo Bills,40,21
+245,Division,Sat,1996-01-06,4:00PM,Green Bay Packers,San Francisco 49ers,27,17
+246,Division,Sun,1996-01-07,12:30PM,Dallas Cowboys,Philadelphia Eagles,30,11
+247,Division,Sun,1996-01-07,4:00PM,Indianapolis Colts,Kansas City Chiefs,10,7
+248,ConfChamp,Sun,1996-01-14,12:30PM,Pittsburgh Steelers,Indianapolis Colts,20,16
+249,ConfChamp,Sun,1996-01-14,4:00PM,Dallas Cowboys,Green Bay Packers,38,27
+250,SuperBowl,Sun,1996-01-28,6:33PM,Dallas Cowboys,Pittsburgh Steelers,27,17

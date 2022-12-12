@@ -15,7 +15,7 @@ import pandas as pd
 
 
 
-nfl_data = "C:/Users/frede/OneDrive/Dokumenter/Python Scripts/AmFoot/players_allInone.csv"
+nfl_data = "players_allInone.csv"
 
 
 df = pd.read_csv(nfl_data, index_col=0)

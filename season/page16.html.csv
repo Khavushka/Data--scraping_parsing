@@ -1,233 +1,234 @@
-1,Sun,1985-09-08,1:00PM,Detroit Lions,Atlanta Falcons,28,27
-1,Sun,1985-09-08,1:00PM,Chicago Bears,Tampa Bay Buccaneers,38,28
-1,Sun,1985-09-08,1:00PM,Seattle Seahawks,Cincinnati Bengals,28,24
-1,Sun,1985-09-08,1:00PM,St. Louis Cardinals,Cleveland Browns,27,24
-1,Sun,1985-09-08,1:00PM,Pittsburgh Steelers,Indianapolis Colts,45,3
-1,Sun,1985-09-08,1:00PM,New England Patriots,Green Bay Packers,26,20
-1,Sun,1985-09-08,1:00PM,Kansas City Chiefs,New Orleans Saints,47,27
-1,Sun,1985-09-08,1:00PM,Houston Oilers,Miami Dolphins,26,23
-1,Sun,1985-09-08,1:00PM,Minnesota Vikings,San Francisco 49ers,28,21
-1,Sun,1985-09-08,1:00PM,New York Giants,Philadelphia Eagles,21,0
-1,Sun,1985-09-08,4:00PM,San Diego Chargers,Buffalo Bills,14,9
-1,Sun,1985-09-08,4:00PM,Los Angeles Rams,Denver Broncos,20,16
-1,Sun,1985-09-08,4:00PM,Los Angeles Raiders,New York Jets,31,0
-1,Mon,1985-09-09,9:00PM,Dallas Cowboys,Washington Redskins,44,14
-2,Thu,1985-09-12,8:00PM,Kansas City Chiefs,Los Angeles Raiders,36,20
-2,Sun,1985-09-15,1:00PM,New York Jets,Buffalo Bills,42,3
-2,Sun,1985-09-15,1:00PM,Chicago Bears,New England Patriots,20,7
-2,Sun,1985-09-15,1:00PM,St. Louis Cardinals,Cincinnati Bengals,41,27
-2,Sun,1985-09-15,1:00PM,Miami Dolphins,Indianapolis Colts,30,13
-2,Sun,1985-09-15,1:00PM,Detroit Lions,Dallas Cowboys,26,21
-2,Sun,1985-09-15,1:00PM,Washington Redskins,Houston Oilers,16,13
-2,Sun,1985-09-15,1:00PM,Los Angeles Rams,Philadelphia Eagles,17,6
-2,Sun,1985-09-15,4:00PM,San Francisco 49ers,Atlanta Falcons,35,16
-2,Sun,1985-09-15,4:00PM,Denver Broncos,New Orleans Saints,34,23
-2,Sun,1985-09-15,4:00PM,Green Bay Packers,New York Giants,23,20
-2,Sun,1985-09-15,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,31,16
-2,Sun,1985-09-15,4:00PM,Seattle Seahawks,San Diego Chargers,49,35
-2,Mon,1985-09-16,9:00PM,Cleveland Browns,Pittsburgh Steelers,17,7
-3,Thu,1985-09-19,8:00PM,Chicago Bears,Minnesota Vikings,33,24
-3,Sun,1985-09-22,1:00PM,Denver Broncos,Atlanta Falcons,44,28
-3,Sun,1985-09-22,1:00PM,New England Patriots,Buffalo Bills,17,14
-3,Sun,1985-09-22,1:00PM,San Diego Chargers,Cincinnati Bengals,44,41
-3,Sun,1985-09-22,1:00PM,Dallas Cowboys,Cleveland Browns,20,7
-3,Sun,1985-09-22,1:00PM,Indianapolis Colts,Detroit Lions,14,6
-3,Sun,1985-09-22,1:00PM,New York Giants,St. Louis Cardinals,27,17
-3,Sun,1985-09-22,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,20,13
-3,Sun,1985-09-22,1:00PM,Pittsburgh Steelers,Houston Oilers,20,0
-3,Sun,1985-09-22,1:00PM,Philadelphia Eagles,Washington Redskins,19,6
-3,Sun,1985-09-22,4:00PM,New York Jets,Green Bay Packers,24,3
-3,Sun,1985-09-22,4:00PM,Miami Dolphins,Kansas City Chiefs,31,0
-3,Sun,1985-09-22,4:00PM,San Francisco 49ers,Los Angeles Raiders,34,10
-3,Mon,1985-09-23,9:00PM,Los Angeles Rams,Seattle Seahawks,35,24
-4,Sun,1985-09-29,1:00PM,Minnesota Vikings,Buffalo Bills,27,20
-4,Sun,1985-09-29,1:00PM,Chicago Bears,Washington Redskins,45,10
-4,Sun,1985-09-29,1:00PM,St. Louis Cardinals,Green Bay Packers,43,28
-4,Sun,1985-09-29,1:00PM,Dallas Cowboys,Houston Oilers,17,10
-4,Sun,1985-09-29,1:00PM,Detroit Lions,Tampa Bay Buccaneers,30,9
-4,Sun,1985-09-29,1:00PM,Kansas City Chiefs,Seattle Seahawks,28,7
-4,Sun,1985-09-29,1:00PM,Los Angeles Raiders,New England Patriots,35,20
-4,Sun,1985-09-29,1:00PM,New York Giants,Philadelphia Eagles,16,10
-4,Sun,1985-09-29,4:00PM,Los Angeles Rams,Atlanta Falcons,17,6
-4,Sun,1985-09-29,4:00PM,Cleveland Browns,San Diego Chargers,21,7
-4,Sun,1985-09-29,4:00PM,New York Jets,Indianapolis Colts,25,20
-4,Sun,1985-09-29,4:00PM,Miami Dolphins,Denver Broncos,30,26
-4,Sun,1985-09-29,4:00PM,New Orleans Saints,San Francisco 49ers,20,17
-4,Mon,1985-09-30,9:00PM,Cincinnati Bengals,Pittsburgh Steelers,37,24
-5,Sun,1985-10-06,1:00PM,San Francisco 49ers,Atlanta Falcons,38,17
-5,Sun,1985-10-06,1:00PM,Indianapolis Colts,Buffalo Bills,49,17
-5,Sun,1985-10-06,1:00PM,Chicago Bears,Tampa Bay Buccaneers,27,19
-5,Sun,1985-10-06,1:00PM,Cleveland Browns,New England Patriots,24,20
-5,Sun,1985-10-06,1:00PM,Green Bay Packers,Detroit Lions,43,10
-5,Sun,1985-10-06,1:00PM,Miami Dolphins,Pittsburgh Steelers,24,20
-5,Sun,1985-10-06,1:00PM,New Orleans Saints,Philadelphia Eagles,23,21
-5,Sun,1985-10-06,4:00PM,New York Jets,Cincinnati Bengals,29,20
-5,Sun,1985-10-06,4:00PM,Denver Broncos,Houston Oilers,31,20
-5,Sun,1985-10-06,4:00PM,Los Angeles Raiders,Kansas City Chiefs,19,10
-5,Sun,1985-10-06,4:00PM,Los Angeles Rams,Minnesota Vikings,13,10
-5,Sun,1985-10-06,4:00PM,Seattle Seahawks,San Diego Chargers,26,21
-5,Sun,1985-10-06,9:00PM,Dallas Cowboys,New York Giants,30,29
-5,Mon,1985-10-07,9:00PM,Washington Redskins,St. Louis Cardinals,27,10
-6,Sun,1985-10-13,1:00PM,New England Patriots,Buffalo Bills,14,3
-6,Sun,1985-10-13,1:00PM,Cincinnati Bengals,New York Giants,35,30
-6,Sun,1985-10-13,1:00PM,Cleveland Browns,Houston Oilers,21,6
-6,Sun,1985-10-13,1:00PM,Denver Broncos,Indianapolis Colts,15,10
-6,Sun,1985-10-13,1:00PM,Philadelphia Eagles,St. Louis Cardinals,30,7
-6,Sun,1985-10-13,1:00PM,Dallas Cowboys,Pittsburgh Steelers,27,13
-6,Sun,1985-10-13,1:00PM,Washington Redskins,Detroit Lions,24,3
-6,Sun,1985-10-13,1:00PM,Green Bay Packers,Minnesota Vikings,20,17
-6,Sun,1985-10-13,1:00PM,Los Angeles Rams,Tampa Bay Buccaneers,31,27
-6,Sun,1985-10-13,4:00PM,Seattle Seahawks,Atlanta Falcons,30,26
-6,Sun,1985-10-13,4:00PM,Chicago Bears,San Francisco 49ers,26,10
-6,Sun,1985-10-13,4:00PM,San Diego Chargers,Kansas City Chiefs,31,20
-6,Sun,1985-10-13,4:00PM,Los Angeles Raiders,New Orleans Saints,23,13
-6,Mon,1985-10-14,9:00PM,New York Jets,Miami Dolphins,23,7
-7,Sun,1985-10-20,1:00PM,Atlanta Falcons,New Orleans Saints,31,24
-7,Sun,1985-10-20,1:00PM,Buffalo Bills,Indianapolis Colts,21,9
-7,Sun,1985-10-20,1:00PM,Houston Oilers,Cincinnati Bengals,44,27
-7,Sun,1985-10-20,1:00PM,Los Angeles Raiders,Cleveland Browns,21,20
-7,Sun,1985-10-20,1:00PM,Pittsburgh Steelers,St. Louis Cardinals,23,10
-7,Sun,1985-10-20,1:00PM,Philadelphia Eagles,Dallas Cowboys,16,14
-7,Sun,1985-10-20,1:00PM,Detroit Lions,San Francisco 49ers,23,21
-7,Sun,1985-10-20,1:00PM,Los Angeles Rams,Kansas City Chiefs,16,0
-7,Sun,1985-10-20,1:00PM,Minnesota Vikings,San Diego Chargers,21,17
-7,Sun,1985-10-20,1:00PM,New York Giants,Washington Redskins,17,3
-7,Sun,1985-10-20,4:00PM,Denver Broncos,Seattle Seahawks,13,10
-7,Sun,1985-10-20,4:00PM,Miami Dolphins,Tampa Bay Buccaneers,41,38
-7,Sun,1985-10-20,4:00PM,New England Patriots,New York Jets,20,13
-7,Mon,1985-10-21,9:00PM,Chicago Bears,Green Bay Packers,23,7
-8,Sun,1985-10-27,1:00PM,Dallas Cowboys,Atlanta Falcons,24,10
-8,Sun,1985-10-27,1:00PM,Philadelphia Eagles,Buffalo Bills,21,17
-8,Sun,1985-10-27,1:00PM,Chicago Bears,Minnesota Vikings,27,9
-8,Sun,1985-10-27,1:00PM,Washington Redskins,Cleveland Browns,14,7
-8,Sun,1985-10-27,1:00PM,Indianapolis Colts,Green Bay Packers,37,10
-8,Sun,1985-10-27,1:00PM,Houston Oilers,St. Louis Cardinals,20,10
-8,Sun,1985-10-27,1:00PM,Denver Broncos,Kansas City Chiefs,30,10
-8,Sun,1985-10-27,1:00PM,Detroit Lions,Miami Dolphins,31,21
-8,Sun,1985-10-27,1:00PM,New England Patriots,Tampa Bay Buccaneers,32,14
-8,Sun,1985-10-27,1:00PM,New York Jets,Seattle Seahawks,17,14
-8,Sun,1985-10-27,4:00PM,Cincinnati Bengals,Pittsburgh Steelers,26,21
-8,Sun,1985-10-27,4:00PM,New York Giants,New Orleans Saints,21,13
-8,Sun,1985-10-27,4:00PM,San Francisco 49ers,Los Angeles Rams,28,14
-8,Mon,1985-10-28,9:00PM,Los Angeles Raiders,San Diego Chargers,34,21
-9,Sun,1985-11-03,1:00PM,Washington Redskins,Atlanta Falcons,44,10
-9,Sun,1985-11-03,1:00PM,Cincinnati Bengals,Buffalo Bills,23,17
-9,Sun,1985-11-03,1:00PM,Chicago Bears,Green Bay Packers,16,10
-9,Sun,1985-11-03,1:00PM,Pittsburgh Steelers,Cleveland Browns,10,9
-9,Sun,1985-11-03,1:00PM,Minnesota Vikings,Detroit Lions,16,13
-9,Sun,1985-11-03,1:00PM,Houston Oilers,Kansas City Chiefs,23,20
-9,Sun,1985-11-03,1:00PM,New England Patriots,Miami Dolphins,17,13
-9,Sun,1985-11-03,1:00PM,New York Giants,Tampa Bay Buccaneers,22,20
-9,Sun,1985-11-03,4:00PM,New York Jets,Indianapolis Colts,35,17
-9,Sun,1985-11-03,4:00PM,San Diego Chargers,Denver Broncos,30,10
-9,Sun,1985-11-03,4:00PM,Los Angeles Rams,New Orleans Saints,28,10
-9,Sun,1985-11-03,4:00PM,San Francisco 49ers,Philadelphia Eagles,24,13
-9,Sun,1985-11-03,4:00PM,Seattle Seahawks,Los Angeles Raiders,33,3
-9,Mon,1985-11-04,9:00PM,St. Louis Cardinals,Dallas Cowboys,21,10
-10,Sun,1985-11-10,1:00PM,Philadelphia Eagles,Atlanta Falcons,23,17
-10,Sun,1985-11-10,1:00PM,Buffalo Bills,Houston Oilers,20,0
-10,Sun,1985-11-10,1:00PM,Chicago Bears,Detroit Lions,24,3
-10,Sun,1985-11-10,1:00PM,Cincinnati Bengals,Cleveland Browns,27,10
-10,Sun,1985-11-10,1:00PM,New England Patriots,Indianapolis Colts,34,15
-10,Sun,1985-11-10,1:00PM,Tampa Bay Buccaneers,St. Louis Cardinals,16,0
-10,Sun,1985-11-10,1:00PM,Green Bay Packers,Minnesota Vikings,27,17
-10,Sun,1985-11-10,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,36,28
-10,Sun,1985-11-10,1:00PM,Seattle Seahawks,New Orleans Saints,27,3
-10,Sun,1985-11-10,1:00PM,New York Giants,Los Angeles Rams,24,19
-10,Sun,1985-11-10,4:00PM,Dallas Cowboys,Washington Redskins,13,7
-10,Sun,1985-11-10,4:00PM,Miami Dolphins,New York Jets,21,17
-10,Sun,1985-11-10,4:00PM,San Diego Chargers,Los Angeles Raiders,40,34
-10,Mon,1985-11-11,9:00PM,Denver Broncos,San Francisco 49ers,17,16
-11,Sun,1985-11-17,1:00PM,Atlanta Falcons,Los Angeles Rams,30,14
-11,Sun,1985-11-17,1:00PM,Cleveland Browns,Buffalo Bills,17,7
-11,Sun,1985-11-17,1:00PM,Chicago Bears,Dallas Cowboys,44,0
-11,Sun,1985-11-17,1:00PM,Miami Dolphins,Indianapolis Colts,34,20
-11,Sun,1985-11-17,1:00PM,Philadelphia Eagles,St. Louis Cardinals,24,14
-11,Sun,1985-11-17,1:00PM,Green Bay Packers,New Orleans Saints,38,14
-11,Sun,1985-11-17,1:00PM,New York Jets,Tampa Bay Buccaneers,62,28
-11,Sun,1985-11-17,1:00PM,Pittsburgh Steelers,Houston Oilers,30,7
-11,Sun,1985-11-17,4:00PM,Los Angeles Raiders,Cincinnati Bengals,13,6
-11,Sun,1985-11-17,4:00PM,Denver Broncos,San Diego Chargers,30,24
-11,Sun,1985-11-17,4:00PM,Detroit Lions,Minnesota Vikings,41,21
-11,Sun,1985-11-17,4:00PM,San Francisco 49ers,Kansas City Chiefs,31,3
-11,Sun,1985-11-17,4:00PM,New England Patriots,Seattle Seahawks,20,13
-11,Mon,1985-11-18,9:00PM,Washington Redskins,New York Giants,23,21
-12,Sun,1985-11-24,1:00PM,Chicago Bears,Atlanta Falcons,36,0
-12,Sun,1985-11-24,1:00PM,Miami Dolphins,Buffalo Bills,23,14
-12,Sun,1985-11-24,1:00PM,Cleveland Browns,Cincinnati Bengals,24,6
-12,Sun,1985-11-24,1:00PM,Tampa Bay Buccaneers,Detroit Lions,19,16
-12,Sun,1985-11-24,1:00PM,New Orleans Saints,Minnesota Vikings,30,23
-12,Sun,1985-11-24,1:00PM,New York Jets,New England Patriots,16,13
-12,Sun,1985-11-24,1:00PM,Houston Oilers,San Diego Chargers,37,35
-12,Sun,1985-11-24,1:00PM,Washington Redskins,Pittsburgh Steelers,30,23
-12,Sun,1985-11-24,4:00PM,Kansas City Chiefs,Indianapolis Colts,20,7
-12,Sun,1985-11-24,4:00PM,New York Giants,St. Louis Cardinals,34,3
-12,Sun,1985-11-24,4:00PM,Dallas Cowboys,Philadelphia Eagles,34,17
-12,Sun,1985-11-24,4:00PM,Los Angeles Raiders,Denver Broncos,31,28
-12,Sun,1985-11-24,4:00PM,Los Angeles Rams,Green Bay Packers,34,17
-12,Mon,1985-11-25,9:00PM,San Francisco 49ers,Seattle Seahawks,19,6
-13,Thu,1985-11-28,12:30PM,Detroit Lions,New York Jets,31,20
-13,Thu,1985-11-28,3:00PM,Dallas Cowboys,St. Louis Cardinals,35,17
-13,Sun,1985-12-01,1:00PM,Cincinnati Bengals,Houston Oilers,45,27
-13,Sun,1985-12-01,1:00PM,Cleveland Browns,New York Giants,35,33
-13,Sun,1985-12-01,1:00PM,New England Patriots,Indianapolis Colts,38,31
-13,Sun,1985-12-01,1:00PM,Denver Broncos,Pittsburgh Steelers,31,23
-13,Sun,1985-12-01,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,21,0
-13,Sun,1985-12-01,1:00PM,Minnesota Vikings,Philadelphia Eagles,28,23
-13,Sun,1985-12-01,1:00PM,New Orleans Saints,Los Angeles Rams,29,3
-13,Sun,1985-12-01,4:00PM,Los Angeles Raiders,Atlanta Falcons,34,24
-13,Sun,1985-12-01,4:00PM,San Diego Chargers,Buffalo Bills,40,7
-13,Sun,1985-12-01,4:00PM,Seattle Seahawks,Kansas City Chiefs,24,6
-13,Sun,1985-12-01,4:00PM,San Francisco 49ers,Washington Redskins,35,8
-13,Mon,1985-12-02,9:00PM,Miami Dolphins,Chicago Bears,38,24
-14,Sun,1985-12-08,1:00PM,Kansas City Chiefs,Atlanta Falcons,38,10
-14,Sun,1985-12-08,1:00PM,New York Jets,Buffalo Bills,27,7
-14,Sun,1985-12-08,1:00PM,Chicago Bears,Indianapolis Colts,17,10
-14,Sun,1985-12-08,1:00PM,Cincinnati Bengals,Dallas Cowboys,50,24
-14,Sun,1985-12-08,1:00PM,St. Louis Cardinals,New Orleans Saints,28,16
-14,Sun,1985-12-08,1:00PM,New England Patriots,Detroit Lions,23,6
-14,Sun,1985-12-08,1:00PM,Miami Dolphins,Green Bay Packers,34,24
-14,Sun,1985-12-08,1:00PM,Washington Redskins,Philadelphia Eagles,17,12
-14,Sun,1985-12-08,4:00PM,Seattle Seahawks,Cleveland Browns,31,13
-14,Sun,1985-12-08,4:00PM,Los Angeles Raiders,Denver Broncos,17,14
-14,Sun,1985-12-08,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,26,7
-14,Sun,1985-12-08,4:00PM,New York Giants,Houston Oilers,35,14
-14,Sun,1985-12-08,9:00PM,San Diego Chargers,Pittsburgh Steelers,54,44
-14,Mon,1985-12-09,9:00PM,Los Angeles Rams,San Francisco 49ers,27,20
-15,Sat,1985-12-14,12:30PM,Chicago Bears,New York Jets,19,6
-15,Sat,1985-12-14,4:00PM,Denver Broncos,Kansas City Chiefs,14,13
-15,Sun,1985-12-15,1:00PM,Atlanta Falcons,Minnesota Vikings,14,13
-15,Sun,1985-12-15,1:00PM,Pittsburgh Steelers,Buffalo Bills,30,24
-15,Sun,1985-12-15,1:00PM,Washington Redskins,Cincinnati Bengals,27,24
-15,Sun,1985-12-15,1:00PM,Cleveland Browns,Houston Oilers,28,21
-15,Sun,1985-12-15,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers,31,23
-15,Sun,1985-12-15,1:00PM,Dallas Cowboys,New York Giants,28,21
-15,Sun,1985-12-15,1:00PM,Green Bay Packers,Detroit Lions,26,23
-15,Sun,1985-12-15,1:00PM,San Francisco 49ers,New Orleans Saints,31,19
-15,Sun,1985-12-15,4:00PM,Los Angeles Rams,St. Louis Cardinals,46,14
-15,Sun,1985-12-15,4:00PM,San Diego Chargers,Philadelphia Eagles,20,14
-15,Sun,1985-12-15,4:00PM,Los Angeles Raiders,Seattle Seahawks,13,3
-15,Mon,1985-12-16,9:00PM,Miami Dolphins,New England Patriots,30,27
-16,Fri,1985-12-20,8:00PM,Denver Broncos,Seattle Seahawks,27,24
-16,Sat,1985-12-21,12:30PM,New York Giants,Pittsburgh Steelers,28,10
-16,Sat,1985-12-21,4:00PM,Washington Redskins,St. Louis Cardinals,27,16
-16,Sun,1985-12-22,1:00PM,Atlanta Falcons,New Orleans Saints,16,10
-16,Sun,1985-12-22,1:00PM,Miami Dolphins,Buffalo Bills,28,0
-16,Sun,1985-12-22,1:00PM,Chicago Bears,Detroit Lions,37,17
-16,Sun,1985-12-22,1:00PM,New England Patriots,Cincinnati Bengals,34,23
-16,Sun,1985-12-22,1:00PM,New York Jets,Cleveland Browns,37,10
-16,Sun,1985-12-22,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,20,17
-16,Sun,1985-12-22,1:00PM,Kansas City Chiefs,San Diego Chargers,38,34
-16,Sun,1985-12-22,1:00PM,Philadelphia Eagles,Minnesota Vikings,37,35
-16,Sun,1985-12-22,4:00PM,Indianapolis Colts,Houston Oilers,34,16
-16,Sun,1985-12-22,4:00PM,San Francisco 49ers,Dallas Cowboys,31,16
-16,Mon,1985-12-23,9:00PM,Los Angeles Raiders,Los Angeles Rams,16,6
-WildCard,Sat,1985-12-28,4:00PM,New England Patriots,New York Jets,26,14
-WildCard,Sun,1985-12-29,1:00PM,New York Giants,San Francisco 49ers,17,3
-Division,Sat,1986-01-04,12:30PM,Miami Dolphins,Cleveland Browns,24,21
-Division,Sat,1986-01-04,4:00PM,Los Angeles Rams,Dallas Cowboys,20,0
-Division,Sun,1986-01-05,12:30PM,Chicago Bears,New York Giants,21,0
-Division,Sun,1986-01-05,4:00PM,New England Patriots,Los Angeles Raiders,27,20
-ConfChamp,Sun,1986-01-12,12:30PM,Chicago Bears,Los Angeles Rams,24,0
-ConfChamp,Sun,1986-01-12,4:00PM,New England Patriots,Miami Dolphins,31,14
-SuperBowl,Sun,1986-01-26,5:00PM,Chicago Bears,New England Patriots,46,10
+,Week,Day,Date,Time,Winner,Loser,PtsW,PtsL
+0,1,Sun,1985-09-08,1:00PM,Detroit Lions,Atlanta Falcons,28,27
+1,1,Sun,1985-09-08,1:00PM,Chicago Bears,Tampa Bay Buccaneers,38,28
+2,1,Sun,1985-09-08,1:00PM,Seattle Seahawks,Cincinnati Bengals,28,24
+3,1,Sun,1985-09-08,1:00PM,St. Louis Cardinals,Cleveland Browns,27,24
+4,1,Sun,1985-09-08,1:00PM,Pittsburgh Steelers,Indianapolis Colts,45,3
+5,1,Sun,1985-09-08,1:00PM,New England Patriots,Green Bay Packers,26,20
+6,1,Sun,1985-09-08,1:00PM,Kansas City Chiefs,New Orleans Saints,47,27
+7,1,Sun,1985-09-08,1:00PM,Houston Oilers,Miami Dolphins,26,23
+8,1,Sun,1985-09-08,1:00PM,Minnesota Vikings,San Francisco 49ers,28,21
+9,1,Sun,1985-09-08,1:00PM,New York Giants,Philadelphia Eagles,21,0
+10,1,Sun,1985-09-08,4:00PM,San Diego Chargers,Buffalo Bills,14,9
+11,1,Sun,1985-09-08,4:00PM,Los Angeles Rams,Denver Broncos,20,16
+12,1,Sun,1985-09-08,4:00PM,Los Angeles Raiders,New York Jets,31,0
+13,1,Mon,1985-09-09,9:00PM,Dallas Cowboys,Washington Redskins,44,14
+14,2,Thu,1985-09-12,8:00PM,Kansas City Chiefs,Los Angeles Raiders,36,20
+15,2,Sun,1985-09-15,1:00PM,New York Jets,Buffalo Bills,42,3
+16,2,Sun,1985-09-15,1:00PM,Chicago Bears,New England Patriots,20,7
+17,2,Sun,1985-09-15,1:00PM,St. Louis Cardinals,Cincinnati Bengals,41,27
+18,2,Sun,1985-09-15,1:00PM,Miami Dolphins,Indianapolis Colts,30,13
+19,2,Sun,1985-09-15,1:00PM,Detroit Lions,Dallas Cowboys,26,21
+20,2,Sun,1985-09-15,1:00PM,Washington Redskins,Houston Oilers,16,13
+21,2,Sun,1985-09-15,1:00PM,Los Angeles Rams,Philadelphia Eagles,17,6
+22,2,Sun,1985-09-15,4:00PM,San Francisco 49ers,Atlanta Falcons,35,16
+23,2,Sun,1985-09-15,4:00PM,Denver Broncos,New Orleans Saints,34,23
+24,2,Sun,1985-09-15,4:00PM,Green Bay Packers,New York Giants,23,20
+25,2,Sun,1985-09-15,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,31,16
+26,2,Sun,1985-09-15,4:00PM,Seattle Seahawks,San Diego Chargers,49,35
+27,2,Mon,1985-09-16,9:00PM,Cleveland Browns,Pittsburgh Steelers,17,7
+28,3,Thu,1985-09-19,8:00PM,Chicago Bears,Minnesota Vikings,33,24
+29,3,Sun,1985-09-22,1:00PM,Denver Broncos,Atlanta Falcons,44,28
+30,3,Sun,1985-09-22,1:00PM,New England Patriots,Buffalo Bills,17,14
+31,3,Sun,1985-09-22,1:00PM,San Diego Chargers,Cincinnati Bengals,44,41
+32,3,Sun,1985-09-22,1:00PM,Dallas Cowboys,Cleveland Browns,20,7
+33,3,Sun,1985-09-22,1:00PM,Indianapolis Colts,Detroit Lions,14,6
+34,3,Sun,1985-09-22,1:00PM,New York Giants,St. Louis Cardinals,27,17
+35,3,Sun,1985-09-22,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,20,13
+36,3,Sun,1985-09-22,1:00PM,Pittsburgh Steelers,Houston Oilers,20,0
+37,3,Sun,1985-09-22,1:00PM,Philadelphia Eagles,Washington Redskins,19,6
+38,3,Sun,1985-09-22,4:00PM,New York Jets,Green Bay Packers,24,3
+39,3,Sun,1985-09-22,4:00PM,Miami Dolphins,Kansas City Chiefs,31,0
+40,3,Sun,1985-09-22,4:00PM,San Francisco 49ers,Los Angeles Raiders,34,10
+41,3,Mon,1985-09-23,9:00PM,Los Angeles Rams,Seattle Seahawks,35,24
+42,4,Sun,1985-09-29,1:00PM,Minnesota Vikings,Buffalo Bills,27,20
+43,4,Sun,1985-09-29,1:00PM,Chicago Bears,Washington Redskins,45,10
+44,4,Sun,1985-09-29,1:00PM,St. Louis Cardinals,Green Bay Packers,43,28
+45,4,Sun,1985-09-29,1:00PM,Dallas Cowboys,Houston Oilers,17,10
+46,4,Sun,1985-09-29,1:00PM,Detroit Lions,Tampa Bay Buccaneers,30,9
+47,4,Sun,1985-09-29,1:00PM,Kansas City Chiefs,Seattle Seahawks,28,7
+48,4,Sun,1985-09-29,1:00PM,Los Angeles Raiders,New England Patriots,35,20
+49,4,Sun,1985-09-29,1:00PM,New York Giants,Philadelphia Eagles,16,10
+50,4,Sun,1985-09-29,4:00PM,Los Angeles Rams,Atlanta Falcons,17,6
+51,4,Sun,1985-09-29,4:00PM,Cleveland Browns,San Diego Chargers,21,7
+52,4,Sun,1985-09-29,4:00PM,New York Jets,Indianapolis Colts,25,20
+53,4,Sun,1985-09-29,4:00PM,Miami Dolphins,Denver Broncos,30,26
+54,4,Sun,1985-09-29,4:00PM,New Orleans Saints,San Francisco 49ers,20,17
+55,4,Mon,1985-09-30,9:00PM,Cincinnati Bengals,Pittsburgh Steelers,37,24
+56,5,Sun,1985-10-06,1:00PM,San Francisco 49ers,Atlanta Falcons,38,17
+57,5,Sun,1985-10-06,1:00PM,Indianapolis Colts,Buffalo Bills,49,17
+58,5,Sun,1985-10-06,1:00PM,Chicago Bears,Tampa Bay Buccaneers,27,19
+59,5,Sun,1985-10-06,1:00PM,Cleveland Browns,New England Patriots,24,20
+60,5,Sun,1985-10-06,1:00PM,Green Bay Packers,Detroit Lions,43,10
+61,5,Sun,1985-10-06,1:00PM,Miami Dolphins,Pittsburgh Steelers,24,20
+62,5,Sun,1985-10-06,1:00PM,New Orleans Saints,Philadelphia Eagles,23,21
+63,5,Sun,1985-10-06,4:00PM,New York Jets,Cincinnati Bengals,29,20
+64,5,Sun,1985-10-06,4:00PM,Denver Broncos,Houston Oilers,31,20
+65,5,Sun,1985-10-06,4:00PM,Los Angeles Raiders,Kansas City Chiefs,19,10
+66,5,Sun,1985-10-06,4:00PM,Los Angeles Rams,Minnesota Vikings,13,10
+67,5,Sun,1985-10-06,4:00PM,Seattle Seahawks,San Diego Chargers,26,21
+68,5,Sun,1985-10-06,9:00PM,Dallas Cowboys,New York Giants,30,29
+69,5,Mon,1985-10-07,9:00PM,Washington Redskins,St. Louis Cardinals,27,10
+70,6,Sun,1985-10-13,1:00PM,New England Patriots,Buffalo Bills,14,3
+71,6,Sun,1985-10-13,1:00PM,Cincinnati Bengals,New York Giants,35,30
+72,6,Sun,1985-10-13,1:00PM,Cleveland Browns,Houston Oilers,21,6
+73,6,Sun,1985-10-13,1:00PM,Denver Broncos,Indianapolis Colts,15,10
+74,6,Sun,1985-10-13,1:00PM,Philadelphia Eagles,St. Louis Cardinals,30,7
+75,6,Sun,1985-10-13,1:00PM,Dallas Cowboys,Pittsburgh Steelers,27,13
+76,6,Sun,1985-10-13,1:00PM,Washington Redskins,Detroit Lions,24,3
+77,6,Sun,1985-10-13,1:00PM,Green Bay Packers,Minnesota Vikings,20,17
+78,6,Sun,1985-10-13,1:00PM,Los Angeles Rams,Tampa Bay Buccaneers,31,27
+79,6,Sun,1985-10-13,4:00PM,Seattle Seahawks,Atlanta Falcons,30,26
+80,6,Sun,1985-10-13,4:00PM,Chicago Bears,San Francisco 49ers,26,10
+81,6,Sun,1985-10-13,4:00PM,San Diego Chargers,Kansas City Chiefs,31,20
+82,6,Sun,1985-10-13,4:00PM,Los Angeles Raiders,New Orleans Saints,23,13
+83,6,Mon,1985-10-14,9:00PM,New York Jets,Miami Dolphins,23,7
+84,7,Sun,1985-10-20,1:00PM,Atlanta Falcons,New Orleans Saints,31,24
+85,7,Sun,1985-10-20,1:00PM,Buffalo Bills,Indianapolis Colts,21,9
+86,7,Sun,1985-10-20,1:00PM,Houston Oilers,Cincinnati Bengals,44,27
+87,7,Sun,1985-10-20,1:00PM,Los Angeles Raiders,Cleveland Browns,21,20
+88,7,Sun,1985-10-20,1:00PM,Pittsburgh Steelers,St. Louis Cardinals,23,10
+89,7,Sun,1985-10-20,1:00PM,Philadelphia Eagles,Dallas Cowboys,16,14
+90,7,Sun,1985-10-20,1:00PM,Detroit Lions,San Francisco 49ers,23,21
+91,7,Sun,1985-10-20,1:00PM,Los Angeles Rams,Kansas City Chiefs,16,0
+92,7,Sun,1985-10-20,1:00PM,Minnesota Vikings,San Diego Chargers,21,17
+93,7,Sun,1985-10-20,1:00PM,New York Giants,Washington Redskins,17,3
+94,7,Sun,1985-10-20,4:00PM,Denver Broncos,Seattle Seahawks,13,10
+95,7,Sun,1985-10-20,4:00PM,Miami Dolphins,Tampa Bay Buccaneers,41,38
+96,7,Sun,1985-10-20,4:00PM,New England Patriots,New York Jets,20,13
+97,7,Mon,1985-10-21,9:00PM,Chicago Bears,Green Bay Packers,23,7
+98,8,Sun,1985-10-27,1:00PM,Dallas Cowboys,Atlanta Falcons,24,10
+99,8,Sun,1985-10-27,1:00PM,Philadelphia Eagles,Buffalo Bills,21,17
+100,8,Sun,1985-10-27,1:00PM,Chicago Bears,Minnesota Vikings,27,9
+101,8,Sun,1985-10-27,1:00PM,Washington Redskins,Cleveland Browns,14,7
+102,8,Sun,1985-10-27,1:00PM,Indianapolis Colts,Green Bay Packers,37,10
+103,8,Sun,1985-10-27,1:00PM,Houston Oilers,St. Louis Cardinals,20,10
+104,8,Sun,1985-10-27,1:00PM,Denver Broncos,Kansas City Chiefs,30,10
+105,8,Sun,1985-10-27,1:00PM,Detroit Lions,Miami Dolphins,31,21
+106,8,Sun,1985-10-27,1:00PM,New England Patriots,Tampa Bay Buccaneers,32,14
+107,8,Sun,1985-10-27,1:00PM,New York Jets,Seattle Seahawks,17,14
+108,8,Sun,1985-10-27,4:00PM,Cincinnati Bengals,Pittsburgh Steelers,26,21
+109,8,Sun,1985-10-27,4:00PM,New York Giants,New Orleans Saints,21,13
+110,8,Sun,1985-10-27,4:00PM,San Francisco 49ers,Los Angeles Rams,28,14
+111,8,Mon,1985-10-28,9:00PM,Los Angeles Raiders,San Diego Chargers,34,21
+112,9,Sun,1985-11-03,1:00PM,Washington Redskins,Atlanta Falcons,44,10
+113,9,Sun,1985-11-03,1:00PM,Cincinnati Bengals,Buffalo Bills,23,17
+114,9,Sun,1985-11-03,1:00PM,Chicago Bears,Green Bay Packers,16,10
+115,9,Sun,1985-11-03,1:00PM,Pittsburgh Steelers,Cleveland Browns,10,9
+116,9,Sun,1985-11-03,1:00PM,Minnesota Vikings,Detroit Lions,16,13
+117,9,Sun,1985-11-03,1:00PM,Houston Oilers,Kansas City Chiefs,23,20
+118,9,Sun,1985-11-03,1:00PM,New England Patriots,Miami Dolphins,17,13
+119,9,Sun,1985-11-03,1:00PM,New York Giants,Tampa Bay Buccaneers,22,20
+120,9,Sun,1985-11-03,4:00PM,New York Jets,Indianapolis Colts,35,17
+121,9,Sun,1985-11-03,4:00PM,San Diego Chargers,Denver Broncos,30,10
+122,9,Sun,1985-11-03,4:00PM,Los Angeles Rams,New Orleans Saints,28,10
+123,9,Sun,1985-11-03,4:00PM,San Francisco 49ers,Philadelphia Eagles,24,13
+124,9,Sun,1985-11-03,4:00PM,Seattle Seahawks,Los Angeles Raiders,33,3
+125,9,Mon,1985-11-04,9:00PM,St. Louis Cardinals,Dallas Cowboys,21,10
+126,10,Sun,1985-11-10,1:00PM,Philadelphia Eagles,Atlanta Falcons,23,17
+127,10,Sun,1985-11-10,1:00PM,Buffalo Bills,Houston Oilers,20,0
+128,10,Sun,1985-11-10,1:00PM,Chicago Bears,Detroit Lions,24,3
+129,10,Sun,1985-11-10,1:00PM,Cincinnati Bengals,Cleveland Browns,27,10
+130,10,Sun,1985-11-10,1:00PM,New England Patriots,Indianapolis Colts,34,15
+131,10,Sun,1985-11-10,1:00PM,Tampa Bay Buccaneers,St. Louis Cardinals,16,0
+132,10,Sun,1985-11-10,1:00PM,Green Bay Packers,Minnesota Vikings,27,17
+133,10,Sun,1985-11-10,1:00PM,Pittsburgh Steelers,Kansas City Chiefs,36,28
+134,10,Sun,1985-11-10,1:00PM,Seattle Seahawks,New Orleans Saints,27,3
+135,10,Sun,1985-11-10,1:00PM,New York Giants,Los Angeles Rams,24,19
+136,10,Sun,1985-11-10,4:00PM,Dallas Cowboys,Washington Redskins,13,7
+137,10,Sun,1985-11-10,4:00PM,Miami Dolphins,New York Jets,21,17
+138,10,Sun,1985-11-10,4:00PM,San Diego Chargers,Los Angeles Raiders,40,34
+139,10,Mon,1985-11-11,9:00PM,Denver Broncos,San Francisco 49ers,17,16
+140,11,Sun,1985-11-17,1:00PM,Atlanta Falcons,Los Angeles Rams,30,14
+141,11,Sun,1985-11-17,1:00PM,Cleveland Browns,Buffalo Bills,17,7
+142,11,Sun,1985-11-17,1:00PM,Chicago Bears,Dallas Cowboys,44,0
+143,11,Sun,1985-11-17,1:00PM,Miami Dolphins,Indianapolis Colts,34,20
+144,11,Sun,1985-11-17,1:00PM,Philadelphia Eagles,St. Louis Cardinals,24,14
+145,11,Sun,1985-11-17,1:00PM,Green Bay Packers,New Orleans Saints,38,14
+146,11,Sun,1985-11-17,1:00PM,New York Jets,Tampa Bay Buccaneers,62,28
+147,11,Sun,1985-11-17,1:00PM,Pittsburgh Steelers,Houston Oilers,30,7
+148,11,Sun,1985-11-17,4:00PM,Los Angeles Raiders,Cincinnati Bengals,13,6
+149,11,Sun,1985-11-17,4:00PM,Denver Broncos,San Diego Chargers,30,24
+150,11,Sun,1985-11-17,4:00PM,Detroit Lions,Minnesota Vikings,41,21
+151,11,Sun,1985-11-17,4:00PM,San Francisco 49ers,Kansas City Chiefs,31,3
+152,11,Sun,1985-11-17,4:00PM,New England Patriots,Seattle Seahawks,20,13
+153,11,Mon,1985-11-18,9:00PM,Washington Redskins,New York Giants,23,21
+154,12,Sun,1985-11-24,1:00PM,Chicago Bears,Atlanta Falcons,36,0
+155,12,Sun,1985-11-24,1:00PM,Miami Dolphins,Buffalo Bills,23,14
+156,12,Sun,1985-11-24,1:00PM,Cleveland Browns,Cincinnati Bengals,24,6
+157,12,Sun,1985-11-24,1:00PM,Tampa Bay Buccaneers,Detroit Lions,19,16
+158,12,Sun,1985-11-24,1:00PM,New Orleans Saints,Minnesota Vikings,30,23
+159,12,Sun,1985-11-24,1:00PM,New York Jets,New England Patriots,16,13
+160,12,Sun,1985-11-24,1:00PM,Houston Oilers,San Diego Chargers,37,35
+161,12,Sun,1985-11-24,1:00PM,Washington Redskins,Pittsburgh Steelers,30,23
+162,12,Sun,1985-11-24,4:00PM,Kansas City Chiefs,Indianapolis Colts,20,7
+163,12,Sun,1985-11-24,4:00PM,New York Giants,St. Louis Cardinals,34,3
+164,12,Sun,1985-11-24,4:00PM,Dallas Cowboys,Philadelphia Eagles,34,17
+165,12,Sun,1985-11-24,4:00PM,Los Angeles Raiders,Denver Broncos,31,28
+166,12,Sun,1985-11-24,4:00PM,Los Angeles Rams,Green Bay Packers,34,17
+167,12,Mon,1985-11-25,9:00PM,San Francisco 49ers,Seattle Seahawks,19,6
+168,13,Thu,1985-11-28,12:30PM,Detroit Lions,New York Jets,31,20
+169,13,Thu,1985-11-28,3:00PM,Dallas Cowboys,St. Louis Cardinals,35,17
+170,13,Sun,1985-12-01,1:00PM,Cincinnati Bengals,Houston Oilers,45,27
+171,13,Sun,1985-12-01,1:00PM,Cleveland Browns,New York Giants,35,33
+172,13,Sun,1985-12-01,1:00PM,New England Patriots,Indianapolis Colts,38,31
+173,13,Sun,1985-12-01,1:00PM,Denver Broncos,Pittsburgh Steelers,31,23
+174,13,Sun,1985-12-01,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,21,0
+175,13,Sun,1985-12-01,1:00PM,Minnesota Vikings,Philadelphia Eagles,28,23
+176,13,Sun,1985-12-01,1:00PM,New Orleans Saints,Los Angeles Rams,29,3
+177,13,Sun,1985-12-01,4:00PM,Los Angeles Raiders,Atlanta Falcons,34,24
+178,13,Sun,1985-12-01,4:00PM,San Diego Chargers,Buffalo Bills,40,7
+179,13,Sun,1985-12-01,4:00PM,Seattle Seahawks,Kansas City Chiefs,24,6
+180,13,Sun,1985-12-01,4:00PM,San Francisco 49ers,Washington Redskins,35,8
+181,13,Mon,1985-12-02,9:00PM,Miami Dolphins,Chicago Bears,38,24
+182,14,Sun,1985-12-08,1:00PM,Kansas City Chiefs,Atlanta Falcons,38,10
+183,14,Sun,1985-12-08,1:00PM,New York Jets,Buffalo Bills,27,7
+184,14,Sun,1985-12-08,1:00PM,Chicago Bears,Indianapolis Colts,17,10
+185,14,Sun,1985-12-08,1:00PM,Cincinnati Bengals,Dallas Cowboys,50,24
+186,14,Sun,1985-12-08,1:00PM,St. Louis Cardinals,New Orleans Saints,28,16
+187,14,Sun,1985-12-08,1:00PM,New England Patriots,Detroit Lions,23,6
+188,14,Sun,1985-12-08,1:00PM,Miami Dolphins,Green Bay Packers,34,24
+189,14,Sun,1985-12-08,1:00PM,Washington Redskins,Philadelphia Eagles,17,12
+190,14,Sun,1985-12-08,4:00PM,Seattle Seahawks,Cleveland Browns,31,13
+191,14,Sun,1985-12-08,4:00PM,Los Angeles Raiders,Denver Broncos,17,14
+192,14,Sun,1985-12-08,4:00PM,Minnesota Vikings,Tampa Bay Buccaneers,26,7
+193,14,Sun,1985-12-08,4:00PM,New York Giants,Houston Oilers,35,14
+194,14,Sun,1985-12-08,9:00PM,San Diego Chargers,Pittsburgh Steelers,54,44
+195,14,Mon,1985-12-09,9:00PM,Los Angeles Rams,San Francisco 49ers,27,20
+196,15,Sat,1985-12-14,12:30PM,Chicago Bears,New York Jets,19,6
+197,15,Sat,1985-12-14,4:00PM,Denver Broncos,Kansas City Chiefs,14,13
+198,15,Sun,1985-12-15,1:00PM,Atlanta Falcons,Minnesota Vikings,14,13
+199,15,Sun,1985-12-15,1:00PM,Pittsburgh Steelers,Buffalo Bills,30,24
+200,15,Sun,1985-12-15,1:00PM,Washington Redskins,Cincinnati Bengals,27,24
+201,15,Sun,1985-12-15,1:00PM,Cleveland Browns,Houston Oilers,28,21
+202,15,Sun,1985-12-15,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers,31,23
+203,15,Sun,1985-12-15,1:00PM,Dallas Cowboys,New York Giants,28,21
+204,15,Sun,1985-12-15,1:00PM,Green Bay Packers,Detroit Lions,26,23
+205,15,Sun,1985-12-15,1:00PM,San Francisco 49ers,New Orleans Saints,31,19
+206,15,Sun,1985-12-15,4:00PM,Los Angeles Rams,St. Louis Cardinals,46,14
+207,15,Sun,1985-12-15,4:00PM,San Diego Chargers,Philadelphia Eagles,20,14
+208,15,Sun,1985-12-15,4:00PM,Los Angeles Raiders,Seattle Seahawks,13,3
+209,15,Mon,1985-12-16,9:00PM,Miami Dolphins,New England Patriots,30,27
+210,16,Fri,1985-12-20,8:00PM,Denver Broncos,Seattle Seahawks,27,24
+211,16,Sat,1985-12-21,12:30PM,New York Giants,Pittsburgh Steelers,28,10
+212,16,Sat,1985-12-21,4:00PM,Washington Redskins,St. Louis Cardinals,27,16
+213,16,Sun,1985-12-22,1:00PM,Atlanta Falcons,New Orleans Saints,16,10
+214,16,Sun,1985-12-22,1:00PM,Miami Dolphins,Buffalo Bills,28,0
+215,16,Sun,1985-12-22,1:00PM,Chicago Bears,Detroit Lions,37,17
+216,16,Sun,1985-12-22,1:00PM,New England Patriots,Cincinnati Bengals,34,23
+217,16,Sun,1985-12-22,1:00PM,New York Jets,Cleveland Browns,37,10
+218,16,Sun,1985-12-22,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,20,17
+219,16,Sun,1985-12-22,1:00PM,Kansas City Chiefs,San Diego Chargers,38,34
+220,16,Sun,1985-12-22,1:00PM,Philadelphia Eagles,Minnesota Vikings,37,35
+221,16,Sun,1985-12-22,4:00PM,Indianapolis Colts,Houston Oilers,34,16
+222,16,Sun,1985-12-22,4:00PM,San Francisco 49ers,Dallas Cowboys,31,16
+223,16,Mon,1985-12-23,9:00PM,Los Angeles Raiders,Los Angeles Rams,16,6
+224,WildCard,Sat,1985-12-28,4:00PM,New England Patriots,New York Jets,26,14
+225,WildCard,Sun,1985-12-29,1:00PM,New York Giants,San Francisco 49ers,17,3
+226,Division,Sat,1986-01-04,12:30PM,Miami Dolphins,Cleveland Browns,24,21
+227,Division,Sat,1986-01-04,4:00PM,Los Angeles Rams,Dallas Cowboys,20,0
+228,Division,Sun,1986-01-05,12:30PM,Chicago Bears,New York Giants,21,0
+229,Division,Sun,1986-01-05,4:00PM,New England Patriots,Los Angeles Raiders,27,20
+230,ConfChamp,Sun,1986-01-12,12:30PM,Chicago Bears,Los Angeles Rams,24,0
+231,ConfChamp,Sun,1986-01-12,4:00PM,New England Patriots,Miami Dolphins,31,14
+232,SuperBowl,Sun,1986-01-26,5:00PM,Chicago Bears,New England Patriots,46,10

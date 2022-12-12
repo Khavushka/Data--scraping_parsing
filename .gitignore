@@ -9,3 +9,4 @@ Created on Thu Nov 17 11:43:25 2022
 *.html
 *.data
 *.season
+*.__pycache__
